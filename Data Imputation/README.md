@@ -1,4 +1,4 @@
-Data imputation was performed 5 different ways.
+Data imputation was performed 5 different ways in order to produce two datasets each, one for training and one for testing. 
 
 File Name  | Data Imputation Technique 
 ------------- | -----------------------------------
