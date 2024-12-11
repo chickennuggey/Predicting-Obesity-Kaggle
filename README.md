@@ -1,1 +1,2 @@
-# Predicting-Obesity-Kaggle-
+# Predicting Obesity (Kaggle Competition)
+
