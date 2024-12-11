@@ -1,0 +1,253 @@
+---
+title: "STATS 101C FINAL PROJECT IMPUTATION"
+author: "Kevin Ngo 405990268"
+date: "2024-11-26"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# Load necessary libraries
+library(dplyr)
+library(Amelia)   # For Amelia imputation
+library(mice)     # For MICE imputation
+```
+
+Import data
+```{r}
+# Read in data
+train <- read.csv('ObesityTrain2.csv')
+test <- read.csv('ObesityTestNoY2.csv')
+
+# Rename the column using colnames
+colnames(train)[colnames(train) == "O.train.C...30."] <- "ObStatus"
+```
+
+Get numeric and categorical columns and convert categorical variables to factors
+```{r}
+# Get numerical and categorical cols
+
+numeric_columns <- sapply(train, is.numeric)
+numeric_column_names <- names(train)[numeric_columns]
+
+categorical_columns <- sapply(train, function(col) is.factor(col) || is.character(col))
+categorical_column_names <- names(train)[categorical_columns]
+
+# convert categorical cols to factor
+train[sapply(train, is.character)] <- lapply(train[sapply(train, is.character)], as.factor)
+
+sapply(train, class)
+
+```
+Continuous Imputation Functions
+```{r}
+# Impute continuous variables using mean
+impute_cont_mean <- function(data, columns) {
+  for (col in columns) {
+    if (is.numeric(data[[col]])) {
+      data[[col]][is.na(data[[col]])] <- mean(data[[col]], na.rm = TRUE)
+    } else {
+      warning(paste("Skipping column", col, "- not numeric"))
+    }
+  }
+  return(data)
+}
+
+# Impute continuous variables using median
+impute_cont_median <- function(data, columns) {
+  data[columns] <- lapply(data[columns], function(col) {
+    ifelse(is.na(col), median(col, na.rm = TRUE), col)
+  })
+  return(data)
+}
+
+# Impute continuous variables using Amelia
+impute_cont_amelia <- function(data, columns) {
+  imputed_data <- amelia(data[columns], m = 1)$imputations[[1]]
+  data[columns] <- imputed_data
+  return(data)
+}
+
+# Impute continuous variables using MICE
+impute_cont_mice <- function(data, columns) {
+  # Perform MICE imputation only on specified columns
+  imputed <- mice(data[columns], m = 1, method = "pmm", printFlag = FALSE)
+  
+  # Get the complete dataset with imputed values
+  imputed_data <- complete(imputed)
+  
+  # Replace only the specified columns in the original dataset
+  data[columns] <- imputed_data
+  return(data)
+}
+
+
+```
+
+Categorical Imputation Functions
+```{r}
+# Helper function to find mode
+find_mode <- function(x) {
+  ux <- unique(na.omit(x))
+  ux[which.max(tabulate(match(x, ux)))]
+}
+
+# Impute categorical variables using mode
+impute_cat_mode <- function(data, columns) {
+  data[columns] <- lapply(data[columns], function(col) {
+    if (is.factor(col) || is.character(col)) {
+      mode_value <- find_mode(col)
+      col[is.na(col)] <- mode_value
+    }
+    return(col)
+  })
+  return(data)
+}
+
+
+# Impute categorical variables using existing class proportions
+impute_cat_proportions <- function(data, columns) {
+  data[columns] <- lapply(data[columns], function(col) {
+    if (any(is.na(col))) {
+      proportions <- prop.table(table(na.omit(col)))
+      imputed_values <- sample(names(proportions), size = sum(is.na(col)), replace = TRUE, prob = proportions)
+      col[is.na(col)] <- imputed_values
+    }
+    return(col)
+  })
+  return(data)
+}
+
+# Impute categorical variables using MICE
+impute_cat_mice <- function(data, columns) {
+  # Perform MICE imputation only on specified columns
+  imputed <- mice(data[columns], m = 1, method = "polyreg", printFlag = FALSE)
+  
+  # Get the complete dataset with imputed values
+  imputed_data <- complete(imputed)
+  
+  # Replace only the specified columns in the original dataset
+  data[columns] <- imputed_data
+  return(data)
+}
+
+# Impute categorical variables using Amelia
+impute_cat_amelia <- function(data, columns) {
+  # Ensure categorical columns are factors
+  data[columns] <- lapply(data[columns], function(col) {
+    if (!is.factor(col)) {
+      col <- as.factor(col)
+    }
+    return(col)
+  })
+  
+  # Perform Amelia imputation on selected columns
+  imputed_data <- amelia(data[columns], m = 1, idvars = NULL, noms = columns)$imputations[[1]]
+  
+  # Ensure imputed columns remain factors
+  imputed_data <- lapply(imputed_data, function(col) {
+    col <- as.factor(col)
+    return(col)
+  })
+  
+  # Replace original columns with imputed columns
+  data[columns] <- imputed_data
+  
+  return(data)
+}
+
+
+```
+
+Creating imputed datasets
+```{r}
+# Continuous imputed with mean, Cat imputed with mode
+train_mean_mode <- impute_cont_mean(train, numeric_column_names)
+train_mean_mode <- impute_cat_mode(train_mean_mode, categorical_column_names)
+test_mean_mode <- impute_cont_mean(test, numeric_column_names)
+test_mean_mode <- impute_cat_mode(test_mean_mode, categorical_column_names[categorical_column_names != 'ObStatus'])
+write.csv(train_mean_mode, "train_mean_mode.csv", row.names=FALSE)
+write.csv(test_mean_mode, "test_mean_mode.csv", row.names=FALSE)
+# Count total NA values
+sum(is.na(train_mean_mode))
+sum(is.na(test_mean_mode))
+```
+
+```{r}
+# Cont -> mice, Cat -> proportions
+train_mice_prop <- impute_cont_mice(train, numeric_column_names)
+train_mice_prop <- impute_cat_proportions(train_mice_prop, categorical_column_names)
+test_mice_prop <- impute_cont_mice(test, numeric_column_names)
+test_mice_prop <- impute_cat_proportions(test_mice_prop, categorical_column_names[categorical_column_names != 'ObStatus'])
+write.csv(train_mean_mode, "train_mice_prop.csv", row.names=FALSE)
+write.csv(test_mean_mode, "test_mice_prop.csv", row.names=FALSE)
+# Count total NA values
+sum(is.na(train_mice_prop))
+sum(is.na(test_mice_prop))
+```
+```{r}
+# Amelia
+train_amelia <- impute_cont_amelia(train, numeric_column_names)
+train_amelia <- impute_cat_amelia(train_amelia, categorical_column_names)
+test_amelia <- impute_cont_amelia(test, numeric_column_names)
+test_amelia <- impute_cont_amelia(test_amelia, categorical_column_names[categorical_column_names != 'ObStatus'])
+write.csv(train_mean_mode, "train_amelia.csv", row.names=FALSE)
+write.csv(test_mean_mode, "test_amelia.csv", row.names=FALSE)
+sum(is.na(train_amelia))
+sum(is.na(test_amelia))
+```
+
+```{r}
+# Continuous imputed with mean, Cat imputed with proportions
+train_mean_prop <- impute_cont_mean(train, numeric_column_names)
+train_mean_prop <- impute_cat_mode(train_mean_prop, categorical_column_names)
+test_mean_prop <- impute_cont_mean(test, numeric_column_names)
+test_mean_prop <- impute_cat_proportions(test_mean_mode, categorical_column_names[categorical_column_names != 'ObStatus'])
+write.csv(train_mean_prop, "train_mean_prop.csv", row.names=FALSE)
+write.csv(test_mean_prop, "test_mean_prop.csv", row.names=FALSE)
+# Count total NA values
+sum(is.na(train_mean_prop))
+sum(is.na(test_mean_prop))
+```
+
+```{r}
+# Continuous imputed with mean, Cat imputed with proportions
+train_median_prop <- impute_cont_median(train, numeric_column_names)
+train_median_prop <- impute_cat_mode(train_median_prop, categorical_column_names)
+test_median_prop <- impute_cont_median(test, numeric_column_names)
+test_median_prop <- impute_cat_proportions(test_mean_mode, categorical_column_names[categorical_column_names != 'ObStatus'])
+write.csv(train_median_prop, "train_median_prop.csv", row.names=FALSE)
+write.csv(test_median_prop, "test_median_prop.csv", row.names=FALSE)
+# Count total NA values
+sum(is.na(train_median_prop))
+sum(is.na(test_median_prop))
+```
+
+
+```{r}
+summary(train_mice_prop)
+```
+```{r}
+summary(train_mean_mode)
+```
+```{r}
+summary(train_amelia)
+```
+```{r}
+summary(train_mean_prop)
+```
+
+```{r}
+summary(train_median_prop)
+```
+
+
+
+
+
+
+
+
+
+
+
