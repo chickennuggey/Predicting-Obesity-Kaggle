@@ -1,12 +1,7 @@
----
-title: "Kaggle Code"
-author: "Briana Nguyen"
-date: "2024-11-25"
-output: html_document
----
 
-```{r}
+
 # Load in libraries
+
 library(ggplot2)
 library(reshape2)
 library(mice)
@@ -15,29 +10,24 @@ library(glmnet)
 library(tree)
 library(randomForest)
 library(e1071)
-```
+
+#########################################################################################################################################################
 
 # Load in Data 
 
-```{r}
 origTrain <- read.csv("/Users/briannanguyen/Desktop/Kaggle/ObesityTrain.csv", stringsAsFactors = TRUE) # original data
 Xtest <- read.csv("/Users/briannanguyen/Desktop/Kaggle/ObesityTest.csv", stringsAsFactors = TRUE)
 
 cat("Dimensions of Training Data:", dim(origTrain), "\n")
 cat("Dimensions of Testing Data:", dim(Xtest))
-```
 
-```{r}
 str(origTrain)
-```
-
-```{r}
 summary(origTrain)
-```
+
+#########################################################################################################################################################
 
 # Data Cleaning
 
-```{r}
 # Barchart of Missing Training and Testing Data
 
 # Using ggplot
@@ -60,11 +50,8 @@ library(VIM)
 
 missing_plot <- aggr(origTrain[, 1:14], col=c('navyblue','yellow'), numbers=TRUE, sortVars=TRUE, labels=names(origTrain[1:14]), cex.axis=.7, gap=3, ylab=c("Missing data","Pattern"))
 
-```
-
 # Data Imputation Using Mice
 
-```{r}
 traindataTemp <- mice(Xtrain, m = 5, maxit = 5)
 XtrainNew <- complete(traindataTemp,1)
 
@@ -89,13 +76,13 @@ Xtrain <- train[, -30]
 Ytrain <- train[, 30]
 
 head(Xtrain, 10)
-```
+
+#########################################################################################################################################################
 
 # EDA
 
 ## Correlation Matrix 
 
-```{r}
 categorical <- names(XtrainNew)[sapply(XtrainNew, is.character)]
 numeric <- names(XtrainNew)[sapply(XtrainNew, is.numeric)]
 
@@ -107,19 +94,15 @@ ggplot(data = melted_corr_mat, aes(x=Var1, y=Var2, fill=value)) +
   geom_text(aes(Var2, Var1, label = value), color = "white", size = 3) +
   theme(axis.text.x = element_text(size = 5.5), axis.text.y = element_text(size = 7)) +
   labs(title = "Correlation Matrix")
-```
 
 ## Histogram
 
-```{r}
 library(Hmisc)
 hist.data.frame(XtrainNew[numeric]) 
 mtext("Distribution for Numeric Variables", side = 3, outer = TRUE, line = -2, cex = 1)
-```
 
 ## Density Plots
 
-```{r}
 library(ggpubr)
 
 data <- train
@@ -144,11 +127,9 @@ figure
 figure <- ggarrange(p1, p2, p4, p5, p6, ncol = 2, nrow = 3)
 figure <- annotate_figure(figure, top = text_grob("Density Plots", face = "bold", size = 15))
 figure
-```
 
 ## Boxplots
 
-```{r}
 p1 <- ggplot(data, aes(y=Age, x=ObStatus)) + geom_boxplot()
 p2 <- ggplot(data, aes(y=Height, x=ObStatus)) + geom_boxplot()
 p3 <- ggplot(data, aes(y=NCP, x=ObStatus)) + geom_boxplot()
@@ -167,11 +148,9 @@ figure
 figure <- ggarrange(p6, p7, p8, p9, p10, ncol = 3, nrow = 2)
 figure <- annotate_figure(figure, top = text_grob("Boxplots", face = "bold", size = 15))
 figure
-```
 
 ## Barcharts 
 
-```{r}
 p11 <- ggplot(data, aes(x = Gender, fill = ObStatus))+ geom_bar(stat = "count", position = "stack")
 p12 <- ggplot(data, aes(x = family_history_with_overweight, fill = ObStatus))+ geom_bar(stat = "count", position = "stack")
 p13 <- ggplot(data, aes(x = FAVC, fill = ObStatus))+ geom_bar(stat = "count", position = "stack")
@@ -195,13 +174,13 @@ figure1 <- ggarrange(p11, p12, p13, p14, p15, p16, p17, p18, p19, ncol = 3, nrow
 figure2 <- ggarrange(p20, p21, p22, p23, p24, p25, p26, p27, p28, ncol = 3, nrow = 3)
 figure1
 figure2
-```
+
+#########################################################################################################################################################
 
 # Models
 
 ## Logistic 
 
-```{r}
 # Logsitic Performance Function
 logisticMisclass <- function(log_model){
   glm.pred <- predict(log_model, newdata = XtrainNew, type = "response")
@@ -209,21 +188,17 @@ logisticMisclass <- function(log_model){
   tab <- table(glm.pred, Ytrain)
   cat("Accuracy:", sum(as.numeric(tab)[c(1, 4)]) / sum(as.numeric(tab)), "\n")
 }
-```
 
 
-```{r}
 log1 <- glm(as.factor(ObStatus) ~., family = binomial(), train)
 summary(log1)
 logisticMisclass(log1) # Full Logistic - 0.7429874 
 
 log2 <- glm(as.factor(ObStatus) ~ Gender + Height + family_history_with_overweight + FAVC + FCVC + NCP + CAEC + CH2O + SMOKE + SCC + FAF + MTRANS + Race + Cholesterol + FastingBS + avg_glucose_level + stroke, family = binomial(), train)
 logisticMisclass(log2) # Reduced Logistic - 0.7363341 
-```
 
 ### Stepwise Logistic Regression
 
-```{r}
 BIC_model <- step(log1, direction = "both", k = log(nrow(train)), trace = 1)
 AIC_model <- step(log1, direction = "both", trace = 1)
 
@@ -244,11 +219,9 @@ AIClog <- glm(formula = as.factor(ObStatus) ~ Gender + Height + family_history_w
     data = train)
 
 logisticMisclass(AIClog) # AIC - 0.742925 
-```
 
 ### Regularization 
 
-```{r}
 library(glmnet)
 x <- model.matrix(ObStatus ~ ., scalex)  
 y <- train$ObStatus    
@@ -266,11 +239,9 @@ m1cTest.pred <- predict(ridge_model,s=ridge_model$lambda.min, newx = x, type = "
 glm.pred <- ifelse(m1cTest.pred >= 0.5, "Obese", "Not Obese")
 tab <- table(glm.pred, y)
 cat("Accuracy:", sum(as.numeric(tab)[c(1, 4)]) / sum(as.numeric(tab)), "\n")
-```
 
 ## Decision Trees
 
-```{r}
 full <- tree(as.factor(ObStatus)~.,data=train) # Full tree - 0.793809 
 
 plot(full) 
@@ -294,11 +265,9 @@ summary(pruned)
 pred.pr <- predict(pruned,newdata=train,type="class")
 tab <- table(pred.pr,train$ObStatus)
 cat("Accuracy:", sum(as.numeric(tab)[c(1, 4)]) / sum(as.numeric(tab)))
-```
 
 ## Random Forests
 
-```{r}
 rm1 <- randomForest(as.factor(ObStatus)~.,data=train,importance=TRUE) # Forest 0.9843818
 pred.rm <- predict(rm1,data=train)
 tab <- table(train$ObStatus,pred.rm)
@@ -316,11 +285,9 @@ rm3 <- randomForest(as.factor(ObStatus)~.,data=train,importance=TRUE, ntree = 25
 pred.rm <- predict(rm3,data=train)
 tab <- table(train$ObStatus,pred.rm)
 cat("Accuracy:", sum(as.numeric(tab)[c(1, 4)]) / sum(as.numeric(tab)))
-```
 
 ## Support Vector Machines
 
-```{r}
 library(e1071)
 
 train$ObStatus <- as.factor(train$ObStatus)
@@ -366,7 +333,6 @@ svmfit4=svm(ObStatus~.,data=train,kernel="sigmoid")
 preds.tr=predict(svmfit4,data=train)
 tab <- table(preds.tr,train$ObStatus)
 cat("Accuracy:", sum(as.numeric(tab)[c(1, 4)]) / sum(as.numeric(tab)))
-```
 
 
 
