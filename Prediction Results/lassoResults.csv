@@ -1,0 +1,10673 @@
+ID,s1
+1,Not Obese
+2,Not Obese
+3,Not Obese
+4,Not Obese
+5,Not Obese
+6,Not Obese
+7,Obese
+8,Not Obese
+9,Not Obese
+10,Not Obese
+11,Not Obese
+12,Not Obese
+13,Not Obese
+14,Not Obese
+15,Not Obese
+16,Not Obese
+17,Not Obese
+18,Not Obese
+19,Not Obese
+20,Not Obese
+21,Not Obese
+22,Not Obese
+23,Not Obese
+24,Not Obese
+25,Not Obese
+26,Obese
+27,Not Obese
+28,Not Obese
+29,Not Obese
+30,Not Obese
+31,Not Obese
+32,Obese
+33,Not Obese
+34,Not Obese
+35,Obese
+36,Not Obese
+37,Not Obese
+38,Not Obese
+39,Not Obese
+40,Not Obese
+41,Not Obese
+42,Not Obese
+43,Not Obese
+44,Not Obese
+45,Not Obese
+46,Not Obese
+47,Not Obese
+48,Not Obese
+49,Not Obese
+50,Not Obese
+51,Not Obese
+52,Not Obese
+53,Not Obese
+54,Not Obese
+55,Not Obese
+56,Not Obese
+57,Not Obese
+58,Not Obese
+59,Not Obese
+60,Not Obese
+61,Not Obese
+62,Not Obese
+63,Not Obese
+64,Not Obese
+65,Not Obese
+66,Not Obese
+67,Not Obese
+68,Not Obese
+69,Not Obese
+70,Not Obese
+71,Not Obese
+72,Not Obese
+73,Not Obese
+74,Not Obese
+75,Not Obese
+76,Not Obese
+77,Not Obese
+78,Not Obese
+79,Not Obese
+80,Not Obese
+81,Not Obese
+82,Not Obese
+83,Not Obese
+84,Not Obese
+85,Not Obese
+86,Not Obese
+87,Not Obese
+88,Obese
+89,Not Obese
+90,Not Obese
+91,Not Obese
+92,Not Obese
+93,Not Obese
+94,Not Obese
+95,Not Obese
+96,Not Obese
+97,Not Obese
+98,Not Obese
+99,Not Obese
+100,Not Obese
+101,Not Obese
+102,Not Obese
+103,Not Obese
+104,Not Obese
+105,Not Obese
+106,Not Obese
+107,Not Obese
+108,Not Obese
+109,Not Obese
+110,Not Obese
+111,Not Obese
+112,Not Obese
+113,Not Obese
+114,Not Obese
+115,Not Obese
+116,Not Obese
+117,Not Obese
+118,Not Obese
+119,Not Obese
+120,Not Obese
+121,Not Obese
+122,Not Obese
+123,Not Obese
+124,Not Obese
+125,Not Obese
+126,Not Obese
+127,Not Obese
+128,Not Obese
+129,Not Obese
+130,Not Obese
+131,Not Obese
+132,Not Obese
+133,Not Obese
+134,Not Obese
+135,Not Obese
+136,Not Obese
+137,Not Obese
+138,Not Obese
+139,Not Obese
+140,Not Obese
+141,Not Obese
+142,Not Obese
+143,Not Obese
+144,Not Obese
+145,Not Obese
+146,Not Obese
+147,Obese
+148,Not Obese
+149,Not Obese
+150,Not Obese
+151,Not Obese
+152,Not Obese
+153,Not Obese
+154,Not Obese
+155,Not Obese
+156,Not Obese
+157,Not Obese
+158,Not Obese
+159,Not Obese
+160,Not Obese
+161,Not Obese
+162,Not Obese
+163,Not Obese
+164,Not Obese
+165,Not Obese
+166,Not Obese
+167,Not Obese
+168,Not Obese
+169,Not Obese
+170,Not Obese
+171,Not Obese
+172,Not Obese
+173,Not Obese
+174,Not Obese
+175,Not Obese
+176,Not Obese
+177,Not Obese
+178,Not Obese
+179,Not Obese
+180,Not Obese
+181,Not Obese
+182,Not Obese
+183,Not Obese
+184,Not Obese
+185,Not Obese
+186,Not Obese
+187,Not Obese
+188,Obese
+189,Not Obese
+190,Not Obese
+191,Not Obese
+192,Not Obese
+193,Not Obese
+194,Not Obese
+195,Not Obese
+196,Not Obese
+197,Not Obese
+198,Not Obese
+199,Not Obese
+200,Not Obese
+201,Not Obese
+202,Not Obese
+203,Not Obese
+204,Not Obese
+205,Not Obese
+206,Not Obese
+207,Not Obese
+208,Not Obese
+209,Not Obese
+210,Not Obese
+211,Not Obese
+212,Not Obese
+213,Not Obese
+214,Not Obese
+215,Not Obese
+216,Not Obese
+217,Not Obese
+218,Not Obese
+219,Not Obese
+220,Not Obese
+221,Not Obese
+222,Not Obese
+223,Not Obese
+224,Not Obese
+225,Not Obese
+226,Not Obese
+227,Not Obese
+228,Not Obese
+229,Not Obese
+230,Not Obese
+231,Not Obese
+232,Not Obese
+233,Not Obese
+234,Not Obese
+235,Not Obese
+236,Not Obese
+237,Not Obese
+238,Not Obese
+239,Not Obese
+240,Not Obese
+241,Obese
+242,Not Obese
+243,Not Obese
+244,Not Obese
+245,Not Obese
+246,Not Obese
+247,Not Obese
+248,Not Obese
+249,Not Obese
+250,Not Obese
+251,Not Obese
+252,Not Obese
+253,Not Obese
+254,Not Obese
+255,Not Obese
+256,Not Obese
+257,Not Obese
+258,Not Obese
+259,Not Obese
+260,Not Obese
+261,Not Obese
+262,Not Obese
+263,Not Obese
+264,Not Obese
+265,Not Obese
+266,Not Obese
+267,Not Obese
+268,Not Obese
+269,Not Obese
+270,Not Obese
+271,Not Obese
+272,Not Obese
+273,Not Obese
+274,Not Obese
+275,Not Obese
+276,Not Obese
+277,Not Obese
+278,Not Obese
+279,Not Obese
+280,Not Obese
+281,Not Obese
+282,Not Obese
+283,Not Obese
+284,Not Obese
+285,Not Obese
+286,Not Obese
+287,Not Obese
+288,Not Obese
+289,Not Obese
+290,Not Obese
+291,Not Obese
+292,Not Obese
+293,Not Obese
+294,Not Obese
+295,Not Obese
+296,Not Obese
+297,Not Obese
+298,Not Obese
+299,Not Obese
+300,Not Obese
+301,Not Obese
+302,Not Obese
+303,Not Obese
+304,Obese
+305,Not Obese
+306,Not Obese
+307,Not Obese
+308,Not Obese
+309,Obese
+310,Not Obese
+311,Not Obese
+312,Obese
+313,Not Obese
+314,Not Obese
+315,Obese
+316,Not Obese
+317,Not Obese
+318,Not Obese
+319,Not Obese
+320,Not Obese
+321,Not Obese
+322,Not Obese
+323,Obese
+324,Not Obese
+325,Not Obese
+326,Not Obese
+327,Not Obese
+328,Not Obese
+329,Not Obese
+330,Not Obese
+331,Not Obese
+332,Not Obese
+333,Not Obese
+334,Not Obese
+335,Not Obese
+336,Not Obese
+337,Not Obese
+338,Not Obese
+339,Not Obese
+340,Not Obese
+341,Not Obese
+342,Not Obese
+343,Not Obese
+344,Obese
+345,Obese
+346,Obese
+347,Obese
+348,Obese
+349,Obese
+350,Obese
+351,Obese
+352,Obese
+353,Obese
+354,Obese
+355,Not Obese
+356,Not Obese
+357,Not Obese
+358,Not Obese
+359,Not Obese
+360,Not Obese
+361,Not Obese
+362,Not Obese
+363,Not Obese
+364,Not Obese
+365,Not Obese
+366,Not Obese
+367,Not Obese
+368,Not Obese
+369,Not Obese
+370,Not Obese
+371,Not Obese
+372,Not Obese
+373,Not Obese
+374,Not Obese
+375,Not Obese
+376,Obese
+377,Obese
+378,Obese
+379,Not Obese
+380,Not Obese
+381,Not Obese
+382,Not Obese
+383,Not Obese
+384,Not Obese
+385,Not Obese
+386,Not Obese
+387,Not Obese
+388,Not Obese
+389,Not Obese
+390,Not Obese
+391,Not Obese
+392,Not Obese
+393,Not Obese
+394,Not Obese
+395,Not Obese
+396,Not Obese
+397,Not Obese
+398,Not Obese
+399,Not Obese
+400,Not Obese
+401,Not Obese
+402,Not Obese
+403,Not Obese
+404,Not Obese
+405,Not Obese
+406,Not Obese
+407,Not Obese
+408,Not Obese
+409,Not Obese
+410,Not Obese
+411,Not Obese
+412,Not Obese
+413,Not Obese
+414,Not Obese
+415,Not Obese
+416,Not Obese
+417,Not Obese
+418,Not Obese
+419,Not Obese
+420,Not Obese
+421,Not Obese
+422,Not Obese
+423,Not Obese
+424,Not Obese
+425,Not Obese
+426,Not Obese
+427,Not Obese
+428,Not Obese
+429,Not Obese
+430,Not Obese
+431,Not Obese
+432,Not Obese
+433,Not Obese
+434,Not Obese
+435,Not Obese
+436,Not Obese
+437,Not Obese
+438,Not Obese
+439,Not Obese
+440,Not Obese
+441,Obese
+442,Not Obese
+443,Not Obese
+444,Not Obese
+445,Not Obese
+446,Obese
+447,Not Obese
+448,Not Obese
+449,Not Obese
+450,Not Obese
+451,Not Obese
+452,Not Obese
+453,Not Obese
+454,Not Obese
+455,Not Obese
+456,Not Obese
+457,Not Obese
+458,Not Obese
+459,Not Obese
+460,Not Obese
+461,Not Obese
+462,Not Obese
+463,Not Obese
+464,Not Obese
+465,Not Obese
+466,Not Obese
+467,Not Obese
+468,Not Obese
+469,Not Obese
+470,Not Obese
+471,Not Obese
+472,Not Obese
+473,Not Obese
+474,Not Obese
+475,Not Obese
+476,Not Obese
+477,Not Obese
+478,Not Obese
+479,Not Obese
+480,Not Obese
+481,Not Obese
+482,Not Obese
+483,Not Obese
+484,Obese
+485,Not Obese
+486,Not Obese
+487,Not Obese
+488,Not Obese
+489,Not Obese
+490,Not Obese
+491,Not Obese
+492,Not Obese
+493,Not Obese
+494,Not Obese
+495,Not Obese
+496,Not Obese
+497,Not Obese
+498,Not Obese
+499,Not Obese
+500,Not Obese
+501,Not Obese
+502,Not Obese
+503,Not Obese
+504,Not Obese
+505,Not Obese
+506,Not Obese
+507,Not Obese
+508,Not Obese
+509,Not Obese
+510,Not Obese
+511,Not Obese
+512,Not Obese
+513,Not Obese
+514,Not Obese
+515,Not Obese
+516,Not Obese
+517,Not Obese
+518,Not Obese
+519,Not Obese
+520,Obese
+521,Not Obese
+522,Obese
+523,Not Obese
+524,Not Obese
+525,Not Obese
+526,Not Obese
+527,Not Obese
+528,Not Obese
+529,Not Obese
+530,Not Obese
+531,Not Obese
+532,Not Obese
+533,Not Obese
+534,Not Obese
+535,Not Obese
+536,Not Obese
+537,Not Obese
+538,Not Obese
+539,Obese
+540,Not Obese
+541,Not Obese
+542,Not Obese
+543,Not Obese
+544,Not Obese
+545,Obese
+546,Not Obese
+547,Not Obese
+548,Not Obese
+549,Not Obese
+550,Not Obese
+551,Not Obese
+552,Not Obese
+553,Not Obese
+554,Not Obese
+555,Not Obese
+556,Not Obese
+557,Not Obese
+558,Not Obese
+559,Not Obese
+560,Not Obese
+561,Not Obese
+562,Not Obese
+563,Not Obese
+564,Not Obese
+565,Not Obese
+566,Not Obese
+567,Not Obese
+568,Not Obese
+569,Not Obese
+570,Not Obese
+571,Not Obese
+572,Not Obese
+573,Not Obese
+574,Not Obese
+575,Not Obese
+576,Not Obese
+577,Not Obese
+578,Not Obese
+579,Not Obese
+580,Not Obese
+581,Not Obese
+582,Not Obese
+583,Not Obese
+584,Not Obese
+585,Not Obese
+586,Not Obese
+587,Not Obese
+588,Not Obese
+589,Not Obese
+590,Not Obese
+591,Not Obese
+592,Not Obese
+593,Not Obese
+594,Not Obese
+595,Not Obese
+596,Not Obese
+597,Not Obese
+598,Not Obese
+599,Not Obese
+600,Not Obese
+601,Not Obese
+602,Not Obese
+603,Not Obese
+604,Not Obese
+605,Not Obese
+606,Not Obese
+607,Not Obese
+608,Not Obese
+609,Not Obese
+610,Not Obese
+611,Not Obese
+612,Not Obese
+613,Not Obese
+614,Not Obese
+615,Not Obese
+616,Not Obese
+617,Not Obese
+618,Not Obese
+619,Not Obese
+620,Not Obese
+621,Not Obese
+622,Not Obese
+623,Not Obese
+624,Not Obese
+625,Not Obese
+626,Not Obese
+627,Not Obese
+628,Not Obese
+629,Obese
+630,Not Obese
+631,Obese
+632,Not Obese
+633,Not Obese
+634,Not Obese
+635,Not Obese
+636,Not Obese
+637,Obese
+638,Not Obese
+639,Not Obese
+640,Not Obese
+641,Not Obese
+642,Not Obese
+643,Not Obese
+644,Not Obese
+645,Not Obese
+646,Not Obese
+647,Not Obese
+648,Not Obese
+649,Not Obese
+650,Not Obese
+651,Not Obese
+652,Not Obese
+653,Not Obese
+654,Obese
+655,Obese
+656,Obese
+657,Not Obese
+658,Not Obese
+659,Obese
+660,Not Obese
+661,Not Obese
+662,Obese
+663,Obese
+664,Obese
+665,Obese
+666,Not Obese
+667,Not Obese
+668,Obese
+669,Not Obese
+670,Not Obese
+671,Not Obese
+672,Not Obese
+673,Not Obese
+674,Not Obese
+675,Obese
+676,Not Obese
+677,Not Obese
+678,Not Obese
+679,Obese
+680,Not Obese
+681,Not Obese
+682,Not Obese
+683,Not Obese
+684,Not Obese
+685,Not Obese
+686,Not Obese
+687,Not Obese
+688,Not Obese
+689,Not Obese
+690,Obese
+691,Obese
+692,Obese
+693,Obese
+694,Obese
+695,Obese
+696,Obese
+697,Obese
+698,Obese
+699,Obese
+700,Obese
+701,Obese
+702,Obese
+703,Obese
+704,Obese
+705,Obese
+706,Obese
+707,Obese
+708,Obese
+709,Not Obese
+710,Not Obese
+711,Obese
+712,Not Obese
+713,Not Obese
+714,Not Obese
+715,Not Obese
+716,Not Obese
+717,Not Obese
+718,Not Obese
+719,Obese
+720,Not Obese
+721,Obese
+722,Not Obese
+723,Not Obese
+724,Obese
+725,Obese
+726,Obese
+727,Obese
+728,Not Obese
+729,Obese
+730,Obese
+731,Not Obese
+732,Not Obese
+733,Not Obese
+734,Not Obese
+735,Not Obese
+736,Not Obese
+737,Not Obese
+738,Not Obese
+739,Not Obese
+740,Not Obese
+741,Not Obese
+742,Not Obese
+743,Not Obese
+744,Not Obese
+745,Not Obese
+746,Not Obese
+747,Not Obese
+748,Not Obese
+749,Not Obese
+750,Not Obese
+751,Not Obese
+752,Not Obese
+753,Not Obese
+754,Not Obese
+755,Not Obese
+756,Not Obese
+757,Not Obese
+758,Not Obese
+759,Not Obese
+760,Not Obese
+761,Not Obese
+762,Not Obese
+763,Not Obese
+764,Not Obese
+765,Not Obese
+766,Not Obese
+767,Not Obese
+768,Not Obese
+769,Not Obese
+770,Not Obese
+771,Not Obese
+772,Not Obese
+773,Obese
+774,Obese
+775,Obese
+776,Obese
+777,Obese
+778,Obese
+779,Obese
+780,Obese
+781,Obese
+782,Not Obese
+783,Not Obese
+784,Not Obese
+785,Not Obese
+786,Not Obese
+787,Not Obese
+788,Not Obese
+789,Not Obese
+790,Not Obese
+791,Not Obese
+792,Not Obese
+793,Not Obese
+794,Not Obese
+795,Not Obese
+796,Not Obese
+797,Not Obese
+798,Not Obese
+799,Not Obese
+800,Not Obese
+801,Not Obese
+802,Not Obese
+803,Not Obese
+804,Not Obese
+805,Not Obese
+806,Not Obese
+807,Not Obese
+808,Not Obese
+809,Not Obese
+810,Not Obese
+811,Not Obese
+812,Not Obese
+813,Not Obese
+814,Not Obese
+815,Not Obese
+816,Not Obese
+817,Not Obese
+818,Not Obese
+819,Not Obese
+820,Not Obese
+821,Obese
+822,Not Obese
+823,Not Obese
+824,Not Obese
+825,Not Obese
+826,Obese
+827,Obese
+828,Obese
+829,Obese
+830,Obese
+831,Not Obese
+832,Obese
+833,Obese
+834,Obese
+835,Obese
+836,Obese
+837,Obese
+838,Not Obese
+839,Obese
+840,Obese
+841,Not Obese
+842,Not Obese
+843,Not Obese
+844,Not Obese
+845,Not Obese
+846,Not Obese
+847,Not Obese
+848,Not Obese
+849,Not Obese
+850,Not Obese
+851,Not Obese
+852,Not Obese
+853,Not Obese
+854,Obese
+855,Obese
+856,Obese
+857,Obese
+858,Obese
+859,Obese
+860,Obese
+861,Obese
+862,Obese
+863,Obese
+864,Obese
+865,Obese
+866,Obese
+867,Obese
+868,Obese
+869,Obese
+870,Obese
+871,Obese
+872,Not Obese
+873,Not Obese
+874,Not Obese
+875,Not Obese
+876,Not Obese
+877,Not Obese
+878,Not Obese
+879,Not Obese
+880,Not Obese
+881,Not Obese
+882,Not Obese
+883,Not Obese
+884,Not Obese
+885,Not Obese
+886,Not Obese
+887,Obese
+888,Obese
+889,Obese
+890,Obese
+891,Obese
+892,Obese
+893,Obese
+894,Obese
+895,Obese
+896,Obese
+897,Obese
+898,Not Obese
+899,Obese
+900,Obese
+901,Obese
+902,Obese
+903,Not Obese
+904,Obese
+905,Obese
+906,Not Obese
+907,Obese
+908,Obese
+909,Obese
+910,Obese
+911,Obese
+912,Obese
+913,Obese
+914,Not Obese
+915,Obese
+916,Not Obese
+917,Not Obese
+918,Not Obese
+919,Not Obese
+920,Not Obese
+921,Not Obese
+922,Not Obese
+923,Not Obese
+924,Not Obese
+925,Not Obese
+926,Not Obese
+927,Not Obese
+928,Not Obese
+929,Not Obese
+930,Not Obese
+931,Obese
+932,Obese
+933,Obese
+934,Obese
+935,Obese
+936,Obese
+937,Obese
+938,Obese
+939,Obese
+940,Not Obese
+941,Not Obese
+942,Not Obese
+943,Not Obese
+944,Not Obese
+945,Not Obese
+946,Not Obese
+947,Not Obese
+948,Not Obese
+949,Not Obese
+950,Not Obese
+951,Not Obese
+952,Not Obese
+953,Not Obese
+954,Not Obese
+955,Not Obese
+956,Not Obese
+957,Not Obese
+958,Not Obese
+959,Not Obese
+960,Not Obese
+961,Not Obese
+962,Not Obese
+963,Not Obese
+964,Not Obese
+965,Not Obese
+966,Not Obese
+967,Obese
+968,Obese
+969,Not Obese
+970,Obese
+971,Not Obese
+972,Not Obese
+973,Not Obese
+974,Not Obese
+975,Obese
+976,Not Obese
+977,Not Obese
+978,Not Obese
+979,Not Obese
+980,Not Obese
+981,Not Obese
+982,Not Obese
+983,Not Obese
+984,Not Obese
+985,Not Obese
+986,Not Obese
+987,Not Obese
+988,Not Obese
+989,Obese
+990,Not Obese
+991,Not Obese
+992,Not Obese
+993,Not Obese
+994,Not Obese
+995,Not Obese
+996,Not Obese
+997,Not Obese
+998,Not Obese
+999,Not Obese
+1000,Not Obese
+1001,Not Obese
+1002,Not Obese
+1003,Not Obese
+1004,Not Obese
+1005,Not Obese
+1006,Not Obese
+1007,Not Obese
+1008,Not Obese
+1009,Not Obese
+1010,Not Obese
+1011,Not Obese
+1012,Not Obese
+1013,Not Obese
+1014,Not Obese
+1015,Not Obese
+1016,Not Obese
+1017,Not Obese
+1018,Not Obese
+1019,Not Obese
+1020,Not Obese
+1021,Not Obese
+1022,Obese
+1023,Obese
+1024,Obese
+1025,Obese
+1026,Obese
+1027,Obese
+1028,Obese
+1029,Obese
+1030,Obese
+1031,Obese
+1032,Obese
+1033,Obese
+1034,Obese
+1035,Obese
+1036,Obese
+1037,Obese
+1038,Obese
+1039,Not Obese
+1040,Not Obese
+1041,Obese
+1042,Not Obese
+1043,Not Obese
+1044,Obese
+1045,Obese
+1046,Obese
+1047,Not Obese
+1048,Not Obese
+1049,Not Obese
+1050,Not Obese
+1051,Not Obese
+1052,Not Obese
+1053,Not Obese
+1054,Not Obese
+1055,Obese
+1056,Obese
+1057,Obese
+1058,Obese
+1059,Not Obese
+1060,Obese
+1061,Obese
+1062,Not Obese
+1063,Not Obese
+1064,Not Obese
+1065,Obese
+1066,Obese
+1067,Obese
+1068,Obese
+1069,Not Obese
+1070,Obese
+1071,Not Obese
+1072,Not Obese
+1073,Not Obese
+1074,Not Obese
+1075,Not Obese
+1076,Not Obese
+1077,Not Obese
+1078,Not Obese
+1079,Not Obese
+1080,Not Obese
+1081,Obese
+1082,Not Obese
+1083,Not Obese
+1084,Not Obese
+1085,Not Obese
+1086,Not Obese
+1087,Not Obese
+1088,Not Obese
+1089,Not Obese
+1090,Not Obese
+1091,Not Obese
+1092,Not Obese
+1093,Not Obese
+1094,Not Obese
+1095,Not Obese
+1096,Not Obese
+1097,Not Obese
+1098,Not Obese
+1099,Not Obese
+1100,Not Obese
+1101,Not Obese
+1102,Not Obese
+1103,Not Obese
+1104,Not Obese
+1105,Not Obese
+1106,Not Obese
+1107,Not Obese
+1108,Not Obese
+1109,Not Obese
+1110,Not Obese
+1111,Not Obese
+1112,Not Obese
+1113,Not Obese
+1114,Not Obese
+1115,Not Obese
+1116,Not Obese
+1117,Not Obese
+1118,Not Obese
+1119,Obese
+1120,Not Obese
+1121,Not Obese
+1122,Not Obese
+1123,Not Obese
+1124,Not Obese
+1125,Not Obese
+1126,Not Obese
+1127,Not Obese
+1128,Not Obese
+1129,Not Obese
+1130,Not Obese
+1131,Not Obese
+1132,Not Obese
+1133,Not Obese
+1134,Not Obese
+1135,Not Obese
+1136,Not Obese
+1137,Not Obese
+1138,Not Obese
+1139,Not Obese
+1140,Not Obese
+1141,Not Obese
+1142,Not Obese
+1143,Not Obese
+1144,Not Obese
+1145,Not Obese
+1146,Not Obese
+1147,Not Obese
+1148,Not Obese
+1149,Not Obese
+1150,Not Obese
+1151,Not Obese
+1152,Not Obese
+1153,Not Obese
+1154,Not Obese
+1155,Not Obese
+1156,Not Obese
+1157,Not Obese
+1158,Not Obese
+1159,Not Obese
+1160,Not Obese
+1161,Not Obese
+1162,Not Obese
+1163,Not Obese
+1164,Not Obese
+1165,Not Obese
+1166,Not Obese
+1167,Not Obese
+1168,Not Obese
+1169,Not Obese
+1170,Not Obese
+1171,Not Obese
+1172,Not Obese
+1173,Not Obese
+1174,Not Obese
+1175,Not Obese
+1176,Not Obese
+1177,Not Obese
+1178,Not Obese
+1179,Not Obese
+1180,Not Obese
+1181,Not Obese
+1182,Not Obese
+1183,Not Obese
+1184,Obese
+1185,Not Obese
+1186,Not Obese
+1187,Not Obese
+1188,Not Obese
+1189,Not Obese
+1190,Not Obese
+1191,Not Obese
+1192,Not Obese
+1193,Not Obese
+1194,Not Obese
+1195,Not Obese
+1196,Not Obese
+1197,Not Obese
+1198,Not Obese
+1199,Not Obese
+1200,Obese
+1201,Not Obese
+1202,Not Obese
+1203,Not Obese
+1204,Not Obese
+1205,Not Obese
+1206,Not Obese
+1207,Not Obese
+1208,Not Obese
+1209,Not Obese
+1210,Not Obese
+1211,Not Obese
+1212,Not Obese
+1213,Not Obese
+1214,Not Obese
+1215,Not Obese
+1216,Not Obese
+1217,Not Obese
+1218,Not Obese
+1219,Not Obese
+1220,Not Obese
+1221,Not Obese
+1222,Not Obese
+1223,Not Obese
+1224,Not Obese
+1225,Not Obese
+1226,Not Obese
+1227,Not Obese
+1228,Obese
+1229,Obese
+1230,Obese
+1231,Obese
+1232,Obese
+1233,Obese
+1234,Obese
+1235,Obese
+1236,Obese
+1237,Obese
+1238,Obese
+1239,Obese
+1240,Obese
+1241,Obese
+1242,Obese
+1243,Obese
+1244,Not Obese
+1245,Not Obese
+1246,Not Obese
+1247,Obese
+1248,Obese
+1249,Not Obese
+1250,Obese
+1251,Not Obese
+1252,Obese
+1253,Obese
+1254,Obese
+1255,Not Obese
+1256,Obese
+1257,Not Obese
+1258,Not Obese
+1259,Not Obese
+1260,Not Obese
+1261,Not Obese
+1262,Not Obese
+1263,Not Obese
+1264,Not Obese
+1265,Not Obese
+1266,Not Obese
+1267,Not Obese
+1268,Not Obese
+1269,Obese
+1270,Not Obese
+1271,Not Obese
+1272,Obese
+1273,Obese
+1274,Obese
+1275,Obese
+1276,Obese
+1277,Obese
+1278,Obese
+1279,Obese
+1280,Obese
+1281,Obese
+1282,Obese
+1283,Obese
+1284,Obese
+1285,Obese
+1286,Obese
+1287,Obese
+1288,Obese
+1289,Obese
+1290,Obese
+1291,Obese
+1292,Obese
+1293,Obese
+1294,Obese
+1295,Not Obese
+1296,Obese
+1297,Obese
+1298,Obese
+1299,Obese
+1300,Not Obese
+1301,Not Obese
+1302,Not Obese
+1303,Not Obese
+1304,Not Obese
+1305,Not Obese
+1306,Not Obese
+1307,Not Obese
+1308,Not Obese
+1309,Not Obese
+1310,Not Obese
+1311,Not Obese
+1312,Not Obese
+1313,Not Obese
+1314,Not Obese
+1315,Not Obese
+1316,Not Obese
+1317,Not Obese
+1318,Not Obese
+1319,Not Obese
+1320,Not Obese
+1321,Not Obese
+1322,Not Obese
+1323,Not Obese
+1324,Not Obese
+1325,Not Obese
+1326,Obese
+1327,Obese
+1328,Obese
+1329,Obese
+1330,Obese
+1331,Obese
+1332,Obese
+1333,Not Obese
+1334,Obese
+1335,Obese
+1336,Obese
+1337,Obese
+1338,Not Obese
+1339,Obese
+1340,Obese
+1341,Obese
+1342,Obese
+1343,Obese
+1344,Obese
+1345,Obese
+1346,Obese
+1347,Obese
+1348,Obese
+1349,Obese
+1350,Obese
+1351,Obese
+1352,Obese
+1353,Obese
+1354,Obese
+1355,Not Obese
+1356,Not Obese
+1357,Not Obese
+1358,Not Obese
+1359,Not Obese
+1360,Not Obese
+1361,Not Obese
+1362,Not Obese
+1363,Not Obese
+1364,Not Obese
+1365,Not Obese
+1366,Not Obese
+1367,Not Obese
+1368,Not Obese
+1369,Not Obese
+1370,Not Obese
+1371,Not Obese
+1372,Not Obese
+1373,Not Obese
+1374,Not Obese
+1375,Not Obese
+1376,Not Obese
+1377,Not Obese
+1378,Not Obese
+1379,Not Obese
+1380,Not Obese
+1381,Not Obese
+1382,Not Obese
+1383,Not Obese
+1384,Not Obese
+1385,Not Obese
+1386,Not Obese
+1387,Obese
+1388,Not Obese
+1389,Obese
+1390,Obese
+1391,Not Obese
+1392,Obese
+1393,Obese
+1394,Obese
+1395,Obese
+1396,Obese
+1397,Not Obese
+1398,Not Obese
+1399,Obese
+1400,Obese
+1401,Obese
+1402,Not Obese
+1403,Obese
+1404,Not Obese
+1405,Not Obese
+1406,Not Obese
+1407,Not Obese
+1408,Not Obese
+1409,Obese
+1410,Not Obese
+1411,Not Obese
+1412,Obese
+1413,Not Obese
+1414,Not Obese
+1415,Not Obese
+1416,Not Obese
+1417,Obese
+1418,Not Obese
+1419,Not Obese
+1420,Not Obese
+1421,Not Obese
+1422,Not Obese
+1423,Not Obese
+1424,Not Obese
+1425,Not Obese
+1426,Obese
+1427,Not Obese
+1428,Not Obese
+1429,Not Obese
+1430,Not Obese
+1431,Not Obese
+1432,Not Obese
+1433,Not Obese
+1434,Not Obese
+1435,Obese
+1436,Not Obese
+1437,Not Obese
+1438,Not Obese
+1439,Not Obese
+1440,Obese
+1441,Obese
+1442,Not Obese
+1443,Not Obese
+1444,Not Obese
+1445,Not Obese
+1446,Not Obese
+1447,Not Obese
+1448,Not Obese
+1449,Not Obese
+1450,Not Obese
+1451,Not Obese
+1452,Not Obese
+1453,Not Obese
+1454,Not Obese
+1455,Not Obese
+1456,Not Obese
+1457,Not Obese
+1458,Not Obese
+1459,Not Obese
+1460,Not Obese
+1461,Not Obese
+1462,Not Obese
+1463,Not Obese
+1464,Not Obese
+1465,Not Obese
+1466,Not Obese
+1467,Not Obese
+1468,Not Obese
+1469,Not Obese
+1470,Not Obese
+1471,Not Obese
+1472,Not Obese
+1473,Not Obese
+1474,Not Obese
+1475,Obese
+1476,Obese
+1477,Obese
+1478,Obese
+1479,Obese
+1480,Obese
+1481,Obese
+1482,Obese
+1483,Obese
+1484,Obese
+1485,Obese
+1486,Obese
+1487,Obese
+1488,Obese
+1489,Obese
+1490,Obese
+1491,Obese
+1492,Obese
+1493,Obese
+1494,Obese
+1495,Obese
+1496,Obese
+1497,Obese
+1498,Obese
+1499,Obese
+1500,Obese
+1501,Obese
+1502,Obese
+1503,Obese
+1504,Not Obese
+1505,Not Obese
+1506,Obese
+1507,Obese
+1508,Not Obese
+1509,Not Obese
+1510,Not Obese
+1511,Obese
+1512,Not Obese
+1513,Not Obese
+1514,Obese
+1515,Not Obese
+1516,Not Obese
+1517,Obese
+1518,Not Obese
+1519,Obese
+1520,Obese
+1521,Not Obese
+1522,Obese
+1523,Not Obese
+1524,Not Obese
+1525,Not Obese
+1526,Not Obese
+1527,Not Obese
+1528,Not Obese
+1529,Not Obese
+1530,Not Obese
+1531,Not Obese
+1532,Not Obese
+1533,Not Obese
+1534,Not Obese
+1535,Not Obese
+1536,Not Obese
+1537,Not Obese
+1538,Not Obese
+1539,Obese
+1540,Obese
+1541,Obese
+1542,Obese
+1543,Obese
+1544,Obese
+1545,Obese
+1546,Obese
+1547,Obese
+1548,Obese
+1549,Obese
+1550,Obese
+1551,Obese
+1552,Obese
+1553,Obese
+1554,Obese
+1555,Obese
+1556,Obese
+1557,Obese
+1558,Obese
+1559,Obese
+1560,Obese
+1561,Not Obese
+1562,Not Obese
+1563,Obese
+1564,Not Obese
+1565,Not Obese
+1566,Obese
+1567,Obese
+1568,Not Obese
+1569,Obese
+1570,Obese
+1571,Obese
+1572,Obese
+1573,Obese
+1574,Not Obese
+1575,Not Obese
+1576,Not Obese
+1577,Not Obese
+1578,Not Obese
+1579,Not Obese
+1580,Not Obese
+1581,Not Obese
+1582,Not Obese
+1583,Not Obese
+1584,Not Obese
+1585,Not Obese
+1586,Not Obese
+1587,Not Obese
+1588,Not Obese
+1589,Not Obese
+1590,Not Obese
+1591,Not Obese
+1592,Not Obese
+1593,Not Obese
+1594,Not Obese
+1595,Not Obese
+1596,Not Obese
+1597,Not Obese
+1598,Not Obese
+1599,Not Obese
+1600,Not Obese
+1601,Not Obese
+1602,Not Obese
+1603,Not Obese
+1604,Not Obese
+1605,Not Obese
+1606,Obese
+1607,Not Obese
+1608,Not Obese
+1609,Not Obese
+1610,Not Obese
+1611,Obese
+1612,Obese
+1613,Obese
+1614,Obese
+1615,Obese
+1616,Obese
+1617,Obese
+1618,Obese
+1619,Not Obese
+1620,Obese
+1621,Obese
+1622,Obese
+1623,Obese
+1624,Obese
+1625,Obese
+1626,Obese
+1627,Not Obese
+1628,Not Obese
+1629,Not Obese
+1630,Not Obese
+1631,Not Obese
+1632,Not Obese
+1633,Not Obese
+1634,Not Obese
+1635,Not Obese
+1636,Not Obese
+1637,Not Obese
+1638,Not Obese
+1639,Not Obese
+1640,Not Obese
+1641,Not Obese
+1642,Not Obese
+1643,Not Obese
+1644,Not Obese
+1645,Not Obese
+1646,Not Obese
+1647,Not Obese
+1648,Not Obese
+1649,Not Obese
+1650,Not Obese
+1651,Not Obese
+1652,Not Obese
+1653,Obese
+1654,Not Obese
+1655,Obese
+1656,Not Obese
+1657,Not Obese
+1658,Not Obese
+1659,Not Obese
+1660,Not Obese
+1661,Not Obese
+1662,Not Obese
+1663,Not Obese
+1664,Not Obese
+1665,Not Obese
+1666,Not Obese
+1667,Not Obese
+1668,Not Obese
+1669,Not Obese
+1670,Not Obese
+1671,Not Obese
+1672,Not Obese
+1673,Not Obese
+1674,Not Obese
+1675,Not Obese
+1676,Not Obese
+1677,Not Obese
+1678,Not Obese
+1679,Not Obese
+1680,Not Obese
+1681,Not Obese
+1682,Not Obese
+1683,Obese
+1684,Not Obese
+1685,Not Obese
+1686,Not Obese
+1687,Not Obese
+1688,Not Obese
+1689,Not Obese
+1690,Not Obese
+1691,Not Obese
+1692,Not Obese
+1693,Not Obese
+1694,Not Obese
+1695,Not Obese
+1696,Not Obese
+1697,Not Obese
+1698,Not Obese
+1699,Obese
+1700,Not Obese
+1701,Not Obese
+1702,Obese
+1703,Not Obese
+1704,Not Obese
+1705,Not Obese
+1706,Not Obese
+1707,Not Obese
+1708,Not Obese
+1709,Not Obese
+1710,Not Obese
+1711,Not Obese
+1712,Not Obese
+1713,Not Obese
+1714,Not Obese
+1715,Not Obese
+1716,Not Obese
+1717,Not Obese
+1718,Not Obese
+1719,Not Obese
+1720,Not Obese
+1721,Not Obese
+1722,Not Obese
+1723,Not Obese
+1724,Not Obese
+1725,Not Obese
+1726,Not Obese
+1727,Not Obese
+1728,Not Obese
+1729,Not Obese
+1730,Not Obese
+1731,Not Obese
+1732,Not Obese
+1733,Not Obese
+1734,Not Obese
+1735,Not Obese
+1736,Not Obese
+1737,Not Obese
+1738,Not Obese
+1739,Not Obese
+1740,Not Obese
+1741,Not Obese
+1742,Not Obese
+1743,Not Obese
+1744,Not Obese
+1745,Not Obese
+1746,Not Obese
+1747,Not Obese
+1748,Not Obese
+1749,Not Obese
+1750,Not Obese
+1751,Not Obese
+1752,Not Obese
+1753,Not Obese
+1754,Not Obese
+1755,Not Obese
+1756,Not Obese
+1757,Not Obese
+1758,Not Obese
+1759,Not Obese
+1760,Not Obese
+1761,Not Obese
+1762,Not Obese
+1763,Not Obese
+1764,Not Obese
+1765,Not Obese
+1766,Not Obese
+1767,Obese
+1768,Obese
+1769,Obese
+1770,Obese
+1771,Obese
+1772,Obese
+1773,Obese
+1774,Obese
+1775,Obese
+1776,Obese
+1777,Obese
+1778,Obese
+1779,Obese
+1780,Obese
+1781,Obese
+1782,Obese
+1783,Not Obese
+1784,Not Obese
+1785,Not Obese
+1786,Not Obese
+1787,Not Obese
+1788,Not Obese
+1789,Not Obese
+1790,Not Obese
+1791,Not Obese
+1792,Not Obese
+1793,Not Obese
+1794,Not Obese
+1795,Not Obese
+1796,Obese
+1797,Obese
+1798,Obese
+1799,Obese
+1800,Obese
+1801,Obese
+1802,Obese
+1803,Obese
+1804,Obese
+1805,Obese
+1806,Obese
+1807,Not Obese
+1808,Obese
+1809,Obese
+1810,Obese
+1811,Not Obese
+1812,Obese
+1813,Obese
+1814,Obese
+1815,Obese
+1816,Obese
+1817,Not Obese
+1818,Not Obese
+1819,Not Obese
+1820,Not Obese
+1821,Not Obese
+1822,Not Obese
+1823,Not Obese
+1824,Not Obese
+1825,Not Obese
+1826,Not Obese
+1827,Not Obese
+1828,Not Obese
+1829,Not Obese
+1830,Not Obese
+1831,Not Obese
+1832,Not Obese
+1833,Not Obese
+1834,Not Obese
+1835,Not Obese
+1836,Obese
+1837,Obese
+1838,Not Obese
+1839,Not Obese
+1840,Not Obese
+1841,Not Obese
+1842,Not Obese
+1843,Not Obese
+1844,Not Obese
+1845,Not Obese
+1846,Not Obese
+1847,Not Obese
+1848,Not Obese
+1849,Not Obese
+1850,Not Obese
+1851,Obese
+1852,Obese
+1853,Not Obese
+1854,Obese
+1855,Not Obese
+1856,Obese
+1857,Obese
+1858,Not Obese
+1859,Not Obese
+1860,Not Obese
+1861,Not Obese
+1862,Not Obese
+1863,Not Obese
+1864,Not Obese
+1865,Not Obese
+1866,Not Obese
+1867,Not Obese
+1868,Not Obese
+1869,Not Obese
+1870,Not Obese
+1871,Not Obese
+1872,Not Obese
+1873,Not Obese
+1874,Not Obese
+1875,Not Obese
+1876,Not Obese
+1877,Not Obese
+1878,Not Obese
+1879,Not Obese
+1880,Not Obese
+1881,Not Obese
+1882,Obese
+1883,Obese
+1884,Not Obese
+1885,Not Obese
+1886,Not Obese
+1887,Not Obese
+1888,Not Obese
+1889,Not Obese
+1890,Not Obese
+1891,Obese
+1892,Not Obese
+1893,Not Obese
+1894,Obese
+1895,Obese
+1896,Not Obese
+1897,Obese
+1898,Not Obese
+1899,Not Obese
+1900,Not Obese
+1901,Not Obese
+1902,Not Obese
+1903,Not Obese
+1904,Not Obese
+1905,Not Obese
+1906,Not Obese
+1907,Not Obese
+1908,Not Obese
+1909,Not Obese
+1910,Not Obese
+1911,Not Obese
+1912,Not Obese
+1913,Not Obese
+1914,Not Obese
+1915,Not Obese
+1916,Not Obese
+1917,Not Obese
+1918,Not Obese
+1919,Not Obese
+1920,Not Obese
+1921,Not Obese
+1922,Not Obese
+1923,Not Obese
+1924,Not Obese
+1925,Not Obese
+1926,Not Obese
+1927,Not Obese
+1928,Obese
+1929,Obese
+1930,Obese
+1931,Obese
+1932,Not Obese
+1933,Obese
+1934,Obese
+1935,Obese
+1936,Obese
+1937,Obese
+1938,Obese
+1939,Obese
+1940,Obese
+1941,Obese
+1942,Obese
+1943,Obese
+1944,Obese
+1945,Obese
+1946,Obese
+1947,Obese
+1948,Obese
+1949,Obese
+1950,Obese
+1951,Obese
+1952,Obese
+1953,Obese
+1954,Obese
+1955,Obese
+1956,Obese
+1957,Obese
+1958,Obese
+1959,Obese
+1960,Obese
+1961,Obese
+1962,Obese
+1963,Not Obese
+1964,Obese
+1965,Obese
+1966,Obese
+1967,Obese
+1968,Obese
+1969,Obese
+1970,Obese
+1971,Obese
+1972,Obese
+1973,Obese
+1974,Obese
+1975,Obese
+1976,Obese
+1977,Obese
+1978,Obese
+1979,Obese
+1980,Obese
+1981,Obese
+1982,Obese
+1983,Obese
+1984,Obese
+1985,Not Obese
+1986,Not Obese
+1987,Obese
+1988,Obese
+1989,Not Obese
+1990,Not Obese
+1991,Not Obese
+1992,Not Obese
+1993,Not Obese
+1994,Not Obese
+1995,Not Obese
+1996,Not Obese
+1997,Not Obese
+1998,Not Obese
+1999,Not Obese
+2000,Not Obese
+2001,Not Obese
+2002,Not Obese
+2003,Not Obese
+2004,Not Obese
+2005,Not Obese
+2006,Not Obese
+2007,Not Obese
+2008,Not Obese
+2009,Not Obese
+2010,Obese
+2011,Not Obese
+2012,Not Obese
+2013,Not Obese
+2014,Not Obese
+2015,Not Obese
+2016,Not Obese
+2017,Not Obese
+2018,Obese
+2019,Not Obese
+2020,Not Obese
+2021,Not Obese
+2022,Not Obese
+2023,Not Obese
+2024,Not Obese
+2025,Not Obese
+2026,Not Obese
+2027,Obese
+2028,Not Obese
+2029,Not Obese
+2030,Obese
+2031,Not Obese
+2032,Obese
+2033,Not Obese
+2034,Obese
+2035,Not Obese
+2036,Not Obese
+2037,Not Obese
+2038,Not Obese
+2039,Not Obese
+2040,Not Obese
+2041,Not Obese
+2042,Not Obese
+2043,Not Obese
+2044,Not Obese
+2045,Not Obese
+2046,Not Obese
+2047,Not Obese
+2048,Not Obese
+2049,Not Obese
+2050,Not Obese
+2051,Not Obese
+2052,Not Obese
+2053,Not Obese
+2054,Not Obese
+2055,Not Obese
+2056,Not Obese
+2057,Not Obese
+2058,Not Obese
+2059,Not Obese
+2060,Not Obese
+2061,Not Obese
+2062,Not Obese
+2063,Not Obese
+2064,Not Obese
+2065,Not Obese
+2066,Not Obese
+2067,Not Obese
+2068,Not Obese
+2069,Not Obese
+2070,Not Obese
+2071,Not Obese
+2072,Not Obese
+2073,Not Obese
+2074,Not Obese
+2075,Obese
+2076,Obese
+2077,Obese
+2078,Obese
+2079,Not Obese
+2080,Obese
+2081,Obese
+2082,Obese
+2083,Obese
+2084,Obese
+2085,Obese
+2086,Obese
+2087,Obese
+2088,Obese
+2089,Obese
+2090,Obese
+2091,Obese
+2092,Obese
+2093,Obese
+2094,Obese
+2095,Obese
+2096,Obese
+2097,Obese
+2098,Obese
+2099,Obese
+2100,Not Obese
+2101,Not Obese
+2102,Not Obese
+2103,Not Obese
+2104,Not Obese
+2105,Not Obese
+2106,Not Obese
+2107,Not Obese
+2108,Not Obese
+2109,Not Obese
+2110,Not Obese
+2111,Not Obese
+2112,Not Obese
+2113,Not Obese
+2114,Not Obese
+2115,Not Obese
+2116,Not Obese
+2117,Not Obese
+2118,Obese
+2119,Obese
+2120,Obese
+2121,Obese
+2122,Obese
+2123,Obese
+2124,Obese
+2125,Not Obese
+2126,Obese
+2127,Obese
+2128,Obese
+2129,Obese
+2130,Obese
+2131,Obese
+2132,Obese
+2133,Obese
+2134,Obese
+2135,Obese
+2136,Obese
+2137,Obese
+2138,Not Obese
+2139,Not Obese
+2140,Not Obese
+2141,Not Obese
+2142,Not Obese
+2143,Not Obese
+2144,Not Obese
+2145,Not Obese
+2146,Not Obese
+2147,Not Obese
+2148,Not Obese
+2149,Not Obese
+2150,Not Obese
+2151,Not Obese
+2152,Not Obese
+2153,Not Obese
+2154,Not Obese
+2155,Not Obese
+2156,Not Obese
+2157,Not Obese
+2158,Not Obese
+2159,Not Obese
+2160,Not Obese
+2161,Not Obese
+2162,Not Obese
+2163,Not Obese
+2164,Not Obese
+2165,Not Obese
+2166,Not Obese
+2167,Not Obese
+2168,Obese
+2169,Obese
+2170,Obese
+2171,Obese
+2172,Obese
+2173,Obese
+2174,Obese
+2175,Obese
+2176,Obese
+2177,Obese
+2178,Obese
+2179,Obese
+2180,Obese
+2181,Obese
+2182,Not Obese
+2183,Not Obese
+2184,Not Obese
+2185,Not Obese
+2186,Not Obese
+2187,Not Obese
+2188,Not Obese
+2189,Not Obese
+2190,Not Obese
+2191,Not Obese
+2192,Not Obese
+2193,Not Obese
+2194,Not Obese
+2195,Not Obese
+2196,Obese
+2197,Obese
+2198,Obese
+2199,Not Obese
+2200,Not Obese
+2201,Obese
+2202,Obese
+2203,Obese
+2204,Obese
+2205,Not Obese
+2206,Obese
+2207,Obese
+2208,Obese
+2209,Not Obese
+2210,Obese
+2211,Obese
+2212,Not Obese
+2213,Not Obese
+2214,Not Obese
+2215,Obese
+2216,Not Obese
+2217,Not Obese
+2218,Not Obese
+2219,Not Obese
+2220,Not Obese
+2221,Not Obese
+2222,Not Obese
+2223,Not Obese
+2224,Not Obese
+2225,Not Obese
+2226,Not Obese
+2227,Not Obese
+2228,Not Obese
+2229,Not Obese
+2230,Not Obese
+2231,Not Obese
+2232,Not Obese
+2233,Not Obese
+2234,Not Obese
+2235,Not Obese
+2236,Obese
+2237,Not Obese
+2238,Not Obese
+2239,Not Obese
+2240,Not Obese
+2241,Not Obese
+2242,Not Obese
+2243,Not Obese
+2244,Not Obese
+2245,Not Obese
+2246,Not Obese
+2247,Not Obese
+2248,Not Obese
+2249,Not Obese
+2250,Not Obese
+2251,Not Obese
+2252,Not Obese
+2253,Not Obese
+2254,Not Obese
+2255,Not Obese
+2256,Not Obese
+2257,Not Obese
+2258,Not Obese
+2259,Not Obese
+2260,Obese
+2261,Obese
+2262,Obese
+2263,Obese
+2264,Obese
+2265,Obese
+2266,Obese
+2267,Obese
+2268,Obese
+2269,Obese
+2270,Obese
+2271,Obese
+2272,Obese
+2273,Obese
+2274,Obese
+2275,Not Obese
+2276,Obese
+2277,Obese
+2278,Obese
+2279,Obese
+2280,Obese
+2281,Obese
+2282,Obese
+2283,Obese
+2284,Not Obese
+2285,Obese
+2286,Obese
+2287,Obese
+2288,Not Obese
+2289,Obese
+2290,Not Obese
+2291,Not Obese
+2292,Obese
+2293,Obese
+2294,Not Obese
+2295,Not Obese
+2296,Not Obese
+2297,Not Obese
+2298,Not Obese
+2299,Not Obese
+2300,Not Obese
+2301,Not Obese
+2302,Not Obese
+2303,Not Obese
+2304,Not Obese
+2305,Not Obese
+2306,Not Obese
+2307,Not Obese
+2308,Not Obese
+2309,Not Obese
+2310,Not Obese
+2311,Not Obese
+2312,Not Obese
+2313,Not Obese
+2314,Not Obese
+2315,Not Obese
+2316,Not Obese
+2317,Not Obese
+2318,Not Obese
+2319,Not Obese
+2320,Not Obese
+2321,Not Obese
+2322,Obese
+2323,Not Obese
+2324,Not Obese
+2325,Not Obese
+2326,Not Obese
+2327,Not Obese
+2328,Not Obese
+2329,Not Obese
+2330,Not Obese
+2331,Not Obese
+2332,Not Obese
+2333,Not Obese
+2334,Obese
+2335,Not Obese
+2336,Obese
+2337,Not Obese
+2338,Not Obese
+2339,Not Obese
+2340,Not Obese
+2341,Obese
+2342,Obese
+2343,Obese
+2344,Obese
+2345,Obese
+2346,Obese
+2347,Obese
+2348,Obese
+2349,Obese
+2350,Obese
+2351,Obese
+2352,Obese
+2353,Obese
+2354,Obese
+2355,Obese
+2356,Obese
+2357,Obese
+2358,Obese
+2359,Obese
+2360,Obese
+2361,Obese
+2362,Obese
+2363,Obese
+2364,Obese
+2365,Obese
+2366,Obese
+2367,Not Obese
+2368,Not Obese
+2369,Not Obese
+2370,Not Obese
+2371,Not Obese
+2372,Not Obese
+2373,Not Obese
+2374,Not Obese
+2375,Not Obese
+2376,Not Obese
+2377,Not Obese
+2378,Not Obese
+2379,Not Obese
+2380,Not Obese
+2381,Obese
+2382,Obese
+2383,Obese
+2384,Obese
+2385,Obese
+2386,Obese
+2387,Obese
+2388,Obese
+2389,Obese
+2390,Not Obese
+2391,Obese
+2392,Not Obese
+2393,Obese
+2394,Obese
+2395,Obese
+2396,Obese
+2397,Obese
+2398,Obese
+2399,Not Obese
+2400,Obese
+2401,Obese
+2402,Obese
+2403,Not Obese
+2404,Obese
+2405,Obese
+2406,Obese
+2407,Obese
+2408,Not Obese
+2409,Not Obese
+2410,Obese
+2411,Not Obese
+2412,Not Obese
+2413,Not Obese
+2414,Obese
+2415,Not Obese
+2416,Not Obese
+2417,Obese
+2418,Not Obese
+2419,Not Obese
+2420,Obese
+2421,Not Obese
+2422,Obese
+2423,Obese
+2424,Obese
+2425,Obese
+2426,Not Obese
+2427,Not Obese
+2428,Not Obese
+2429,Not Obese
+2430,Not Obese
+2431,Obese
+2432,Not Obese
+2433,Not Obese
+2434,Not Obese
+2435,Not Obese
+2436,Not Obese
+2437,Obese
+2438,Not Obese
+2439,Obese
+2440,Not Obese
+2441,Not Obese
+2442,Obese
+2443,Obese
+2444,Obese
+2445,Obese
+2446,Obese
+2447,Obese
+2448,Obese
+2449,Obese
+2450,Obese
+2451,Obese
+2452,Obese
+2453,Obese
+2454,Obese
+2455,Obese
+2456,Obese
+2457,Obese
+2458,Obese
+2459,Obese
+2460,Obese
+2461,Obese
+2462,Obese
+2463,Obese
+2464,Obese
+2465,Obese
+2466,Obese
+2467,Not Obese
+2468,Obese
+2469,Obese
+2470,Obese
+2471,Obese
+2472,Obese
+2473,Obese
+2474,Obese
+2475,Obese
+2476,Obese
+2477,Obese
+2478,Obese
+2479,Obese
+2480,Obese
+2481,Obese
+2482,Obese
+2483,Obese
+2484,Obese
+2485,Obese
+2486,Obese
+2487,Not Obese
+2488,Not Obese
+2489,Not Obese
+2490,Not Obese
+2491,Not Obese
+2492,Obese
+2493,Not Obese
+2494,Not Obese
+2495,Obese
+2496,Not Obese
+2497,Not Obese
+2498,Not Obese
+2499,Not Obese
+2500,Not Obese
+2501,Not Obese
+2502,Not Obese
+2503,Not Obese
+2504,Not Obese
+2505,Not Obese
+2506,Not Obese
+2507,Not Obese
+2508,Not Obese
+2509,Obese
+2510,Not Obese
+2511,Not Obese
+2512,Not Obese
+2513,Not Obese
+2514,Not Obese
+2515,Not Obese
+2516,Not Obese
+2517,Not Obese
+2518,Not Obese
+2519,Not Obese
+2520,Not Obese
+2521,Not Obese
+2522,Not Obese
+2523,Not Obese
+2524,Not Obese
+2525,Not Obese
+2526,Not Obese
+2527,Not Obese
+2528,Not Obese
+2529,Not Obese
+2530,Not Obese
+2531,Not Obese
+2532,Not Obese
+2533,Not Obese
+2534,Not Obese
+2535,Not Obese
+2536,Not Obese
+2537,Not Obese
+2538,Not Obese
+2539,Not Obese
+2540,Not Obese
+2541,Not Obese
+2542,Not Obese
+2543,Not Obese
+2544,Not Obese
+2545,Not Obese
+2546,Not Obese
+2547,Not Obese
+2548,Not Obese
+2549,Not Obese
+2550,Not Obese
+2551,Not Obese
+2552,Not Obese
+2553,Not Obese
+2554,Not Obese
+2555,Not Obese
+2556,Not Obese
+2557,Not Obese
+2558,Not Obese
+2559,Not Obese
+2560,Not Obese
+2561,Not Obese
+2562,Not Obese
+2563,Not Obese
+2564,Not Obese
+2565,Not Obese
+2566,Not Obese
+2567,Not Obese
+2568,Obese
+2569,Not Obese
+2570,Not Obese
+2571,Not Obese
+2572,Not Obese
+2573,Not Obese
+2574,Not Obese
+2575,Obese
+2576,Not Obese
+2577,Not Obese
+2578,Not Obese
+2579,Not Obese
+2580,Not Obese
+2581,Not Obese
+2582,Not Obese
+2583,Not Obese
+2584,Not Obese
+2585,Not Obese
+2586,Not Obese
+2587,Not Obese
+2588,Not Obese
+2589,Not Obese
+2590,Not Obese
+2591,Not Obese
+2592,Not Obese
+2593,Not Obese
+2594,Not Obese
+2595,Not Obese
+2596,Not Obese
+2597,Not Obese
+2598,Not Obese
+2599,Not Obese
+2600,Not Obese
+2601,Not Obese
+2602,Not Obese
+2603,Not Obese
+2604,Not Obese
+2605,Not Obese
+2606,Not Obese
+2607,Not Obese
+2608,Not Obese
+2609,Not Obese
+2610,Not Obese
+2611,Not Obese
+2612,Not Obese
+2613,Not Obese
+2614,Not Obese
+2615,Not Obese
+2616,Not Obese
+2617,Not Obese
+2618,Not Obese
+2619,Not Obese
+2620,Not Obese
+2621,Not Obese
+2622,Not Obese
+2623,Not Obese
+2624,Not Obese
+2625,Not Obese
+2626,Not Obese
+2627,Not Obese
+2628,Not Obese
+2629,Not Obese
+2630,Not Obese
+2631,Not Obese
+2632,Not Obese
+2633,Not Obese
+2634,Not Obese
+2635,Not Obese
+2636,Not Obese
+2637,Not Obese
+2638,Not Obese
+2639,Not Obese
+2640,Not Obese
+2641,Not Obese
+2642,Not Obese
+2643,Obese
+2644,Obese
+2645,Not Obese
+2646,Obese
+2647,Obese
+2648,Obese
+2649,Not Obese
+2650,Not Obese
+2651,Obese
+2652,Obese
+2653,Not Obese
+2654,Obese
+2655,Obese
+2656,Not Obese
+2657,Not Obese
+2658,Not Obese
+2659,Not Obese
+2660,Not Obese
+2661,Not Obese
+2662,Not Obese
+2663,Not Obese
+2664,Not Obese
+2665,Not Obese
+2666,Not Obese
+2667,Not Obese
+2668,Not Obese
+2669,Not Obese
+2670,Not Obese
+2671,Not Obese
+2672,Not Obese
+2673,Not Obese
+2674,Not Obese
+2675,Not Obese
+2676,Not Obese
+2677,Not Obese
+2678,Not Obese
+2679,Not Obese
+2680,Not Obese
+2681,Not Obese
+2682,Not Obese
+2683,Not Obese
+2684,Not Obese
+2685,Not Obese
+2686,Not Obese
+2687,Not Obese
+2688,Not Obese
+2689,Not Obese
+2690,Not Obese
+2691,Not Obese
+2692,Not Obese
+2693,Obese
+2694,Not Obese
+2695,Not Obese
+2696,Not Obese
+2697,Obese
+2698,Obese
+2699,Not Obese
+2700,Not Obese
+2701,Not Obese
+2702,Not Obese
+2703,Not Obese
+2704,Not Obese
+2705,Not Obese
+2706,Not Obese
+2707,Not Obese
+2708,Not Obese
+2709,Not Obese
+2710,Not Obese
+2711,Not Obese
+2712,Not Obese
+2713,Not Obese
+2714,Not Obese
+2715,Not Obese
+2716,Not Obese
+2717,Not Obese
+2718,Not Obese
+2719,Not Obese
+2720,Not Obese
+2721,Not Obese
+2722,Not Obese
+2723,Not Obese
+2724,Not Obese
+2725,Not Obese
+2726,Not Obese
+2727,Not Obese
+2728,Not Obese
+2729,Not Obese
+2730,Not Obese
+2731,Not Obese
+2732,Not Obese
+2733,Not Obese
+2734,Not Obese
+2735,Not Obese
+2736,Not Obese
+2737,Not Obese
+2738,Not Obese
+2739,Not Obese
+2740,Not Obese
+2741,Not Obese
+2742,Not Obese
+2743,Not Obese
+2744,Not Obese
+2745,Not Obese
+2746,Not Obese
+2747,Not Obese
+2748,Not Obese
+2749,Not Obese
+2750,Not Obese
+2751,Not Obese
+2752,Not Obese
+2753,Not Obese
+2754,Not Obese
+2755,Not Obese
+2756,Not Obese
+2757,Not Obese
+2758,Not Obese
+2759,Not Obese
+2760,Obese
+2761,Not Obese
+2762,Not Obese
+2763,Not Obese
+2764,Not Obese
+2765,Not Obese
+2766,Not Obese
+2767,Not Obese
+2768,Not Obese
+2769,Not Obese
+2770,Not Obese
+2771,Not Obese
+2772,Not Obese
+2773,Not Obese
+2774,Not Obese
+2775,Not Obese
+2776,Not Obese
+2777,Not Obese
+2778,Not Obese
+2779,Not Obese
+2780,Not Obese
+2781,Not Obese
+2782,Not Obese
+2783,Not Obese
+2784,Not Obese
+2785,Not Obese
+2786,Not Obese
+2787,Not Obese
+2788,Not Obese
+2789,Obese
+2790,Obese
+2791,Obese
+2792,Obese
+2793,Not Obese
+2794,Not Obese
+2795,Obese
+2796,Obese
+2797,Obese
+2798,Not Obese
+2799,Not Obese
+2800,Not Obese
+2801,Not Obese
+2802,Not Obese
+2803,Not Obese
+2804,Not Obese
+2805,Not Obese
+2806,Not Obese
+2807,Not Obese
+2808,Not Obese
+2809,Not Obese
+2810,Not Obese
+2811,Not Obese
+2812,Not Obese
+2813,Not Obese
+2814,Not Obese
+2815,Not Obese
+2816,Not Obese
+2817,Not Obese
+2818,Not Obese
+2819,Not Obese
+2820,Not Obese
+2821,Not Obese
+2822,Not Obese
+2823,Not Obese
+2824,Not Obese
+2825,Not Obese
+2826,Not Obese
+2827,Not Obese
+2828,Not Obese
+2829,Not Obese
+2830,Not Obese
+2831,Not Obese
+2832,Not Obese
+2833,Not Obese
+2834,Not Obese
+2835,Not Obese
+2836,Not Obese
+2837,Not Obese
+2838,Not Obese
+2839,Not Obese
+2840,Not Obese
+2841,Not Obese
+2842,Not Obese
+2843,Not Obese
+2844,Not Obese
+2845,Not Obese
+2846,Not Obese
+2847,Not Obese
+2848,Not Obese
+2849,Not Obese
+2850,Not Obese
+2851,Not Obese
+2852,Not Obese
+2853,Not Obese
+2854,Not Obese
+2855,Not Obese
+2856,Not Obese
+2857,Not Obese
+2858,Not Obese
+2859,Not Obese
+2860,Not Obese
+2861,Not Obese
+2862,Not Obese
+2863,Not Obese
+2864,Not Obese
+2865,Not Obese
+2866,Not Obese
+2867,Obese
+2868,Not Obese
+2869,Not Obese
+2870,Not Obese
+2871,Not Obese
+2872,Not Obese
+2873,Not Obese
+2874,Obese
+2875,Not Obese
+2876,Not Obese
+2877,Not Obese
+2878,Not Obese
+2879,Not Obese
+2880,Not Obese
+2881,Not Obese
+2882,Not Obese
+2883,Not Obese
+2884,Not Obese
+2885,Not Obese
+2886,Not Obese
+2887,Not Obese
+2888,Not Obese
+2889,Not Obese
+2890,Not Obese
+2891,Not Obese
+2892,Not Obese
+2893,Not Obese
+2894,Not Obese
+2895,Not Obese
+2896,Not Obese
+2897,Not Obese
+2898,Not Obese
+2899,Not Obese
+2900,Not Obese
+2901,Not Obese
+2902,Not Obese
+2903,Not Obese
+2904,Not Obese
+2905,Not Obese
+2906,Not Obese
+2907,Not Obese
+2908,Not Obese
+2909,Not Obese
+2910,Not Obese
+2911,Obese
+2912,Obese
+2913,Obese
+2914,Obese
+2915,Obese
+2916,Obese
+2917,Obese
+2918,Obese
+2919,Obese
+2920,Not Obese
+2921,Not Obese
+2922,Not Obese
+2923,Not Obese
+2924,Not Obese
+2925,Not Obese
+2926,Not Obese
+2927,Not Obese
+2928,Not Obese
+2929,Not Obese
+2930,Not Obese
+2931,Not Obese
+2932,Not Obese
+2933,Not Obese
+2934,Not Obese
+2935,Not Obese
+2936,Not Obese
+2937,Not Obese
+2938,Not Obese
+2939,Not Obese
+2940,Not Obese
+2941,Not Obese
+2942,Not Obese
+2943,Not Obese
+2944,Obese
+2945,Obese
+2946,Not Obese
+2947,Not Obese
+2948,Not Obese
+2949,Not Obese
+2950,Not Obese
+2951,Obese
+2952,Not Obese
+2953,Not Obese
+2954,Not Obese
+2955,Not Obese
+2956,Not Obese
+2957,Not Obese
+2958,Not Obese
+2959,Not Obese
+2960,Not Obese
+2961,Not Obese
+2962,Not Obese
+2963,Not Obese
+2964,Not Obese
+2965,Not Obese
+2966,Not Obese
+2967,Not Obese
+2968,Not Obese
+2969,Not Obese
+2970,Not Obese
+2971,Not Obese
+2972,Not Obese
+2973,Not Obese
+2974,Not Obese
+2975,Not Obese
+2976,Not Obese
+2977,Not Obese
+2978,Not Obese
+2979,Not Obese
+2980,Not Obese
+2981,Not Obese
+2982,Not Obese
+2983,Not Obese
+2984,Not Obese
+2985,Not Obese
+2986,Not Obese
+2987,Not Obese
+2988,Not Obese
+2989,Not Obese
+2990,Not Obese
+2991,Not Obese
+2992,Not Obese
+2993,Not Obese
+2994,Not Obese
+2995,Not Obese
+2996,Not Obese
+2997,Not Obese
+2998,Not Obese
+2999,Not Obese
+3000,Not Obese
+3001,Not Obese
+3002,Not Obese
+3003,Not Obese
+3004,Obese
+3005,Obese
+3006,Obese
+3007,Obese
+3008,Obese
+3009,Obese
+3010,Obese
+3011,Obese
+3012,Obese
+3013,Obese
+3014,Obese
+3015,Obese
+3016,Obese
+3017,Obese
+3018,Obese
+3019,Obese
+3020,Not Obese
+3021,Not Obese
+3022,Not Obese
+3023,Not Obese
+3024,Not Obese
+3025,Not Obese
+3026,Not Obese
+3027,Not Obese
+3028,Not Obese
+3029,Not Obese
+3030,Not Obese
+3031,Not Obese
+3032,Obese
+3033,Not Obese
+3034,Not Obese
+3035,Not Obese
+3036,Not Obese
+3037,Not Obese
+3038,Not Obese
+3039,Not Obese
+3040,Not Obese
+3041,Not Obese
+3042,Not Obese
+3043,Not Obese
+3044,Not Obese
+3045,Not Obese
+3046,Not Obese
+3047,Not Obese
+3048,Not Obese
+3049,Obese
+3050,Not Obese
+3051,Not Obese
+3052,Not Obese
+3053,Not Obese
+3054,Not Obese
+3055,Not Obese
+3056,Not Obese
+3057,Not Obese
+3058,Not Obese
+3059,Not Obese
+3060,Not Obese
+3061,Not Obese
+3062,Not Obese
+3063,Not Obese
+3064,Not Obese
+3065,Not Obese
+3066,Not Obese
+3067,Not Obese
+3068,Not Obese
+3069,Not Obese
+3070,Not Obese
+3071,Not Obese
+3072,Not Obese
+3073,Not Obese
+3074,Not Obese
+3075,Not Obese
+3076,Not Obese
+3077,Not Obese
+3078,Not Obese
+3079,Not Obese
+3080,Not Obese
+3081,Not Obese
+3082,Not Obese
+3083,Not Obese
+3084,Not Obese
+3085,Not Obese
+3086,Not Obese
+3087,Not Obese
+3088,Not Obese
+3089,Not Obese
+3090,Not Obese
+3091,Not Obese
+3092,Not Obese
+3093,Not Obese
+3094,Not Obese
+3095,Not Obese
+3096,Not Obese
+3097,Not Obese
+3098,Not Obese
+3099,Not Obese
+3100,Not Obese
+3101,Not Obese
+3102,Not Obese
+3103,Not Obese
+3104,Not Obese
+3105,Not Obese
+3106,Not Obese
+3107,Not Obese
+3108,Not Obese
+3109,Not Obese
+3110,Not Obese
+3111,Not Obese
+3112,Not Obese
+3113,Not Obese
+3114,Not Obese
+3115,Not Obese
+3116,Not Obese
+3117,Not Obese
+3118,Not Obese
+3119,Not Obese
+3120,Not Obese
+3121,Not Obese
+3122,Not Obese
+3123,Not Obese
+3124,Not Obese
+3125,Not Obese
+3126,Not Obese
+3127,Not Obese
+3128,Not Obese
+3129,Not Obese
+3130,Not Obese
+3131,Not Obese
+3132,Not Obese
+3133,Not Obese
+3134,Not Obese
+3135,Obese
+3136,Obese
+3137,Obese
+3138,Obese
+3139,Obese
+3140,Obese
+3141,Obese
+3142,Obese
+3143,Obese
+3144,Obese
+3145,Obese
+3146,Obese
+3147,Obese
+3148,Not Obese
+3149,Not Obese
+3150,Not Obese
+3151,Not Obese
+3152,Not Obese
+3153,Not Obese
+3154,Not Obese
+3155,Not Obese
+3156,Not Obese
+3157,Not Obese
+3158,Not Obese
+3159,Obese
+3160,Not Obese
+3161,Not Obese
+3162,Not Obese
+3163,Not Obese
+3164,Not Obese
+3165,Not Obese
+3166,Not Obese
+3167,Obese
+3168,Not Obese
+3169,Not Obese
+3170,Not Obese
+3171,Not Obese
+3172,Not Obese
+3173,Not Obese
+3174,Not Obese
+3175,Not Obese
+3176,Not Obese
+3177,Not Obese
+3178,Not Obese
+3179,Not Obese
+3180,Not Obese
+3181,Not Obese
+3182,Not Obese
+3183,Not Obese
+3184,Not Obese
+3185,Not Obese
+3186,Not Obese
+3187,Not Obese
+3188,Not Obese
+3189,Not Obese
+3190,Not Obese
+3191,Not Obese
+3192,Not Obese
+3193,Not Obese
+3194,Not Obese
+3195,Not Obese
+3196,Not Obese
+3197,Not Obese
+3198,Not Obese
+3199,Not Obese
+3200,Not Obese
+3201,Not Obese
+3202,Not Obese
+3203,Not Obese
+3204,Not Obese
+3205,Not Obese
+3206,Not Obese
+3207,Not Obese
+3208,Not Obese
+3209,Not Obese
+3210,Not Obese
+3211,Not Obese
+3212,Not Obese
+3213,Not Obese
+3214,Not Obese
+3215,Not Obese
+3216,Obese
+3217,Not Obese
+3218,Not Obese
+3219,Not Obese
+3220,Not Obese
+3221,Not Obese
+3222,Obese
+3223,Not Obese
+3224,Not Obese
+3225,Not Obese
+3226,Not Obese
+3227,Not Obese
+3228,Not Obese
+3229,Not Obese
+3230,Not Obese
+3231,Not Obese
+3232,Not Obese
+3233,Not Obese
+3234,Not Obese
+3235,Not Obese
+3236,Not Obese
+3237,Not Obese
+3238,Not Obese
+3239,Not Obese
+3240,Not Obese
+3241,Not Obese
+3242,Not Obese
+3243,Not Obese
+3244,Not Obese
+3245,Not Obese
+3246,Not Obese
+3247,Not Obese
+3248,Not Obese
+3249,Not Obese
+3250,Not Obese
+3251,Not Obese
+3252,Not Obese
+3253,Not Obese
+3254,Not Obese
+3255,Not Obese
+3256,Obese
+3257,Not Obese
+3258,Obese
+3259,Obese
+3260,Not Obese
+3261,Not Obese
+3262,Not Obese
+3263,Obese
+3264,Obese
+3265,Not Obese
+3266,Obese
+3267,Obese
+3268,Obese
+3269,Not Obese
+3270,Not Obese
+3271,Not Obese
+3272,Not Obese
+3273,Not Obese
+3274,Not Obese
+3275,Not Obese
+3276,Not Obese
+3277,Not Obese
+3278,Not Obese
+3279,Not Obese
+3280,Not Obese
+3281,Not Obese
+3282,Not Obese
+3283,Not Obese
+3284,Not Obese
+3285,Not Obese
+3286,Not Obese
+3287,Not Obese
+3288,Not Obese
+3289,Not Obese
+3290,Not Obese
+3291,Not Obese
+3292,Not Obese
+3293,Not Obese
+3294,Not Obese
+3295,Not Obese
+3296,Not Obese
+3297,Not Obese
+3298,Not Obese
+3299,Not Obese
+3300,Not Obese
+3301,Not Obese
+3302,Not Obese
+3303,Not Obese
+3304,Not Obese
+3305,Not Obese
+3306,Not Obese
+3307,Not Obese
+3308,Not Obese
+3309,Not Obese
+3310,Not Obese
+3311,Not Obese
+3312,Not Obese
+3313,Not Obese
+3314,Not Obese
+3315,Not Obese
+3316,Not Obese
+3317,Not Obese
+3318,Not Obese
+3319,Not Obese
+3320,Not Obese
+3321,Not Obese
+3322,Not Obese
+3323,Not Obese
+3324,Not Obese
+3325,Not Obese
+3326,Not Obese
+3327,Not Obese
+3328,Not Obese
+3329,Not Obese
+3330,Not Obese
+3331,Not Obese
+3332,Not Obese
+3333,Not Obese
+3334,Not Obese
+3335,Not Obese
+3336,Not Obese
+3337,Not Obese
+3338,Not Obese
+3339,Not Obese
+3340,Not Obese
+3341,Obese
+3342,Obese
+3343,Obese
+3344,Obese
+3345,Obese
+3346,Obese
+3347,Obese
+3348,Obese
+3349,Obese
+3350,Obese
+3351,Obese
+3352,Obese
+3353,Obese
+3354,Obese
+3355,Obese
+3356,Obese
+3357,Not Obese
+3358,Obese
+3359,Not Obese
+3360,Not Obese
+3361,Not Obese
+3362,Not Obese
+3363,Not Obese
+3364,Not Obese
+3365,Not Obese
+3366,Not Obese
+3367,Not Obese
+3368,Not Obese
+3369,Not Obese
+3370,Not Obese
+3371,Not Obese
+3372,Not Obese
+3373,Not Obese
+3374,Not Obese
+3375,Not Obese
+3376,Not Obese
+3377,Not Obese
+3378,Not Obese
+3379,Not Obese
+3380,Not Obese
+3381,Not Obese
+3382,Not Obese
+3383,Not Obese
+3384,Not Obese
+3385,Not Obese
+3386,Not Obese
+3387,Not Obese
+3388,Not Obese
+3389,Not Obese
+3390,Obese
+3391,Not Obese
+3392,Not Obese
+3393,Not Obese
+3394,Not Obese
+3395,Obese
+3396,Obese
+3397,Not Obese
+3398,Not Obese
+3399,Not Obese
+3400,Not Obese
+3401,Not Obese
+3402,Not Obese
+3403,Obese
+3404,Not Obese
+3405,Not Obese
+3406,Not Obese
+3407,Not Obese
+3408,Not Obese
+3409,Not Obese
+3410,Not Obese
+3411,Not Obese
+3412,Not Obese
+3413,Not Obese
+3414,Not Obese
+3415,Not Obese
+3416,Not Obese
+3417,Not Obese
+3418,Not Obese
+3419,Not Obese
+3420,Not Obese
+3421,Not Obese
+3422,Not Obese
+3423,Not Obese
+3424,Not Obese
+3425,Not Obese
+3426,Obese
+3427,Not Obese
+3428,Not Obese
+3429,Not Obese
+3430,Not Obese
+3431,Not Obese
+3432,Not Obese
+3433,Obese
+3434,Not Obese
+3435,Not Obese
+3436,Not Obese
+3437,Not Obese
+3438,Not Obese
+3439,Not Obese
+3440,Not Obese
+3441,Not Obese
+3442,Not Obese
+3443,Not Obese
+3444,Not Obese
+3445,Not Obese
+3446,Not Obese
+3447,Not Obese
+3448,Not Obese
+3449,Not Obese
+3450,Not Obese
+3451,Not Obese
+3452,Obese
+3453,Obese
+3454,Obese
+3455,Obese
+3456,Obese
+3457,Obese
+3458,Obese
+3459,Obese
+3460,Obese
+3461,Obese
+3462,Obese
+3463,Obese
+3464,Obese
+3465,Obese
+3466,Obese
+3467,Obese
+3468,Obese
+3469,Obese
+3470,Obese
+3471,Obese
+3472,Obese
+3473,Obese
+3474,Obese
+3475,Obese
+3476,Obese
+3477,Obese
+3478,Obese
+3479,Obese
+3480,Obese
+3481,Obese
+3482,Obese
+3483,Obese
+3484,Not Obese
+3485,Not Obese
+3486,Not Obese
+3487,Not Obese
+3488,Not Obese
+3489,Not Obese
+3490,Not Obese
+3491,Not Obese
+3492,Not Obese
+3493,Not Obese
+3494,Not Obese
+3495,Not Obese
+3496,Not Obese
+3497,Not Obese
+3498,Not Obese
+3499,Not Obese
+3500,Not Obese
+3501,Not Obese
+3502,Not Obese
+3503,Not Obese
+3504,Not Obese
+3505,Not Obese
+3506,Not Obese
+3507,Not Obese
+3508,Not Obese
+3509,Not Obese
+3510,Not Obese
+3511,Not Obese
+3512,Not Obese
+3513,Not Obese
+3514,Not Obese
+3515,Not Obese
+3516,Not Obese
+3517,Not Obese
+3518,Not Obese
+3519,Not Obese
+3520,Not Obese
+3521,Not Obese
+3522,Not Obese
+3523,Not Obese
+3524,Not Obese
+3525,Not Obese
+3526,Not Obese
+3527,Not Obese
+3528,Not Obese
+3529,Not Obese
+3530,Not Obese
+3531,Not Obese
+3532,Not Obese
+3533,Not Obese
+3534,Not Obese
+3535,Not Obese
+3536,Not Obese
+3537,Not Obese
+3538,Not Obese
+3539,Not Obese
+3540,Not Obese
+3541,Obese
+3542,Obese
+3543,Not Obese
+3544,Obese
+3545,Obese
+3546,Obese
+3547,Obese
+3548,Obese
+3549,Not Obese
+3550,Obese
+3551,Obese
+3552,Obese
+3553,Obese
+3554,Obese
+3555,Not Obese
+3556,Not Obese
+3557,Not Obese
+3558,Not Obese
+3559,Not Obese
+3560,Not Obese
+3561,Not Obese
+3562,Not Obese
+3563,Not Obese
+3564,Not Obese
+3565,Not Obese
+3566,Not Obese
+3567,Not Obese
+3568,Not Obese
+3569,Not Obese
+3570,Not Obese
+3571,Not Obese
+3572,Not Obese
+3573,Not Obese
+3574,Not Obese
+3575,Not Obese
+3576,Not Obese
+3577,Not Obese
+3578,Not Obese
+3579,Not Obese
+3580,Not Obese
+3581,Not Obese
+3582,Obese
+3583,Not Obese
+3584,Not Obese
+3585,Not Obese
+3586,Not Obese
+3587,Not Obese
+3588,Not Obese
+3589,Not Obese
+3590,Obese
+3591,Not Obese
+3592,Not Obese
+3593,Not Obese
+3594,Obese
+3595,Not Obese
+3596,Not Obese
+3597,Not Obese
+3598,Not Obese
+3599,Not Obese
+3600,Not Obese
+3601,Not Obese
+3602,Not Obese
+3603,Not Obese
+3604,Not Obese
+3605,Not Obese
+3606,Not Obese
+3607,Not Obese
+3608,Not Obese
+3609,Not Obese
+3610,Not Obese
+3611,Not Obese
+3612,Not Obese
+3613,Not Obese
+3614,Not Obese
+3615,Not Obese
+3616,Obese
+3617,Obese
+3618,Obese
+3619,Not Obese
+3620,Obese
+3621,Obese
+3622,Obese
+3623,Obese
+3624,Obese
+3625,Obese
+3626,Obese
+3627,Obese
+3628,Not Obese
+3629,Not Obese
+3630,Not Obese
+3631,Not Obese
+3632,Not Obese
+3633,Not Obese
+3634,Not Obese
+3635,Not Obese
+3636,Not Obese
+3637,Not Obese
+3638,Not Obese
+3639,Not Obese
+3640,Not Obese
+3641,Not Obese
+3642,Not Obese
+3643,Obese
+3644,Obese
+3645,Not Obese
+3646,Not Obese
+3647,Not Obese
+3648,Obese
+3649,Not Obese
+3650,Not Obese
+3651,Not Obese
+3652,Obese
+3653,Obese
+3654,Obese
+3655,Not Obese
+3656,Not Obese
+3657,Obese
+3658,Obese
+3659,Not Obese
+3660,Obese
+3661,Obese
+3662,Obese
+3663,Obese
+3664,Not Obese
+3665,Obese
+3666,Not Obese
+3667,Not Obese
+3668,Not Obese
+3669,Not Obese
+3670,Not Obese
+3671,Not Obese
+3672,Not Obese
+3673,Not Obese
+3674,Not Obese
+3675,Not Obese
+3676,Not Obese
+3677,Not Obese
+3678,Not Obese
+3679,Not Obese
+3680,Not Obese
+3681,Not Obese
+3682,Not Obese
+3683,Not Obese
+3684,Not Obese
+3685,Not Obese
+3686,Not Obese
+3687,Not Obese
+3688,Not Obese
+3689,Not Obese
+3690,Not Obese
+3691,Not Obese
+3692,Not Obese
+3693,Not Obese
+3694,Not Obese
+3695,Not Obese
+3696,Not Obese
+3697,Not Obese
+3698,Not Obese
+3699,Not Obese
+3700,Not Obese
+3701,Not Obese
+3702,Not Obese
+3703,Not Obese
+3704,Not Obese
+3705,Not Obese
+3706,Not Obese
+3707,Not Obese
+3708,Not Obese
+3709,Not Obese
+3710,Not Obese
+3711,Not Obese
+3712,Not Obese
+3713,Not Obese
+3714,Obese
+3715,Not Obese
+3716,Not Obese
+3717,Obese
+3718,Not Obese
+3719,Not Obese
+3720,Not Obese
+3721,Not Obese
+3722,Obese
+3723,Not Obese
+3724,Not Obese
+3725,Not Obese
+3726,Not Obese
+3727,Not Obese
+3728,Not Obese
+3729,Not Obese
+3730,Not Obese
+3731,Not Obese
+3732,Not Obese
+3733,Not Obese
+3734,Not Obese
+3735,Obese
+3736,Obese
+3737,Not Obese
+3738,Not Obese
+3739,Not Obese
+3740,Obese
+3741,Not Obese
+3742,Obese
+3743,Not Obese
+3744,Not Obese
+3745,Obese
+3746,Not Obese
+3747,Not Obese
+3748,Not Obese
+3749,Not Obese
+3750,Not Obese
+3751,Not Obese
+3752,Not Obese
+3753,Not Obese
+3754,Not Obese
+3755,Not Obese
+3756,Not Obese
+3757,Not Obese
+3758,Not Obese
+3759,Not Obese
+3760,Not Obese
+3761,Not Obese
+3762,Not Obese
+3763,Obese
+3764,Not Obese
+3765,Not Obese
+3766,Not Obese
+3767,Not Obese
+3768,Not Obese
+3769,Not Obese
+3770,Obese
+3771,Not Obese
+3772,Not Obese
+3773,Obese
+3774,Not Obese
+3775,Not Obese
+3776,Not Obese
+3777,Not Obese
+3778,Obese
+3779,Not Obese
+3780,Not Obese
+3781,Not Obese
+3782,Not Obese
+3783,Not Obese
+3784,Not Obese
+3785,Not Obese
+3786,Not Obese
+3787,Not Obese
+3788,Not Obese
+3789,Not Obese
+3790,Not Obese
+3791,Not Obese
+3792,Not Obese
+3793,Not Obese
+3794,Not Obese
+3795,Not Obese
+3796,Not Obese
+3797,Not Obese
+3798,Not Obese
+3799,Not Obese
+3800,Not Obese
+3801,Not Obese
+3802,Not Obese
+3803,Not Obese
+3804,Not Obese
+3805,Not Obese
+3806,Not Obese
+3807,Not Obese
+3808,Not Obese
+3809,Not Obese
+3810,Not Obese
+3811,Not Obese
+3812,Not Obese
+3813,Not Obese
+3814,Not Obese
+3815,Not Obese
+3816,Not Obese
+3817,Not Obese
+3818,Not Obese
+3819,Not Obese
+3820,Not Obese
+3821,Not Obese
+3822,Not Obese
+3823,Not Obese
+3824,Not Obese
+3825,Not Obese
+3826,Not Obese
+3827,Not Obese
+3828,Not Obese
+3829,Not Obese
+3830,Not Obese
+3831,Not Obese
+3832,Not Obese
+3833,Not Obese
+3834,Not Obese
+3835,Not Obese
+3836,Not Obese
+3837,Not Obese
+3838,Not Obese
+3839,Not Obese
+3840,Not Obese
+3841,Not Obese
+3842,Not Obese
+3843,Not Obese
+3844,Not Obese
+3845,Not Obese
+3846,Not Obese
+3847,Not Obese
+3848,Not Obese
+3849,Not Obese
+3850,Not Obese
+3851,Not Obese
+3852,Not Obese
+3853,Not Obese
+3854,Not Obese
+3855,Not Obese
+3856,Not Obese
+3857,Not Obese
+3858,Not Obese
+3859,Not Obese
+3860,Not Obese
+3861,Not Obese
+3862,Not Obese
+3863,Not Obese
+3864,Not Obese
+3865,Not Obese
+3866,Not Obese
+3867,Not Obese
+3868,Not Obese
+3869,Not Obese
+3870,Not Obese
+3871,Not Obese
+3872,Not Obese
+3873,Not Obese
+3874,Not Obese
+3875,Not Obese
+3876,Not Obese
+3877,Not Obese
+3878,Not Obese
+3879,Not Obese
+3880,Not Obese
+3881,Not Obese
+3882,Not Obese
+3883,Not Obese
+3884,Not Obese
+3885,Not Obese
+3886,Obese
+3887,Obese
+3888,Obese
+3889,Obese
+3890,Obese
+3891,Obese
+3892,Obese
+3893,Obese
+3894,Obese
+3895,Not Obese
+3896,Not Obese
+3897,Not Obese
+3898,Not Obese
+3899,Not Obese
+3900,Obese
+3901,Not Obese
+3902,Not Obese
+3903,Not Obese
+3904,Not Obese
+3905,Not Obese
+3906,Not Obese
+3907,Not Obese
+3908,Not Obese
+3909,Not Obese
+3910,Not Obese
+3911,Not Obese
+3912,Not Obese
+3913,Not Obese
+3914,Not Obese
+3915,Not Obese
+3916,Not Obese
+3917,Not Obese
+3918,Not Obese
+3919,Not Obese
+3920,Not Obese
+3921,Not Obese
+3922,Not Obese
+3923,Not Obese
+3924,Not Obese
+3925,Not Obese
+3926,Not Obese
+3927,Not Obese
+3928,Not Obese
+3929,Not Obese
+3930,Not Obese
+3931,Not Obese
+3932,Not Obese
+3933,Not Obese
+3934,Not Obese
+3935,Not Obese
+3936,Not Obese
+3937,Not Obese
+3938,Not Obese
+3939,Not Obese
+3940,Not Obese
+3941,Not Obese
+3942,Not Obese
+3943,Not Obese
+3944,Not Obese
+3945,Not Obese
+3946,Not Obese
+3947,Not Obese
+3948,Not Obese
+3949,Not Obese
+3950,Not Obese
+3951,Not Obese
+3952,Not Obese
+3953,Not Obese
+3954,Not Obese
+3955,Not Obese
+3956,Not Obese
+3957,Not Obese
+3958,Not Obese
+3959,Not Obese
+3960,Not Obese
+3961,Not Obese
+3962,Not Obese
+3963,Not Obese
+3964,Not Obese
+3965,Not Obese
+3966,Not Obese
+3967,Not Obese
+3968,Not Obese
+3969,Not Obese
+3970,Not Obese
+3971,Not Obese
+3972,Not Obese
+3973,Not Obese
+3974,Obese
+3975,Obese
+3976,Obese
+3977,Obese
+3978,Obese
+3979,Obese
+3980,Obese
+3981,Obese
+3982,Obese
+3983,Obese
+3984,Obese
+3985,Obese
+3986,Obese
+3987,Obese
+3988,Obese
+3989,Obese
+3990,Obese
+3991,Obese
+3992,Obese
+3993,Obese
+3994,Obese
+3995,Obese
+3996,Obese
+3997,Obese
+3998,Obese
+3999,Obese
+4000,Not Obese
+4001,Not Obese
+4002,Not Obese
+4003,Not Obese
+4004,Not Obese
+4005,Not Obese
+4006,Not Obese
+4007,Not Obese
+4008,Not Obese
+4009,Not Obese
+4010,Not Obese
+4011,Not Obese
+4012,Not Obese
+4013,Not Obese
+4014,Not Obese
+4015,Not Obese
+4016,Not Obese
+4017,Not Obese
+4018,Not Obese
+4019,Not Obese
+4020,Obese
+4021,Not Obese
+4022,Obese
+4023,Obese
+4024,Not Obese
+4025,Not Obese
+4026,Not Obese
+4027,Not Obese
+4028,Not Obese
+4029,Not Obese
+4030,Not Obese
+4031,Not Obese
+4032,Not Obese
+4033,Not Obese
+4034,Not Obese
+4035,Not Obese
+4036,Not Obese
+4037,Not Obese
+4038,Not Obese
+4039,Not Obese
+4040,Not Obese
+4041,Not Obese
+4042,Not Obese
+4043,Not Obese
+4044,Not Obese
+4045,Not Obese
+4046,Not Obese
+4047,Not Obese
+4048,Not Obese
+4049,Not Obese
+4050,Not Obese
+4051,Not Obese
+4052,Not Obese
+4053,Not Obese
+4054,Not Obese
+4055,Not Obese
+4056,Not Obese
+4057,Not Obese
+4058,Not Obese
+4059,Not Obese
+4060,Not Obese
+4061,Not Obese
+4062,Not Obese
+4063,Not Obese
+4064,Not Obese
+4065,Not Obese
+4066,Not Obese
+4067,Not Obese
+4068,Not Obese
+4069,Not Obese
+4070,Not Obese
+4071,Not Obese
+4072,Not Obese
+4073,Not Obese
+4074,Not Obese
+4075,Not Obese
+4076,Not Obese
+4077,Not Obese
+4078,Not Obese
+4079,Not Obese
+4080,Not Obese
+4081,Not Obese
+4082,Not Obese
+4083,Not Obese
+4084,Not Obese
+4085,Not Obese
+4086,Not Obese
+4087,Not Obese
+4088,Not Obese
+4089,Not Obese
+4090,Not Obese
+4091,Not Obese
+4092,Not Obese
+4093,Not Obese
+4094,Not Obese
+4095,Not Obese
+4096,Not Obese
+4097,Not Obese
+4098,Not Obese
+4099,Not Obese
+4100,Not Obese
+4101,Not Obese
+4102,Not Obese
+4103,Not Obese
+4104,Not Obese
+4105,Not Obese
+4106,Not Obese
+4107,Not Obese
+4108,Not Obese
+4109,Not Obese
+4110,Not Obese
+4111,Not Obese
+4112,Not Obese
+4113,Not Obese
+4114,Not Obese
+4115,Not Obese
+4116,Not Obese
+4117,Not Obese
+4118,Not Obese
+4119,Not Obese
+4120,Not Obese
+4121,Not Obese
+4122,Obese
+4123,Obese
+4124,Obese
+4125,Obese
+4126,Not Obese
+4127,Not Obese
+4128,Not Obese
+4129,Not Obese
+4130,Not Obese
+4131,Obese
+4132,Obese
+4133,Not Obese
+4134,Not Obese
+4135,Not Obese
+4136,Not Obese
+4137,Not Obese
+4138,Not Obese
+4139,Not Obese
+4140,Not Obese
+4141,Not Obese
+4142,Not Obese
+4143,Not Obese
+4144,Not Obese
+4145,Not Obese
+4146,Not Obese
+4147,Not Obese
+4148,Not Obese
+4149,Not Obese
+4150,Not Obese
+4151,Not Obese
+4152,Not Obese
+4153,Not Obese
+4154,Not Obese
+4155,Not Obese
+4156,Not Obese
+4157,Not Obese
+4158,Not Obese
+4159,Not Obese
+4160,Not Obese
+4161,Not Obese
+4162,Not Obese
+4163,Not Obese
+4164,Not Obese
+4165,Not Obese
+4166,Not Obese
+4167,Not Obese
+4168,Not Obese
+4169,Not Obese
+4170,Not Obese
+4171,Not Obese
+4172,Not Obese
+4173,Not Obese
+4174,Not Obese
+4175,Not Obese
+4176,Not Obese
+4177,Not Obese
+4178,Not Obese
+4179,Not Obese
+4180,Not Obese
+4181,Not Obese
+4182,Not Obese
+4183,Not Obese
+4184,Not Obese
+4185,Not Obese
+4186,Not Obese
+4187,Not Obese
+4188,Not Obese
+4189,Not Obese
+4190,Not Obese
+4191,Not Obese
+4192,Not Obese
+4193,Not Obese
+4194,Not Obese
+4195,Not Obese
+4196,Not Obese
+4197,Not Obese
+4198,Not Obese
+4199,Not Obese
+4200,Not Obese
+4201,Not Obese
+4202,Not Obese
+4203,Not Obese
+4204,Not Obese
+4205,Not Obese
+4206,Not Obese
+4207,Not Obese
+4208,Not Obese
+4209,Not Obese
+4210,Not Obese
+4211,Not Obese
+4212,Not Obese
+4213,Not Obese
+4214,Not Obese
+4215,Not Obese
+4216,Not Obese
+4217,Not Obese
+4218,Not Obese
+4219,Not Obese
+4220,Not Obese
+4221,Not Obese
+4222,Not Obese
+4223,Not Obese
+4224,Not Obese
+4225,Not Obese
+4226,Not Obese
+4227,Not Obese
+4228,Not Obese
+4229,Not Obese
+4230,Not Obese
+4231,Not Obese
+4232,Not Obese
+4233,Not Obese
+4234,Not Obese
+4235,Not Obese
+4236,Not Obese
+4237,Not Obese
+4238,Not Obese
+4239,Not Obese
+4240,Not Obese
+4241,Not Obese
+4242,Not Obese
+4243,Not Obese
+4244,Not Obese
+4245,Not Obese
+4246,Not Obese
+4247,Not Obese
+4248,Not Obese
+4249,Not Obese
+4250,Not Obese
+4251,Not Obese
+4252,Not Obese
+4253,Not Obese
+4254,Not Obese
+4255,Not Obese
+4256,Not Obese
+4257,Not Obese
+4258,Not Obese
+4259,Not Obese
+4260,Not Obese
+4261,Not Obese
+4262,Not Obese
+4263,Not Obese
+4264,Not Obese
+4265,Not Obese
+4266,Not Obese
+4267,Not Obese
+4268,Not Obese
+4269,Not Obese
+4270,Not Obese
+4271,Not Obese
+4272,Not Obese
+4273,Not Obese
+4274,Not Obese
+4275,Not Obese
+4276,Not Obese
+4277,Not Obese
+4278,Not Obese
+4279,Obese
+4280,Not Obese
+4281,Not Obese
+4282,Not Obese
+4283,Not Obese
+4284,Not Obese
+4285,Not Obese
+4286,Not Obese
+4287,Not Obese
+4288,Not Obese
+4289,Not Obese
+4290,Obese
+4291,Obese
+4292,Obese
+4293,Obese
+4294,Obese
+4295,Obese
+4296,Obese
+4297,Obese
+4298,Obese
+4299,Obese
+4300,Obese
+4301,Obese
+4302,Obese
+4303,Obese
+4304,Obese
+4305,Obese
+4306,Obese
+4307,Obese
+4308,Obese
+4309,Obese
+4310,Obese
+4311,Obese
+4312,Not Obese
+4313,Not Obese
+4314,Not Obese
+4315,Not Obese
+4316,Not Obese
+4317,Not Obese
+4318,Not Obese
+4319,Not Obese
+4320,Not Obese
+4321,Not Obese
+4322,Not Obese
+4323,Not Obese
+4324,Not Obese
+4325,Not Obese
+4326,Not Obese
+4327,Not Obese
+4328,Not Obese
+4329,Not Obese
+4330,Not Obese
+4331,Not Obese
+4332,Not Obese
+4333,Not Obese
+4334,Not Obese
+4335,Not Obese
+4336,Not Obese
+4337,Not Obese
+4338,Not Obese
+4339,Not Obese
+4340,Not Obese
+4341,Not Obese
+4342,Not Obese
+4343,Not Obese
+4344,Not Obese
+4345,Not Obese
+4346,Not Obese
+4347,Not Obese
+4348,Not Obese
+4349,Not Obese
+4350,Not Obese
+4351,Not Obese
+4352,Not Obese
+4353,Not Obese
+4354,Not Obese
+4355,Not Obese
+4356,Not Obese
+4357,Not Obese
+4358,Not Obese
+4359,Not Obese
+4360,Not Obese
+4361,Not Obese
+4362,Not Obese
+4363,Not Obese
+4364,Not Obese
+4365,Not Obese
+4366,Not Obese
+4367,Not Obese
+4368,Not Obese
+4369,Not Obese
+4370,Not Obese
+4371,Not Obese
+4372,Not Obese
+4373,Not Obese
+4374,Not Obese
+4375,Not Obese
+4376,Not Obese
+4377,Not Obese
+4378,Not Obese
+4379,Not Obese
+4380,Not Obese
+4381,Not Obese
+4382,Not Obese
+4383,Not Obese
+4384,Not Obese
+4385,Not Obese
+4386,Not Obese
+4387,Obese
+4388,Obese
+4389,Not Obese
+4390,Obese
+4391,Obese
+4392,Not Obese
+4393,Obese
+4394,Obese
+4395,Obese
+4396,Obese
+4397,Not Obese
+4398,Not Obese
+4399,Not Obese
+4400,Not Obese
+4401,Not Obese
+4402,Not Obese
+4403,Not Obese
+4404,Not Obese
+4405,Not Obese
+4406,Not Obese
+4407,Not Obese
+4408,Not Obese
+4409,Not Obese
+4410,Not Obese
+4411,Not Obese
+4412,Not Obese
+4413,Not Obese
+4414,Not Obese
+4415,Not Obese
+4416,Not Obese
+4417,Not Obese
+4418,Not Obese
+4419,Obese
+4420,Obese
+4421,Obese
+4422,Obese
+4423,Obese
+4424,Obese
+4425,Obese
+4426,Obese
+4427,Not Obese
+4428,Not Obese
+4429,Not Obese
+4430,Not Obese
+4431,Not Obese
+4432,Not Obese
+4433,Not Obese
+4434,Not Obese
+4435,Not Obese
+4436,Not Obese
+4437,Not Obese
+4438,Not Obese
+4439,Not Obese
+4440,Not Obese
+4441,Not Obese
+4442,Obese
+4443,Obese
+4444,Obese
+4445,Obese
+4446,Obese
+4447,Obese
+4448,Obese
+4449,Obese
+4450,Obese
+4451,Obese
+4452,Obese
+4453,Obese
+4454,Obese
+4455,Obese
+4456,Obese
+4457,Not Obese
+4458,Not Obese
+4459,Not Obese
+4460,Not Obese
+4461,Obese
+4462,Not Obese
+4463,Not Obese
+4464,Not Obese
+4465,Not Obese
+4466,Not Obese
+4467,Not Obese
+4468,Not Obese
+4469,Not Obese
+4470,Not Obese
+4471,Not Obese
+4472,Not Obese
+4473,Not Obese
+4474,Not Obese
+4475,Not Obese
+4476,Not Obese
+4477,Not Obese
+4478,Not Obese
+4479,Not Obese
+4480,Not Obese
+4481,Not Obese
+4482,Obese
+4483,Obese
+4484,Obese
+4485,Not Obese
+4486,Obese
+4487,Obese
+4488,Obese
+4489,Not Obese
+4490,Obese
+4491,Obese
+4492,Obese
+4493,Obese
+4494,Obese
+4495,Obese
+4496,Obese
+4497,Obese
+4498,Obese
+4499,Obese
+4500,Obese
+4501,Obese
+4502,Obese
+4503,Obese
+4504,Obese
+4505,Obese
+4506,Obese
+4507,Obese
+4508,Not Obese
+4509,Not Obese
+4510,Not Obese
+4511,Not Obese
+4512,Not Obese
+4513,Not Obese
+4514,Not Obese
+4515,Not Obese
+4516,Not Obese
+4517,Not Obese
+4518,Not Obese
+4519,Not Obese
+4520,Not Obese
+4521,Not Obese
+4522,Not Obese
+4523,Not Obese
+4524,Not Obese
+4525,Obese
+4526,Obese
+4527,Not Obese
+4528,Not Obese
+4529,Not Obese
+4530,Not Obese
+4531,Not Obese
+4532,Not Obese
+4533,Not Obese
+4534,Not Obese
+4535,Not Obese
+4536,Not Obese
+4537,Not Obese
+4538,Not Obese
+4539,Not Obese
+4540,Not Obese
+4541,Not Obese
+4542,Not Obese
+4543,Obese
+4544,Obese
+4545,Obese
+4546,Obese
+4547,Obese
+4548,Obese
+4549,Obese
+4550,Obese
+4551,Obese
+4552,Obese
+4553,Obese
+4554,Obese
+4555,Obese
+4556,Obese
+4557,Obese
+4558,Obese
+4559,Obese
+4560,Obese
+4561,Obese
+4562,Obese
+4563,Obese
+4564,Obese
+4565,Obese
+4566,Obese
+4567,Obese
+4568,Obese
+4569,Obese
+4570,Obese
+4571,Obese
+4572,Obese
+4573,Obese
+4574,Obese
+4575,Obese
+4576,Obese
+4577,Not Obese
+4578,Not Obese
+4579,Not Obese
+4580,Not Obese
+4581,Not Obese
+4582,Not Obese
+4583,Not Obese
+4584,Not Obese
+4585,Not Obese
+4586,Not Obese
+4587,Not Obese
+4588,Not Obese
+4589,Not Obese
+4590,Not Obese
+4591,Not Obese
+4592,Not Obese
+4593,Not Obese
+4594,Not Obese
+4595,Not Obese
+4596,Not Obese
+4597,Not Obese
+4598,Not Obese
+4599,Not Obese
+4600,Not Obese
+4601,Not Obese
+4602,Not Obese
+4603,Not Obese
+4604,Not Obese
+4605,Not Obese
+4606,Not Obese
+4607,Not Obese
+4608,Not Obese
+4609,Not Obese
+4610,Not Obese
+4611,Not Obese
+4612,Not Obese
+4613,Not Obese
+4614,Not Obese
+4615,Not Obese
+4616,Not Obese
+4617,Obese
+4618,Not Obese
+4619,Obese
+4620,Not Obese
+4621,Not Obese
+4622,Not Obese
+4623,Not Obese
+4624,Not Obese
+4625,Obese
+4626,Not Obese
+4627,Obese
+4628,Not Obese
+4629,Not Obese
+4630,Not Obese
+4631,Obese
+4632,Not Obese
+4633,Not Obese
+4634,Not Obese
+4635,Not Obese
+4636,Not Obese
+4637,Not Obese
+4638,Obese
+4639,Not Obese
+4640,Not Obese
+4641,Not Obese
+4642,Not Obese
+4643,Obese
+4644,Obese
+4645,Obese
+4646,Obese
+4647,Obese
+4648,Obese
+4649,Obese
+4650,Obese
+4651,Obese
+4652,Obese
+4653,Obese
+4654,Obese
+4655,Obese
+4656,Obese
+4657,Obese
+4658,Not Obese
+4659,Not Obese
+4660,Obese
+4661,Obese
+4662,Obese
+4663,Obese
+4664,Obese
+4665,Obese
+4666,Obese
+4667,Obese
+4668,Obese
+4669,Obese
+4670,Obese
+4671,Not Obese
+4672,Not Obese
+4673,Not Obese
+4674,Not Obese
+4675,Not Obese
+4676,Not Obese
+4677,Not Obese
+4678,Not Obese
+4679,Not Obese
+4680,Not Obese
+4681,Not Obese
+4682,Not Obese
+4683,Not Obese
+4684,Not Obese
+4685,Not Obese
+4686,Not Obese
+4687,Not Obese
+4688,Not Obese
+4689,Not Obese
+4690,Not Obese
+4691,Not Obese
+4692,Not Obese
+4693,Not Obese
+4694,Not Obese
+4695,Not Obese
+4696,Not Obese
+4697,Not Obese
+4698,Not Obese
+4699,Not Obese
+4700,Not Obese
+4701,Not Obese
+4702,Not Obese
+4703,Not Obese
+4704,Not Obese
+4705,Not Obese
+4706,Not Obese
+4707,Not Obese
+4708,Not Obese
+4709,Not Obese
+4710,Not Obese
+4711,Not Obese
+4712,Not Obese
+4713,Not Obese
+4714,Not Obese
+4715,Not Obese
+4716,Not Obese
+4717,Obese
+4718,Obese
+4719,Obese
+4720,Obese
+4721,Obese
+4722,Obese
+4723,Obese
+4724,Obese
+4725,Obese
+4726,Obese
+4727,Obese
+4728,Not Obese
+4729,Not Obese
+4730,Not Obese
+4731,Not Obese
+4732,Not Obese
+4733,Not Obese
+4734,Not Obese
+4735,Not Obese
+4736,Not Obese
+4737,Not Obese
+4738,Not Obese
+4739,Obese
+4740,Not Obese
+4741,Not Obese
+4742,Not Obese
+4743,Not Obese
+4744,Not Obese
+4745,Not Obese
+4746,Not Obese
+4747,Not Obese
+4748,Not Obese
+4749,Not Obese
+4750,Not Obese
+4751,Not Obese
+4752,Not Obese
+4753,Not Obese
+4754,Not Obese
+4755,Not Obese
+4756,Not Obese
+4757,Not Obese
+4758,Not Obese
+4759,Not Obese
+4760,Not Obese
+4761,Not Obese
+4762,Not Obese
+4763,Not Obese
+4764,Not Obese
+4765,Not Obese
+4766,Not Obese
+4767,Not Obese
+4768,Not Obese
+4769,Not Obese
+4770,Obese
+4771,Not Obese
+4772,Not Obese
+4773,Not Obese
+4774,Not Obese
+4775,Not Obese
+4776,Not Obese
+4777,Not Obese
+4778,Not Obese
+4779,Not Obese
+4780,Not Obese
+4781,Not Obese
+4782,Not Obese
+4783,Not Obese
+4784,Not Obese
+4785,Not Obese
+4786,Not Obese
+4787,Not Obese
+4788,Not Obese
+4789,Not Obese
+4790,Not Obese
+4791,Not Obese
+4792,Not Obese
+4793,Not Obese
+4794,Not Obese
+4795,Not Obese
+4796,Not Obese
+4797,Not Obese
+4798,Not Obese
+4799,Not Obese
+4800,Not Obese
+4801,Not Obese
+4802,Not Obese
+4803,Not Obese
+4804,Not Obese
+4805,Obese
+4806,Not Obese
+4807,Not Obese
+4808,Not Obese
+4809,Not Obese
+4810,Not Obese
+4811,Not Obese
+4812,Not Obese
+4813,Not Obese
+4814,Not Obese
+4815,Not Obese
+4816,Not Obese
+4817,Not Obese
+4818,Not Obese
+4819,Not Obese
+4820,Not Obese
+4821,Not Obese
+4822,Not Obese
+4823,Not Obese
+4824,Not Obese
+4825,Not Obese
+4826,Not Obese
+4827,Not Obese
+4828,Not Obese
+4829,Not Obese
+4830,Not Obese
+4831,Not Obese
+4832,Not Obese
+4833,Not Obese
+4834,Not Obese
+4835,Not Obese
+4836,Not Obese
+4837,Not Obese
+4838,Not Obese
+4839,Not Obese
+4840,Not Obese
+4841,Not Obese
+4842,Not Obese
+4843,Not Obese
+4844,Not Obese
+4845,Not Obese
+4846,Not Obese
+4847,Not Obese
+4848,Not Obese
+4849,Not Obese
+4850,Not Obese
+4851,Not Obese
+4852,Not Obese
+4853,Not Obese
+4854,Not Obese
+4855,Not Obese
+4856,Not Obese
+4857,Not Obese
+4858,Not Obese
+4859,Not Obese
+4860,Not Obese
+4861,Not Obese
+4862,Not Obese
+4863,Not Obese
+4864,Not Obese
+4865,Not Obese
+4866,Not Obese
+4867,Not Obese
+4868,Not Obese
+4869,Not Obese
+4870,Not Obese
+4871,Not Obese
+4872,Not Obese
+4873,Not Obese
+4874,Obese
+4875,Obese
+4876,Obese
+4877,Obese
+4878,Not Obese
+4879,Not Obese
+4880,Obese
+4881,Not Obese
+4882,Not Obese
+4883,Not Obese
+4884,Not Obese
+4885,Not Obese
+4886,Not Obese
+4887,Not Obese
+4888,Not Obese
+4889,Not Obese
+4890,Not Obese
+4891,Not Obese
+4892,Not Obese
+4893,Not Obese
+4894,Not Obese
+4895,Not Obese
+4896,Not Obese
+4897,Not Obese
+4898,Not Obese
+4899,Not Obese
+4900,Not Obese
+4901,Not Obese
+4902,Not Obese
+4903,Not Obese
+4904,Not Obese
+4905,Not Obese
+4906,Not Obese
+4907,Not Obese
+4908,Not Obese
+4909,Not Obese
+4910,Not Obese
+4911,Not Obese
+4912,Not Obese
+4913,Obese
+4914,Not Obese
+4915,Not Obese
+4916,Not Obese
+4917,Not Obese
+4918,Obese
+4919,Not Obese
+4920,Not Obese
+4921,Not Obese
+4922,Obese
+4923,Not Obese
+4924,Not Obese
+4925,Not Obese
+4926,Not Obese
+4927,Obese
+4928,Not Obese
+4929,Obese
+4930,Not Obese
+4931,Not Obese
+4932,Not Obese
+4933,Not Obese
+4934,Not Obese
+4935,Not Obese
+4936,Not Obese
+4937,Not Obese
+4938,Not Obese
+4939,Obese
+4940,Obese
+4941,Obese
+4942,Obese
+4943,Obese
+4944,Obese
+4945,Obese
+4946,Obese
+4947,Obese
+4948,Obese
+4949,Obese
+4950,Obese
+4951,Obese
+4952,Not Obese
+4953,Not Obese
+4954,Not Obese
+4955,Not Obese
+4956,Not Obese
+4957,Not Obese
+4958,Not Obese
+4959,Not Obese
+4960,Not Obese
+4961,Not Obese
+4962,Not Obese
+4963,Not Obese
+4964,Not Obese
+4965,Not Obese
+4966,Not Obese
+4967,Not Obese
+4968,Not Obese
+4969,Not Obese
+4970,Not Obese
+4971,Not Obese
+4972,Not Obese
+4973,Not Obese
+4974,Not Obese
+4975,Not Obese
+4976,Not Obese
+4977,Not Obese
+4978,Not Obese
+4979,Not Obese
+4980,Not Obese
+4981,Not Obese
+4982,Not Obese
+4983,Not Obese
+4984,Not Obese
+4985,Not Obese
+4986,Not Obese
+4987,Not Obese
+4988,Not Obese
+4989,Not Obese
+4990,Not Obese
+4991,Not Obese
+4992,Not Obese
+4993,Not Obese
+4994,Not Obese
+4995,Not Obese
+4996,Not Obese
+4997,Not Obese
+4998,Not Obese
+4999,Not Obese
+5000,Not Obese
+5001,Not Obese
+5002,Obese
+5003,Not Obese
+5004,Not Obese
+5005,Obese
+5006,Obese
+5007,Obese
+5008,Obese
+5009,Obese
+5010,Obese
+5011,Obese
+5012,Not Obese
+5013,Not Obese
+5014,Obese
+5015,Obese
+5016,Obese
+5017,Obese
+5018,Obese
+5019,Not Obese
+5020,Obese
+5021,Obese
+5022,Not Obese
+5023,Not Obese
+5024,Obese
+5025,Not Obese
+5026,Not Obese
+5027,Not Obese
+5028,Not Obese
+5029,Not Obese
+5030,Not Obese
+5031,Not Obese
+5032,Not Obese
+5033,Not Obese
+5034,Not Obese
+5035,Not Obese
+5036,Not Obese
+5037,Not Obese
+5038,Not Obese
+5039,Not Obese
+5040,Not Obese
+5041,Not Obese
+5042,Not Obese
+5043,Not Obese
+5044,Not Obese
+5045,Not Obese
+5046,Not Obese
+5047,Not Obese
+5048,Not Obese
+5049,Not Obese
+5050,Not Obese
+5051,Not Obese
+5052,Not Obese
+5053,Not Obese
+5054,Not Obese
+5055,Not Obese
+5056,Not Obese
+5057,Not Obese
+5058,Not Obese
+5059,Not Obese
+5060,Not Obese
+5061,Not Obese
+5062,Not Obese
+5063,Not Obese
+5064,Not Obese
+5065,Not Obese
+5066,Not Obese
+5067,Not Obese
+5068,Not Obese
+5069,Not Obese
+5070,Not Obese
+5071,Not Obese
+5072,Not Obese
+5073,Not Obese
+5074,Not Obese
+5075,Not Obese
+5076,Not Obese
+5077,Not Obese
+5078,Not Obese
+5079,Not Obese
+5080,Not Obese
+5081,Not Obese
+5082,Not Obese
+5083,Obese
+5084,Not Obese
+5085,Obese
+5086,Obese
+5087,Obese
+5088,Obese
+5089,Not Obese
+5090,Obese
+5091,Obese
+5092,Obese
+5093,Not Obese
+5094,Not Obese
+5095,Not Obese
+5096,Not Obese
+5097,Not Obese
+5098,Not Obese
+5099,Not Obese
+5100,Not Obese
+5101,Not Obese
+5102,Not Obese
+5103,Not Obese
+5104,Not Obese
+5105,Not Obese
+5106,Not Obese
+5107,Obese
+5108,Obese
+5109,Obese
+5110,Obese
+5111,Obese
+5112,Obese
+5113,Obese
+5114,Obese
+5115,Obese
+5116,Not Obese
+5117,Not Obese
+5118,Not Obese
+5119,Not Obese
+5120,Not Obese
+5121,Not Obese
+5122,Not Obese
+5123,Not Obese
+5124,Not Obese
+5125,Not Obese
+5126,Not Obese
+5127,Not Obese
+5128,Not Obese
+5129,Not Obese
+5130,Not Obese
+5131,Not Obese
+5132,Not Obese
+5133,Not Obese
+5134,Obese
+5135,Not Obese
+5136,Not Obese
+5137,Not Obese
+5138,Not Obese
+5139,Not Obese
+5140,Not Obese
+5141,Not Obese
+5142,Not Obese
+5143,Not Obese
+5144,Not Obese
+5145,Not Obese
+5146,Not Obese
+5147,Not Obese
+5148,Not Obese
+5149,Not Obese
+5150,Not Obese
+5151,Not Obese
+5152,Not Obese
+5153,Not Obese
+5154,Not Obese
+5155,Not Obese
+5156,Not Obese
+5157,Not Obese
+5158,Not Obese
+5159,Not Obese
+5160,Not Obese
+5161,Not Obese
+5162,Not Obese
+5163,Not Obese
+5164,Not Obese
+5165,Not Obese
+5166,Not Obese
+5167,Not Obese
+5168,Not Obese
+5169,Not Obese
+5170,Not Obese
+5171,Not Obese
+5172,Not Obese
+5173,Not Obese
+5174,Obese
+5175,Not Obese
+5176,Not Obese
+5177,Not Obese
+5178,Obese
+5179,Not Obese
+5180,Not Obese
+5181,Not Obese
+5182,Not Obese
+5183,Not Obese
+5184,Not Obese
+5185,Not Obese
+5186,Not Obese
+5187,Not Obese
+5188,Not Obese
+5189,Not Obese
+5190,Not Obese
+5191,Not Obese
+5192,Not Obese
+5193,Not Obese
+5194,Not Obese
+5195,Not Obese
+5196,Not Obese
+5197,Not Obese
+5198,Not Obese
+5199,Not Obese
+5200,Not Obese
+5201,Not Obese
+5202,Not Obese
+5203,Not Obese
+5204,Not Obese
+5205,Not Obese
+5206,Not Obese
+5207,Not Obese
+5208,Obese
+5209,Obese
+5210,Obese
+5211,Obese
+5212,Obese
+5213,Obese
+5214,Obese
+5215,Obese
+5216,Obese
+5217,Obese
+5218,Obese
+5219,Obese
+5220,Obese
+5221,Obese
+5222,Obese
+5223,Not Obese
+5224,Not Obese
+5225,Not Obese
+5226,Not Obese
+5227,Not Obese
+5228,Not Obese
+5229,Not Obese
+5230,Not Obese
+5231,Not Obese
+5232,Not Obese
+5233,Not Obese
+5234,Not Obese
+5235,Not Obese
+5236,Not Obese
+5237,Not Obese
+5238,Not Obese
+5239,Not Obese
+5240,Not Obese
+5241,Not Obese
+5242,Not Obese
+5243,Not Obese
+5244,Not Obese
+5245,Not Obese
+5246,Not Obese
+5247,Not Obese
+5248,Not Obese
+5249,Not Obese
+5250,Not Obese
+5251,Not Obese
+5252,Not Obese
+5253,Not Obese
+5254,Not Obese
+5255,Not Obese
+5256,Not Obese
+5257,Not Obese
+5258,Not Obese
+5259,Not Obese
+5260,Not Obese
+5261,Not Obese
+5262,Not Obese
+5263,Not Obese
+5264,Not Obese
+5265,Obese
+5266,Obese
+5267,Obese
+5268,Obese
+5269,Obese
+5270,Obese
+5271,Obese
+5272,Obese
+5273,Obese
+5274,Obese
+5275,Obese
+5276,Not Obese
+5277,Not Obese
+5278,Not Obese
+5279,Not Obese
+5280,Not Obese
+5281,Not Obese
+5282,Not Obese
+5283,Not Obese
+5284,Not Obese
+5285,Not Obese
+5286,Not Obese
+5287,Not Obese
+5288,Not Obese
+5289,Not Obese
+5290,Not Obese
+5291,Not Obese
+5292,Not Obese
+5293,Not Obese
+5294,Not Obese
+5295,Not Obese
+5296,Not Obese
+5297,Not Obese
+5298,Not Obese
+5299,Not Obese
+5300,Not Obese
+5301,Not Obese
+5302,Not Obese
+5303,Not Obese
+5304,Not Obese
+5305,Not Obese
+5306,Not Obese
+5307,Not Obese
+5308,Not Obese
+5309,Not Obese
+5310,Not Obese
+5311,Not Obese
+5312,Obese
+5313,Obese
+5314,Obese
+5315,Obese
+5316,Obese
+5317,Obese
+5318,Obese
+5319,Obese
+5320,Obese
+5321,Obese
+5322,Obese
+5323,Obese
+5324,Obese
+5325,Obese
+5326,Obese
+5327,Obese
+5328,Obese
+5329,Obese
+5330,Not Obese
+5331,Obese
+5332,Obese
+5333,Not Obese
+5334,Not Obese
+5335,Not Obese
+5336,Obese
+5337,Not Obese
+5338,Not Obese
+5339,Not Obese
+5340,Not Obese
+5341,Not Obese
+5342,Not Obese
+5343,Not Obese
+5344,Not Obese
+5345,Not Obese
+5346,Not Obese
+5347,Not Obese
+5348,Not Obese
+5349,Not Obese
+5350,Not Obese
+5351,Not Obese
+5352,Not Obese
+5353,Not Obese
+5354,Not Obese
+5355,Not Obese
+5356,Not Obese
+5357,Not Obese
+5358,Not Obese
+5359,Not Obese
+5360,Not Obese
+5361,Not Obese
+5362,Not Obese
+5363,Not Obese
+5364,Not Obese
+5365,Not Obese
+5366,Not Obese
+5367,Not Obese
+5368,Not Obese
+5369,Not Obese
+5370,Not Obese
+5371,Not Obese
+5372,Not Obese
+5373,Not Obese
+5374,Not Obese
+5375,Not Obese
+5376,Not Obese
+5377,Not Obese
+5378,Not Obese
+5379,Not Obese
+5380,Not Obese
+5381,Not Obese
+5382,Not Obese
+5383,Not Obese
+5384,Not Obese
+5385,Not Obese
+5386,Not Obese
+5387,Not Obese
+5388,Not Obese
+5389,Not Obese
+5390,Not Obese
+5391,Not Obese
+5392,Not Obese
+5393,Not Obese
+5394,Not Obese
+5395,Not Obese
+5396,Not Obese
+5397,Not Obese
+5398,Not Obese
+5399,Not Obese
+5400,Not Obese
+5401,Not Obese
+5402,Not Obese
+5403,Not Obese
+5404,Not Obese
+5405,Not Obese
+5406,Not Obese
+5407,Not Obese
+5408,Not Obese
+5409,Not Obese
+5410,Obese
+5411,Obese
+5412,Obese
+5413,Obese
+5414,Obese
+5415,Obese
+5416,Obese
+5417,Obese
+5418,Obese
+5419,Obese
+5420,Obese
+5421,Not Obese
+5422,Obese
+5423,Obese
+5424,Obese
+5425,Obese
+5426,Obese
+5427,Obese
+5428,Obese
+5429,Obese
+5430,Obese
+5431,Obese
+5432,Obese
+5433,Obese
+5434,Obese
+5435,Obese
+5436,Obese
+5437,Obese
+5438,Obese
+5439,Obese
+5440,Obese
+5441,Obese
+5442,Obese
+5443,Obese
+5444,Obese
+5445,Obese
+5446,Obese
+5447,Obese
+5448,Obese
+5449,Obese
+5450,Obese
+5451,Obese
+5452,Obese
+5453,Obese
+5454,Obese
+5455,Obese
+5456,Obese
+5457,Obese
+5458,Obese
+5459,Obese
+5460,Obese
+5461,Obese
+5462,Not Obese
+5463,Obese
+5464,Obese
+5465,Obese
+5466,Obese
+5467,Obese
+5468,Obese
+5469,Not Obese
+5470,Obese
+5471,Obese
+5472,Obese
+5473,Obese
+5474,Obese
+5475,Obese
+5476,Obese
+5477,Obese
+5478,Obese
+5479,Obese
+5480,Obese
+5481,Obese
+5482,Not Obese
+5483,Not Obese
+5484,Obese
+5485,Not Obese
+5486,Obese
+5487,Obese
+5488,Not Obese
+5489,Obese
+5490,Not Obese
+5491,Not Obese
+5492,Obese
+5493,Not Obese
+5494,Obese
+5495,Not Obese
+5496,Not Obese
+5497,Not Obese
+5498,Not Obese
+5499,Not Obese
+5500,Not Obese
+5501,Not Obese
+5502,Not Obese
+5503,Not Obese
+5504,Not Obese
+5505,Not Obese
+5506,Not Obese
+5507,Not Obese
+5508,Not Obese
+5509,Not Obese
+5510,Obese
+5511,Obese
+5512,Obese
+5513,Obese
+5514,Not Obese
+5515,Obese
+5516,Not Obese
+5517,Obese
+5518,Obese
+5519,Obese
+5520,Obese
+5521,Obese
+5522,Not Obese
+5523,Obese
+5524,Not Obese
+5525,Obese
+5526,Not Obese
+5527,Not Obese
+5528,Not Obese
+5529,Not Obese
+5530,Not Obese
+5531,Not Obese
+5532,Not Obese
+5533,Not Obese
+5534,Obese
+5535,Not Obese
+5536,Obese
+5537,Not Obese
+5538,Obese
+5539,Obese
+5540,Obese
+5541,Not Obese
+5542,Not Obese
+5543,Not Obese
+5544,Obese
+5545,Obese
+5546,Not Obese
+5547,Not Obese
+5548,Obese
+5549,Obese
+5550,Obese
+5551,Obese
+5552,Obese
+5553,Obese
+5554,Obese
+5555,Obese
+5556,Obese
+5557,Obese
+5558,Obese
+5559,Obese
+5560,Obese
+5561,Obese
+5562,Obese
+5563,Obese
+5564,Obese
+5565,Not Obese
+5566,Not Obese
+5567,Not Obese
+5568,Not Obese
+5569,Not Obese
+5570,Not Obese
+5571,Not Obese
+5572,Not Obese
+5573,Not Obese
+5574,Not Obese
+5575,Not Obese
+5576,Not Obese
+5577,Not Obese
+5578,Not Obese
+5579,Not Obese
+5580,Not Obese
+5581,Not Obese
+5582,Not Obese
+5583,Not Obese
+5584,Not Obese
+5585,Not Obese
+5586,Not Obese
+5587,Not Obese
+5588,Not Obese
+5589,Not Obese
+5590,Not Obese
+5591,Not Obese
+5592,Not Obese
+5593,Not Obese
+5594,Obese
+5595,Obese
+5596,Not Obese
+5597,Not Obese
+5598,Obese
+5599,Not Obese
+5600,Not Obese
+5601,Not Obese
+5602,Not Obese
+5603,Obese
+5604,Not Obese
+5605,Not Obese
+5606,Not Obese
+5607,Not Obese
+5608,Not Obese
+5609,Obese
+5610,Obese
+5611,Not Obese
+5612,Not Obese
+5613,Obese
+5614,Obese
+5615,Not Obese
+5616,Obese
+5617,Not Obese
+5618,Not Obese
+5619,Not Obese
+5620,Not Obese
+5621,Not Obese
+5622,Not Obese
+5623,Not Obese
+5624,Not Obese
+5625,Obese
+5626,Not Obese
+5627,Not Obese
+5628,Not Obese
+5629,Not Obese
+5630,Not Obese
+5631,Not Obese
+5632,Not Obese
+5633,Not Obese
+5634,Not Obese
+5635,Not Obese
+5636,Not Obese
+5637,Not Obese
+5638,Not Obese
+5639,Not Obese
+5640,Not Obese
+5641,Not Obese
+5642,Not Obese
+5643,Not Obese
+5644,Not Obese
+5645,Not Obese
+5646,Not Obese
+5647,Not Obese
+5648,Not Obese
+5649,Not Obese
+5650,Not Obese
+5651,Not Obese
+5652,Not Obese
+5653,Not Obese
+5654,Not Obese
+5655,Not Obese
+5656,Not Obese
+5657,Not Obese
+5658,Not Obese
+5659,Not Obese
+5660,Not Obese
+5661,Not Obese
+5662,Not Obese
+5663,Not Obese
+5664,Not Obese
+5665,Not Obese
+5666,Not Obese
+5667,Not Obese
+5668,Not Obese
+5669,Not Obese
+5670,Not Obese
+5671,Not Obese
+5672,Not Obese
+5673,Not Obese
+5674,Not Obese
+5675,Not Obese
+5676,Not Obese
+5677,Not Obese
+5678,Not Obese
+5679,Not Obese
+5680,Not Obese
+5681,Not Obese
+5682,Not Obese
+5683,Not Obese
+5684,Obese
+5685,Obese
+5686,Not Obese
+5687,Not Obese
+5688,Not Obese
+5689,Not Obese
+5690,Not Obese
+5691,Not Obese
+5692,Not Obese
+5693,Not Obese
+5694,Not Obese
+5695,Not Obese
+5696,Not Obese
+5697,Not Obese
+5698,Not Obese
+5699,Not Obese
+5700,Not Obese
+5701,Not Obese
+5702,Not Obese
+5703,Not Obese
+5704,Not Obese
+5705,Not Obese
+5706,Not Obese
+5707,Not Obese
+5708,Not Obese
+5709,Not Obese
+5710,Not Obese
+5711,Not Obese
+5712,Not Obese
+5713,Not Obese
+5714,Not Obese
+5715,Not Obese
+5716,Not Obese
+5717,Not Obese
+5718,Not Obese
+5719,Not Obese
+5720,Not Obese
+5721,Not Obese
+5722,Not Obese
+5723,Not Obese
+5724,Not Obese
+5725,Not Obese
+5726,Not Obese
+5727,Not Obese
+5728,Not Obese
+5729,Not Obese
+5730,Not Obese
+5731,Not Obese
+5732,Obese
+5733,Not Obese
+5734,Not Obese
+5735,Not Obese
+5736,Not Obese
+5737,Not Obese
+5738,Obese
+5739,Not Obese
+5740,Not Obese
+5741,Not Obese
+5742,Not Obese
+5743,Not Obese
+5744,Not Obese
+5745,Not Obese
+5746,Obese
+5747,Not Obese
+5748,Not Obese
+5749,Not Obese
+5750,Not Obese
+5751,Obese
+5752,Not Obese
+5753,Not Obese
+5754,Not Obese
+5755,Not Obese
+5756,Not Obese
+5757,Not Obese
+5758,Obese
+5759,Not Obese
+5760,Obese
+5761,Not Obese
+5762,Not Obese
+5763,Not Obese
+5764,Not Obese
+5765,Not Obese
+5766,Not Obese
+5767,Obese
+5768,Not Obese
+5769,Not Obese
+5770,Not Obese
+5771,Not Obese
+5772,Not Obese
+5773,Not Obese
+5774,Not Obese
+5775,Not Obese
+5776,Not Obese
+5777,Not Obese
+5778,Obese
+5779,Obese
+5780,Obese
+5781,Obese
+5782,Obese
+5783,Obese
+5784,Obese
+5785,Obese
+5786,Obese
+5787,Not Obese
+5788,Obese
+5789,Obese
+5790,Obese
+5791,Obese
+5792,Obese
+5793,Obese
+5794,Obese
+5795,Obese
+5796,Not Obese
+5797,Not Obese
+5798,Not Obese
+5799,Not Obese
+5800,Not Obese
+5801,Not Obese
+5802,Not Obese
+5803,Not Obese
+5804,Not Obese
+5805,Not Obese
+5806,Not Obese
+5807,Not Obese
+5808,Not Obese
+5809,Not Obese
+5810,Not Obese
+5811,Not Obese
+5812,Not Obese
+5813,Not Obese
+5814,Not Obese
+5815,Not Obese
+5816,Not Obese
+5817,Not Obese
+5818,Not Obese
+5819,Not Obese
+5820,Not Obese
+5821,Not Obese
+5822,Not Obese
+5823,Not Obese
+5824,Not Obese
+5825,Not Obese
+5826,Not Obese
+5827,Not Obese
+5828,Not Obese
+5829,Not Obese
+5830,Not Obese
+5831,Not Obese
+5832,Not Obese
+5833,Not Obese
+5834,Obese
+5835,Obese
+5836,Obese
+5837,Obese
+5838,Not Obese
+5839,Obese
+5840,Obese
+5841,Obese
+5842,Obese
+5843,Obese
+5844,Obese
+5845,Obese
+5846,Not Obese
+5847,Obese
+5848,Obese
+5849,Obese
+5850,Not Obese
+5851,Obese
+5852,Obese
+5853,Obese
+5854,Obese
+5855,Obese
+5856,Obese
+5857,Obese
+5858,Obese
+5859,Obese
+5860,Obese
+5861,Obese
+5862,Not Obese
+5863,Not Obese
+5864,Not Obese
+5865,Not Obese
+5866,Not Obese
+5867,Not Obese
+5868,Not Obese
+5869,Not Obese
+5870,Not Obese
+5871,Not Obese
+5872,Not Obese
+5873,Not Obese
+5874,Not Obese
+5875,Not Obese
+5876,Not Obese
+5877,Obese
+5878,Not Obese
+5879,Not Obese
+5880,Not Obese
+5881,Not Obese
+5882,Not Obese
+5883,Not Obese
+5884,Not Obese
+5885,Obese
+5886,Obese
+5887,Not Obese
+5888,Not Obese
+5889,Not Obese
+5890,Not Obese
+5891,Not Obese
+5892,Not Obese
+5893,Not Obese
+5894,Not Obese
+5895,Not Obese
+5896,Not Obese
+5897,Not Obese
+5898,Not Obese
+5899,Not Obese
+5900,Obese
+5901,Not Obese
+5902,Not Obese
+5903,Not Obese
+5904,Not Obese
+5905,Not Obese
+5906,Not Obese
+5907,Not Obese
+5908,Not Obese
+5909,Not Obese
+5910,Not Obese
+5911,Not Obese
+5912,Not Obese
+5913,Not Obese
+5914,Not Obese
+5915,Not Obese
+5916,Not Obese
+5917,Not Obese
+5918,Not Obese
+5919,Not Obese
+5920,Not Obese
+5921,Not Obese
+5922,Not Obese
+5923,Not Obese
+5924,Not Obese
+5925,Not Obese
+5926,Not Obese
+5927,Not Obese
+5928,Not Obese
+5929,Not Obese
+5930,Not Obese
+5931,Not Obese
+5932,Not Obese
+5933,Not Obese
+5934,Not Obese
+5935,Not Obese
+5936,Not Obese
+5937,Obese
+5938,Not Obese
+5939,Not Obese
+5940,Obese
+5941,Obese
+5942,Not Obese
+5943,Not Obese
+5944,Not Obese
+5945,Not Obese
+5946,Not Obese
+5947,Not Obese
+5948,Not Obese
+5949,Not Obese
+5950,Not Obese
+5951,Not Obese
+5952,Not Obese
+5953,Not Obese
+5954,Not Obese
+5955,Not Obese
+5956,Not Obese
+5957,Not Obese
+5958,Not Obese
+5959,Not Obese
+5960,Not Obese
+5961,Not Obese
+5962,Not Obese
+5963,Not Obese
+5964,Not Obese
+5965,Not Obese
+5966,Not Obese
+5967,Not Obese
+5968,Not Obese
+5969,Not Obese
+5970,Not Obese
+5971,Not Obese
+5972,Not Obese
+5973,Not Obese
+5974,Not Obese
+5975,Not Obese
+5976,Not Obese
+5977,Not Obese
+5978,Not Obese
+5979,Not Obese
+5980,Not Obese
+5981,Not Obese
+5982,Not Obese
+5983,Not Obese
+5984,Not Obese
+5985,Not Obese
+5986,Not Obese
+5987,Not Obese
+5988,Not Obese
+5989,Not Obese
+5990,Not Obese
+5991,Not Obese
+5992,Not Obese
+5993,Not Obese
+5994,Not Obese
+5995,Not Obese
+5996,Not Obese
+5997,Not Obese
+5998,Not Obese
+5999,Not Obese
+6000,Not Obese
+6001,Not Obese
+6002,Not Obese
+6003,Not Obese
+6004,Not Obese
+6005,Not Obese
+6006,Not Obese
+6007,Not Obese
+6008,Not Obese
+6009,Not Obese
+6010,Not Obese
+6011,Not Obese
+6012,Not Obese
+6013,Not Obese
+6014,Not Obese
+6015,Obese
+6016,Obese
+6017,Obese
+6018,Obese
+6019,Obese
+6020,Obese
+6021,Obese
+6022,Obese
+6023,Obese
+6024,Obese
+6025,Obese
+6026,Obese
+6027,Obese
+6028,Obese
+6029,Obese
+6030,Not Obese
+6031,Not Obese
+6032,Not Obese
+6033,Not Obese
+6034,Not Obese
+6035,Not Obese
+6036,Not Obese
+6037,Not Obese
+6038,Not Obese
+6039,Not Obese
+6040,Not Obese
+6041,Not Obese
+6042,Not Obese
+6043,Not Obese
+6044,Not Obese
+6045,Not Obese
+6046,Not Obese
+6047,Not Obese
+6048,Not Obese
+6049,Not Obese
+6050,Not Obese
+6051,Not Obese
+6052,Not Obese
+6053,Not Obese
+6054,Not Obese
+6055,Not Obese
+6056,Not Obese
+6057,Not Obese
+6058,Not Obese
+6059,Not Obese
+6060,Not Obese
+6061,Not Obese
+6062,Not Obese
+6063,Not Obese
+6064,Not Obese
+6065,Not Obese
+6066,Not Obese
+6067,Not Obese
+6068,Not Obese
+6069,Not Obese
+6070,Not Obese
+6071,Not Obese
+6072,Not Obese
+6073,Not Obese
+6074,Not Obese
+6075,Not Obese
+6076,Not Obese
+6077,Not Obese
+6078,Not Obese
+6079,Not Obese
+6080,Not Obese
+6081,Not Obese
+6082,Not Obese
+6083,Not Obese
+6084,Not Obese
+6085,Not Obese
+6086,Not Obese
+6087,Not Obese
+6088,Not Obese
+6089,Not Obese
+6090,Not Obese
+6091,Not Obese
+6092,Not Obese
+6093,Not Obese
+6094,Not Obese
+6095,Not Obese
+6096,Not Obese
+6097,Not Obese
+6098,Not Obese
+6099,Not Obese
+6100,Not Obese
+6101,Not Obese
+6102,Not Obese
+6103,Not Obese
+6104,Not Obese
+6105,Not Obese
+6106,Not Obese
+6107,Not Obese
+6108,Not Obese
+6109,Not Obese
+6110,Not Obese
+6111,Not Obese
+6112,Not Obese
+6113,Not Obese
+6114,Not Obese
+6115,Not Obese
+6116,Obese
+6117,Obese
+6118,Not Obese
+6119,Not Obese
+6120,Obese
+6121,Not Obese
+6122,Not Obese
+6123,Not Obese
+6124,Not Obese
+6125,Not Obese
+6126,Not Obese
+6127,Not Obese
+6128,Obese
+6129,Not Obese
+6130,Not Obese
+6131,Not Obese
+6132,Not Obese
+6133,Obese
+6134,Obese
+6135,Obese
+6136,Obese
+6137,Obese
+6138,Obese
+6139,Obese
+6140,Obese
+6141,Obese
+6142,Obese
+6143,Obese
+6144,Obese
+6145,Obese
+6146,Obese
+6147,Obese
+6148,Obese
+6149,Obese
+6150,Obese
+6151,Obese
+6152,Obese
+6153,Obese
+6154,Obese
+6155,Obese
+6156,Obese
+6157,Obese
+6158,Obese
+6159,Obese
+6160,Obese
+6161,Obese
+6162,Obese
+6163,Obese
+6164,Obese
+6165,Obese
+6166,Obese
+6167,Obese
+6168,Obese
+6169,Obese
+6170,Obese
+6171,Not Obese
+6172,Not Obese
+6173,Not Obese
+6174,Not Obese
+6175,Not Obese
+6176,Obese
+6177,Not Obese
+6178,Not Obese
+6179,Not Obese
+6180,Not Obese
+6181,Not Obese
+6182,Not Obese
+6183,Not Obese
+6184,Not Obese
+6185,Not Obese
+6186,Not Obese
+6187,Obese
+6188,Not Obese
+6189,Obese
+6190,Not Obese
+6191,Not Obese
+6192,Not Obese
+6193,Not Obese
+6194,Not Obese
+6195,Not Obese
+6196,Not Obese
+6197,Not Obese
+6198,Not Obese
+6199,Not Obese
+6200,Not Obese
+6201,Not Obese
+6202,Not Obese
+6203,Not Obese
+6204,Not Obese
+6205,Not Obese
+6206,Not Obese
+6207,Obese
+6208,Not Obese
+6209,Not Obese
+6210,Not Obese
+6211,Not Obese
+6212,Not Obese
+6213,Not Obese
+6214,Not Obese
+6215,Not Obese
+6216,Not Obese
+6217,Not Obese
+6218,Not Obese
+6219,Not Obese
+6220,Not Obese
+6221,Not Obese
+6222,Obese
+6223,Obese
+6224,Obese
+6225,Obese
+6226,Obese
+6227,Obese
+6228,Obese
+6229,Obese
+6230,Obese
+6231,Obese
+6232,Obese
+6233,Obese
+6234,Obese
+6235,Obese
+6236,Obese
+6237,Obese
+6238,Not Obese
+6239,Not Obese
+6240,Not Obese
+6241,Not Obese
+6242,Not Obese
+6243,Not Obese
+6244,Not Obese
+6245,Not Obese
+6246,Not Obese
+6247,Not Obese
+6248,Not Obese
+6249,Not Obese
+6250,Not Obese
+6251,Not Obese
+6252,Not Obese
+6253,Not Obese
+6254,Not Obese
+6255,Obese
+6256,Obese
+6257,Obese
+6258,Obese
+6259,Obese
+6260,Obese
+6261,Obese
+6262,Obese
+6263,Obese
+6264,Obese
+6265,Obese
+6266,Obese
+6267,Obese
+6268,Obese
+6269,Obese
+6270,Obese
+6271,Obese
+6272,Not Obese
+6273,Obese
+6274,Obese
+6275,Obese
+6276,Obese
+6277,Not Obese
+6278,Not Obese
+6279,Obese
+6280,Not Obese
+6281,Not Obese
+6282,Obese
+6283,Not Obese
+6284,Not Obese
+6285,Not Obese
+6286,Not Obese
+6287,Not Obese
+6288,Not Obese
+6289,Not Obese
+6290,Not Obese
+6291,Not Obese
+6292,Not Obese
+6293,Obese
+6294,Not Obese
+6295,Not Obese
+6296,Not Obese
+6297,Not Obese
+6298,Not Obese
+6299,Not Obese
+6300,Not Obese
+6301,Not Obese
+6302,Not Obese
+6303,Not Obese
+6304,Not Obese
+6305,Not Obese
+6306,Not Obese
+6307,Not Obese
+6308,Not Obese
+6309,Not Obese
+6310,Not Obese
+6311,Not Obese
+6312,Not Obese
+6313,Not Obese
+6314,Not Obese
+6315,Not Obese
+6316,Not Obese
+6317,Not Obese
+6318,Not Obese
+6319,Obese
+6320,Obese
+6321,Obese
+6322,Obese
+6323,Obese
+6324,Obese
+6325,Obese
+6326,Obese
+6327,Obese
+6328,Obese
+6329,Obese
+6330,Obese
+6331,Obese
+6332,Obese
+6333,Obese
+6334,Obese
+6335,Obese
+6336,Obese
+6337,Obese
+6338,Obese
+6339,Obese
+6340,Obese
+6341,Obese
+6342,Obese
+6343,Obese
+6344,Obese
+6345,Obese
+6346,Not Obese
+6347,Not Obese
+6348,Not Obese
+6349,Not Obese
+6350,Not Obese
+6351,Not Obese
+6352,Not Obese
+6353,Not Obese
+6354,Not Obese
+6355,Not Obese
+6356,Not Obese
+6357,Not Obese
+6358,Not Obese
+6359,Not Obese
+6360,Not Obese
+6361,Obese
+6362,Obese
+6363,Obese
+6364,Obese
+6365,Not Obese
+6366,Obese
+6367,Not Obese
+6368,Obese
+6369,Obese
+6370,Obese
+6371,Obese
+6372,Obese
+6373,Obese
+6374,Obese
+6375,Obese
+6376,Obese
+6377,Not Obese
+6378,Not Obese
+6379,Not Obese
+6380,Not Obese
+6381,Not Obese
+6382,Not Obese
+6383,Not Obese
+6384,Not Obese
+6385,Not Obese
+6386,Not Obese
+6387,Not Obese
+6388,Not Obese
+6389,Not Obese
+6390,Not Obese
+6391,Not Obese
+6392,Not Obese
+6393,Not Obese
+6394,Not Obese
+6395,Not Obese
+6396,Not Obese
+6397,Not Obese
+6398,Not Obese
+6399,Not Obese
+6400,Not Obese
+6401,Not Obese
+6402,Not Obese
+6403,Not Obese
+6404,Not Obese
+6405,Not Obese
+6406,Not Obese
+6407,Not Obese
+6408,Not Obese
+6409,Not Obese
+6410,Not Obese
+6411,Not Obese
+6412,Not Obese
+6413,Not Obese
+6414,Not Obese
+6415,Not Obese
+6416,Not Obese
+6417,Not Obese
+6418,Not Obese
+6419,Not Obese
+6420,Not Obese
+6421,Not Obese
+6422,Obese
+6423,Not Obese
+6424,Not Obese
+6425,Not Obese
+6426,Not Obese
+6427,Not Obese
+6428,Not Obese
+6429,Not Obese
+6430,Not Obese
+6431,Not Obese
+6432,Not Obese
+6433,Not Obese
+6434,Not Obese
+6435,Not Obese
+6436,Not Obese
+6437,Not Obese
+6438,Not Obese
+6439,Not Obese
+6440,Not Obese
+6441,Not Obese
+6442,Not Obese
+6443,Not Obese
+6444,Not Obese
+6445,Not Obese
+6446,Not Obese
+6447,Not Obese
+6448,Not Obese
+6449,Obese
+6450,Obese
+6451,Not Obese
+6452,Obese
+6453,Obese
+6454,Obese
+6455,Obese
+6456,Obese
+6457,Obese
+6458,Obese
+6459,Obese
+6460,Obese
+6461,Obese
+6462,Obese
+6463,Not Obese
+6464,Obese
+6465,Obese
+6466,Obese
+6467,Obese
+6468,Obese
+6469,Obese
+6470,Obese
+6471,Obese
+6472,Obese
+6473,Obese
+6474,Not Obese
+6475,Not Obese
+6476,Obese
+6477,Not Obese
+6478,Obese
+6479,Not Obese
+6480,Obese
+6481,Obese
+6482,Obese
+6483,Not Obese
+6484,Not Obese
+6485,Not Obese
+6486,Not Obese
+6487,Not Obese
+6488,Obese
+6489,Not Obese
+6490,Not Obese
+6491,Not Obese
+6492,Obese
+6493,Not Obese
+6494,Not Obese
+6495,Not Obese
+6496,Not Obese
+6497,Not Obese
+6498,Obese
+6499,Obese
+6500,Obese
+6501,Not Obese
+6502,Not Obese
+6503,Not Obese
+6504,Not Obese
+6505,Not Obese
+6506,Not Obese
+6507,Not Obese
+6508,Not Obese
+6509,Not Obese
+6510,Not Obese
+6511,Not Obese
+6512,Not Obese
+6513,Not Obese
+6514,Not Obese
+6515,Not Obese
+6516,Not Obese
+6517,Not Obese
+6518,Obese
+6519,Obese
+6520,Obese
+6521,Obese
+6522,Obese
+6523,Obese
+6524,Obese
+6525,Obese
+6526,Obese
+6527,Obese
+6528,Obese
+6529,Obese
+6530,Obese
+6531,Obese
+6532,Obese
+6533,Obese
+6534,Not Obese
+6535,Not Obese
+6536,Not Obese
+6537,Not Obese
+6538,Not Obese
+6539,Not Obese
+6540,Not Obese
+6541,Not Obese
+6542,Not Obese
+6543,Not Obese
+6544,Not Obese
+6545,Not Obese
+6546,Not Obese
+6547,Not Obese
+6548,Not Obese
+6549,Not Obese
+6550,Not Obese
+6551,Obese
+6552,Not Obese
+6553,Not Obese
+6554,Not Obese
+6555,Not Obese
+6556,Not Obese
+6557,Not Obese
+6558,Not Obese
+6559,Not Obese
+6560,Not Obese
+6561,Not Obese
+6562,Not Obese
+6563,Obese
+6564,Obese
+6565,Obese
+6566,Obese
+6567,Obese
+6568,Obese
+6569,Obese
+6570,Obese
+6571,Obese
+6572,Obese
+6573,Obese
+6574,Obese
+6575,Obese
+6576,Obese
+6577,Obese
+6578,Obese
+6579,Obese
+6580,Obese
+6581,Not Obese
+6582,Not Obese
+6583,Not Obese
+6584,Not Obese
+6585,Not Obese
+6586,Not Obese
+6587,Not Obese
+6588,Not Obese
+6589,Not Obese
+6590,Not Obese
+6591,Not Obese
+6592,Not Obese
+6593,Not Obese
+6594,Not Obese
+6595,Not Obese
+6596,Not Obese
+6597,Not Obese
+6598,Not Obese
+6599,Not Obese
+6600,Not Obese
+6601,Not Obese
+6602,Not Obese
+6603,Not Obese
+6604,Not Obese
+6605,Not Obese
+6606,Not Obese
+6607,Not Obese
+6608,Not Obese
+6609,Not Obese
+6610,Not Obese
+6611,Not Obese
+6612,Not Obese
+6613,Not Obese
+6614,Not Obese
+6615,Not Obese
+6616,Not Obese
+6617,Not Obese
+6618,Not Obese
+6619,Not Obese
+6620,Not Obese
+6621,Not Obese
+6622,Not Obese
+6623,Not Obese
+6624,Not Obese
+6625,Not Obese
+6626,Not Obese
+6627,Obese
+6628,Not Obese
+6629,Not Obese
+6630,Not Obese
+6631,Not Obese
+6632,Not Obese
+6633,Not Obese
+6634,Not Obese
+6635,Not Obese
+6636,Not Obese
+6637,Not Obese
+6638,Not Obese
+6639,Not Obese
+6640,Obese
+6641,Not Obese
+6642,Not Obese
+6643,Not Obese
+6644,Not Obese
+6645,Not Obese
+6646,Not Obese
+6647,Not Obese
+6648,Not Obese
+6649,Not Obese
+6650,Not Obese
+6651,Not Obese
+6652,Not Obese
+6653,Not Obese
+6654,Not Obese
+6655,Not Obese
+6656,Not Obese
+6657,Not Obese
+6658,Not Obese
+6659,Not Obese
+6660,Not Obese
+6661,Obese
+6662,Not Obese
+6663,Obese
+6664,Obese
+6665,Obese
+6666,Obese
+6667,Obese
+6668,Obese
+6669,Obese
+6670,Obese
+6671,Obese
+6672,Obese
+6673,Obese
+6674,Obese
+6675,Obese
+6676,Obese
+6677,Obese
+6678,Not Obese
+6679,Not Obese
+6680,Not Obese
+6681,Not Obese
+6682,Not Obese
+6683,Not Obese
+6684,Not Obese
+6685,Not Obese
+6686,Not Obese
+6687,Not Obese
+6688,Not Obese
+6689,Not Obese
+6690,Not Obese
+6691,Not Obese
+6692,Not Obese
+6693,Obese
+6694,Obese
+6695,Not Obese
+6696,Obese
+6697,Obese
+6698,Obese
+6699,Obese
+6700,Obese
+6701,Obese
+6702,Obese
+6703,Obese
+6704,Obese
+6705,Obese
+6706,Obese
+6707,Obese
+6708,Obese
+6709,Obese
+6710,Obese
+6711,Obese
+6712,Not Obese
+6713,Obese
+6714,Obese
+6715,Obese
+6716,Obese
+6717,Obese
+6718,Obese
+6719,Obese
+6720,Obese
+6721,Obese
+6722,Obese
+6723,Obese
+6724,Obese
+6725,Obese
+6726,Not Obese
+6727,Not Obese
+6728,Obese
+6729,Obese
+6730,Obese
+6731,Obese
+6732,Obese
+6733,Obese
+6734,Obese
+6735,Obese
+6736,Obese
+6737,Obese
+6738,Obese
+6739,Obese
+6740,Obese
+6741,Obese
+6742,Obese
+6743,Obese
+6744,Obese
+6745,Obese
+6746,Obese
+6747,Obese
+6748,Obese
+6749,Obese
+6750,Obese
+6751,Obese
+6752,Obese
+6753,Obese
+6754,Obese
+6755,Obese
+6756,Obese
+6757,Obese
+6758,Obese
+6759,Obese
+6760,Obese
+6761,Obese
+6762,Obese
+6763,Obese
+6764,Obese
+6765,Obese
+6766,Obese
+6767,Obese
+6768,Obese
+6769,Obese
+6770,Obese
+6771,Obese
+6772,Obese
+6773,Obese
+6774,Obese
+6775,Obese
+6776,Obese
+6777,Obese
+6778,Obese
+6779,Obese
+6780,Obese
+6781,Obese
+6782,Obese
+6783,Obese
+6784,Obese
+6785,Obese
+6786,Obese
+6787,Obese
+6788,Not Obese
+6789,Obese
+6790,Not Obese
+6791,Not Obese
+6792,Obese
+6793,Not Obese
+6794,Not Obese
+6795,Not Obese
+6796,Not Obese
+6797,Not Obese
+6798,Not Obese
+6799,Not Obese
+6800,Not Obese
+6801,Not Obese
+6802,Not Obese
+6803,Not Obese
+6804,Not Obese
+6805,Not Obese
+6806,Not Obese
+6807,Not Obese
+6808,Not Obese
+6809,Not Obese
+6810,Not Obese
+6811,Not Obese
+6812,Not Obese
+6813,Not Obese
+6814,Not Obese
+6815,Not Obese
+6816,Not Obese
+6817,Not Obese
+6818,Not Obese
+6819,Not Obese
+6820,Not Obese
+6821,Not Obese
+6822,Not Obese
+6823,Not Obese
+6824,Not Obese
+6825,Not Obese
+6826,Not Obese
+6827,Not Obese
+6828,Not Obese
+6829,Not Obese
+6830,Not Obese
+6831,Not Obese
+6832,Not Obese
+6833,Not Obese
+6834,Not Obese
+6835,Not Obese
+6836,Not Obese
+6837,Not Obese
+6838,Not Obese
+6839,Not Obese
+6840,Not Obese
+6841,Not Obese
+6842,Not Obese
+6843,Not Obese
+6844,Not Obese
+6845,Not Obese
+6846,Not Obese
+6847,Not Obese
+6848,Not Obese
+6849,Not Obese
+6850,Not Obese
+6851,Obese
+6852,Not Obese
+6853,Obese
+6854,Obese
+6855,Not Obese
+6856,Not Obese
+6857,Not Obese
+6858,Not Obese
+6859,Not Obese
+6860,Obese
+6861,Not Obese
+6862,Not Obese
+6863,Not Obese
+6864,Not Obese
+6865,Not Obese
+6866,Not Obese
+6867,Not Obese
+6868,Not Obese
+6869,Not Obese
+6870,Not Obese
+6871,Not Obese
+6872,Not Obese
+6873,Obese
+6874,Not Obese
+6875,Not Obese
+6876,Not Obese
+6877,Not Obese
+6878,Not Obese
+6879,Not Obese
+6880,Not Obese
+6881,Not Obese
+6882,Not Obese
+6883,Not Obese
+6884,Not Obese
+6885,Not Obese
+6886,Obese
+6887,Not Obese
+6888,Obese
+6889,Not Obese
+6890,Obese
+6891,Obese
+6892,Obese
+6893,Obese
+6894,Obese
+6895,Obese
+6896,Not Obese
+6897,Not Obese
+6898,Not Obese
+6899,Not Obese
+6900,Not Obese
+6901,Not Obese
+6902,Not Obese
+6903,Not Obese
+6904,Not Obese
+6905,Not Obese
+6906,Not Obese
+6907,Not Obese
+6908,Not Obese
+6909,Not Obese
+6910,Not Obese
+6911,Not Obese
+6912,Not Obese
+6913,Not Obese
+6914,Not Obese
+6915,Not Obese
+6916,Not Obese
+6917,Not Obese
+6918,Not Obese
+6919,Not Obese
+6920,Not Obese
+6921,Not Obese
+6922,Not Obese
+6923,Not Obese
+6924,Not Obese
+6925,Obese
+6926,Not Obese
+6927,Obese
+6928,Not Obese
+6929,Obese
+6930,Not Obese
+6931,Not Obese
+6932,Not Obese
+6933,Not Obese
+6934,Not Obese
+6935,Not Obese
+6936,Not Obese
+6937,Not Obese
+6938,Not Obese
+6939,Not Obese
+6940,Not Obese
+6941,Not Obese
+6942,Not Obese
+6943,Not Obese
+6944,Not Obese
+6945,Not Obese
+6946,Not Obese
+6947,Not Obese
+6948,Not Obese
+6949,Not Obese
+6950,Not Obese
+6951,Not Obese
+6952,Not Obese
+6953,Not Obese
+6954,Not Obese
+6955,Not Obese
+6956,Not Obese
+6957,Not Obese
+6958,Not Obese
+6959,Not Obese
+6960,Not Obese
+6961,Not Obese
+6962,Not Obese
+6963,Not Obese
+6964,Not Obese
+6965,Not Obese
+6966,Not Obese
+6967,Not Obese
+6968,Not Obese
+6969,Not Obese
+6970,Not Obese
+6971,Not Obese
+6972,Not Obese
+6973,Not Obese
+6974,Not Obese
+6975,Not Obese
+6976,Not Obese
+6977,Not Obese
+6978,Not Obese
+6979,Not Obese
+6980,Not Obese
+6981,Not Obese
+6982,Obese
+6983,Obese
+6984,Not Obese
+6985,Obese
+6986,Obese
+6987,Obese
+6988,Not Obese
+6989,Not Obese
+6990,Obese
+6991,Not Obese
+6992,Obese
+6993,Obese
+6994,Not Obese
+6995,Not Obese
+6996,Not Obese
+6997,Not Obese
+6998,Not Obese
+6999,Not Obese
+7000,Not Obese
+7001,Not Obese
+7002,Obese
+7003,Not Obese
+7004,Not Obese
+7005,Not Obese
+7006,Not Obese
+7007,Not Obese
+7008,Not Obese
+7009,Not Obese
+7010,Not Obese
+7011,Not Obese
+7012,Not Obese
+7013,Not Obese
+7014,Not Obese
+7015,Not Obese
+7016,Not Obese
+7017,Not Obese
+7018,Not Obese
+7019,Not Obese
+7020,Not Obese
+7021,Not Obese
+7022,Not Obese
+7023,Not Obese
+7024,Not Obese
+7025,Not Obese
+7026,Not Obese
+7027,Not Obese
+7028,Not Obese
+7029,Not Obese
+7030,Not Obese
+7031,Obese
+7032,Obese
+7033,Obese
+7034,Obese
+7035,Obese
+7036,Not Obese
+7037,Not Obese
+7038,Not Obese
+7039,Not Obese
+7040,Not Obese
+7041,Obese
+7042,Obese
+7043,Obese
+7044,Obese
+7045,Obese
+7046,Obese
+7047,Obese
+7048,Obese
+7049,Obese
+7050,Obese
+7051,Obese
+7052,Obese
+7053,Obese
+7054,Not Obese
+7055,Not Obese
+7056,Not Obese
+7057,Not Obese
+7058,Not Obese
+7059,Not Obese
+7060,Not Obese
+7061,Not Obese
+7062,Not Obese
+7063,Not Obese
+7064,Not Obese
+7065,Not Obese
+7066,Not Obese
+7067,Not Obese
+7068,Not Obese
+7069,Not Obese
+7070,Not Obese
+7071,Not Obese
+7072,Not Obese
+7073,Not Obese
+7074,Not Obese
+7075,Not Obese
+7076,Not Obese
+7077,Not Obese
+7078,Not Obese
+7079,Not Obese
+7080,Not Obese
+7081,Not Obese
+7082,Not Obese
+7083,Not Obese
+7084,Not Obese
+7085,Not Obese
+7086,Not Obese
+7087,Not Obese
+7088,Not Obese
+7089,Not Obese
+7090,Not Obese
+7091,Not Obese
+7092,Not Obese
+7093,Not Obese
+7094,Not Obese
+7095,Not Obese
+7096,Not Obese
+7097,Not Obese
+7098,Not Obese
+7099,Not Obese
+7100,Not Obese
+7101,Not Obese
+7102,Not Obese
+7103,Not Obese
+7104,Not Obese
+7105,Not Obese
+7106,Not Obese
+7107,Not Obese
+7108,Not Obese
+7109,Not Obese
+7110,Not Obese
+7111,Not Obese
+7112,Not Obese
+7113,Not Obese
+7114,Not Obese
+7115,Not Obese
+7116,Not Obese
+7117,Not Obese
+7118,Not Obese
+7119,Not Obese
+7120,Not Obese
+7121,Not Obese
+7122,Not Obese
+7123,Not Obese
+7124,Not Obese
+7125,Not Obese
+7126,Not Obese
+7127,Not Obese
+7128,Not Obese
+7129,Not Obese
+7130,Not Obese
+7131,Not Obese
+7132,Not Obese
+7133,Not Obese
+7134,Not Obese
+7135,Not Obese
+7136,Not Obese
+7137,Not Obese
+7138,Not Obese
+7139,Not Obese
+7140,Not Obese
+7141,Not Obese
+7142,Not Obese
+7143,Not Obese
+7144,Not Obese
+7145,Not Obese
+7146,Not Obese
+7147,Not Obese
+7148,Not Obese
+7149,Not Obese
+7150,Obese
+7151,Not Obese
+7152,Not Obese
+7153,Not Obese
+7154,Not Obese
+7155,Not Obese
+7156,Not Obese
+7157,Not Obese
+7158,Not Obese
+7159,Not Obese
+7160,Not Obese
+7161,Not Obese
+7162,Not Obese
+7163,Not Obese
+7164,Not Obese
+7165,Not Obese
+7166,Not Obese
+7167,Not Obese
+7168,Not Obese
+7169,Not Obese
+7170,Not Obese
+7171,Not Obese
+7172,Not Obese
+7173,Not Obese
+7174,Not Obese
+7175,Not Obese
+7176,Not Obese
+7177,Not Obese
+7178,Not Obese
+7179,Obese
+7180,Not Obese
+7181,Not Obese
+7182,Not Obese
+7183,Not Obese
+7184,Not Obese
+7185,Not Obese
+7186,Not Obese
+7187,Not Obese
+7188,Not Obese
+7189,Not Obese
+7190,Not Obese
+7191,Not Obese
+7192,Obese
+7193,Not Obese
+7194,Not Obese
+7195,Not Obese
+7196,Not Obese
+7197,Not Obese
+7198,Not Obese
+7199,Obese
+7200,Obese
+7201,Not Obese
+7202,Not Obese
+7203,Not Obese
+7204,Not Obese
+7205,Not Obese
+7206,Not Obese
+7207,Not Obese
+7208,Obese
+7209,Obese
+7210,Obese
+7211,Not Obese
+7212,Obese
+7213,Obese
+7214,Obese
+7215,Obese
+7216,Not Obese
+7217,Obese
+7218,Not Obese
+7219,Obese
+7220,Obese
+7221,Obese
+7222,Obese
+7223,Not Obese
+7224,Obese
+7225,Obese
+7226,Obese
+7227,Not Obese
+7228,Obese
+7229,Obese
+7230,Not Obese
+7231,Obese
+7232,Obese
+7233,Not Obese
+7234,Not Obese
+7235,Not Obese
+7236,Not Obese
+7237,Not Obese
+7238,Not Obese
+7239,Obese
+7240,Obese
+7241,Not Obese
+7242,Not Obese
+7243,Not Obese
+7244,Obese
+7245,Not Obese
+7246,Not Obese
+7247,Not Obese
+7248,Not Obese
+7249,Not Obese
+7250,Not Obese
+7251,Not Obese
+7252,Not Obese
+7253,Not Obese
+7254,Not Obese
+7255,Not Obese
+7256,Not Obese
+7257,Not Obese
+7258,Not Obese
+7259,Not Obese
+7260,Not Obese
+7261,Not Obese
+7262,Not Obese
+7263,Not Obese
+7264,Not Obese
+7265,Not Obese
+7266,Not Obese
+7267,Not Obese
+7268,Not Obese
+7269,Not Obese
+7270,Not Obese
+7271,Not Obese
+7272,Not Obese
+7273,Not Obese
+7274,Not Obese
+7275,Obese
+7276,Obese
+7277,Obese
+7278,Obese
+7279,Obese
+7280,Obese
+7281,Obese
+7282,Obese
+7283,Obese
+7284,Obese
+7285,Obese
+7286,Obese
+7287,Obese
+7288,Not Obese
+7289,Not Obese
+7290,Not Obese
+7291,Not Obese
+7292,Not Obese
+7293,Not Obese
+7294,Not Obese
+7295,Not Obese
+7296,Not Obese
+7297,Not Obese
+7298,Not Obese
+7299,Not Obese
+7300,Not Obese
+7301,Not Obese
+7302,Not Obese
+7303,Obese
+7304,Obese
+7305,Obese
+7306,Obese
+7307,Obese
+7308,Obese
+7309,Obese
+7310,Obese
+7311,Obese
+7312,Obese
+7313,Obese
+7314,Obese
+7315,Obese
+7316,Obese
+7317,Obese
+7318,Obese
+7319,Obese
+7320,Obese
+7321,Obese
+7322,Obese
+7323,Obese
+7324,Obese
+7325,Obese
+7326,Obese
+7327,Not Obese
+7328,Not Obese
+7329,Not Obese
+7330,Not Obese
+7331,Not Obese
+7332,Not Obese
+7333,Not Obese
+7334,Not Obese
+7335,Not Obese
+7336,Not Obese
+7337,Not Obese
+7338,Not Obese
+7339,Not Obese
+7340,Not Obese
+7341,Obese
+7342,Obese
+7343,Obese
+7344,Obese
+7345,Obese
+7346,Obese
+7347,Obese
+7348,Obese
+7349,Obese
+7350,Obese
+7351,Obese
+7352,Obese
+7353,Obese
+7354,Obese
+7355,Obese
+7356,Obese
+7357,Obese
+7358,Not Obese
+7359,Not Obese
+7360,Not Obese
+7361,Not Obese
+7362,Not Obese
+7363,Not Obese
+7364,Not Obese
+7365,Not Obese
+7366,Not Obese
+7367,Not Obese
+7368,Not Obese
+7369,Not Obese
+7370,Not Obese
+7371,Not Obese
+7372,Not Obese
+7373,Not Obese
+7374,Not Obese
+7375,Not Obese
+7376,Not Obese
+7377,Obese
+7378,Obese
+7379,Obese
+7380,Obese
+7381,Obese
+7382,Obese
+7383,Obese
+7384,Obese
+7385,Obese
+7386,Obese
+7387,Obese
+7388,Obese
+7389,Obese
+7390,Obese
+7391,Obese
+7392,Obese
+7393,Obese
+7394,Obese
+7395,Obese
+7396,Obese
+7397,Obese
+7398,Obese
+7399,Obese
+7400,Obese
+7401,Obese
+7402,Obese
+7403,Obese
+7404,Obese
+7405,Obese
+7406,Obese
+7407,Obese
+7408,Obese
+7409,Obese
+7410,Obese
+7411,Obese
+7412,Obese
+7413,Obese
+7414,Obese
+7415,Obese
+7416,Obese
+7417,Obese
+7418,Obese
+7419,Obese
+7420,Obese
+7421,Obese
+7422,Obese
+7423,Obese
+7424,Obese
+7425,Obese
+7426,Obese
+7427,Obese
+7428,Obese
+7429,Obese
+7430,Obese
+7431,Obese
+7432,Obese
+7433,Obese
+7434,Obese
+7435,Obese
+7436,Obese
+7437,Obese
+7438,Obese
+7439,Obese
+7440,Obese
+7441,Obese
+7442,Obese
+7443,Obese
+7444,Obese
+7445,Obese
+7446,Obese
+7447,Obese
+7448,Obese
+7449,Obese
+7450,Obese
+7451,Obese
+7452,Obese
+7453,Obese
+7454,Obese
+7455,Obese
+7456,Obese
+7457,Not Obese
+7458,Not Obese
+7459,Not Obese
+7460,Not Obese
+7461,Not Obese
+7462,Not Obese
+7463,Not Obese
+7464,Not Obese
+7465,Not Obese
+7466,Not Obese
+7467,Not Obese
+7468,Not Obese
+7469,Not Obese
+7470,Not Obese
+7471,Not Obese
+7472,Not Obese
+7473,Obese
+7474,Obese
+7475,Obese
+7476,Obese
+7477,Obese
+7478,Obese
+7479,Obese
+7480,Obese
+7481,Obese
+7482,Obese
+7483,Obese
+7484,Obese
+7485,Obese
+7486,Obese
+7487,Obese
+7488,Obese
+7489,Obese
+7490,Obese
+7491,Obese
+7492,Obese
+7493,Obese
+7494,Obese
+7495,Obese
+7496,Obese
+7497,Obese
+7498,Obese
+7499,Obese
+7500,Obese
+7501,Obese
+7502,Obese
+7503,Obese
+7504,Obese
+7505,Obese
+7506,Obese
+7507,Obese
+7508,Not Obese
+7509,Not Obese
+7510,Not Obese
+7511,Not Obese
+7512,Obese
+7513,Not Obese
+7514,Not Obese
+7515,Not Obese
+7516,Obese
+7517,Not Obese
+7518,Not Obese
+7519,Not Obese
+7520,Not Obese
+7521,Obese
+7522,Not Obese
+7523,Not Obese
+7524,Obese
+7525,Obese
+7526,Obese
+7527,Obese
+7528,Obese
+7529,Obese
+7530,Obese
+7531,Obese
+7532,Obese
+7533,Obese
+7534,Obese
+7535,Obese
+7536,Obese
+7537,Obese
+7538,Obese
+7539,Obese
+7540,Obese
+7541,Obese
+7542,Not Obese
+7543,Not Obese
+7544,Not Obese
+7545,Not Obese
+7546,Not Obese
+7547,Not Obese
+7548,Not Obese
+7549,Not Obese
+7550,Not Obese
+7551,Not Obese
+7552,Not Obese
+7553,Not Obese
+7554,Not Obese
+7555,Obese
+7556,Obese
+7557,Obese
+7558,Obese
+7559,Obese
+7560,Obese
+7561,Obese
+7562,Obese
+7563,Obese
+7564,Obese
+7565,Obese
+7566,Obese
+7567,Obese
+7568,Obese
+7569,Obese
+7570,Obese
+7571,Obese
+7572,Obese
+7573,Obese
+7574,Obese
+7575,Obese
+7576,Obese
+7577,Obese
+7578,Obese
+7579,Obese
+7580,Obese
+7581,Obese
+7582,Obese
+7583,Obese
+7584,Obese
+7585,Obese
+7586,Obese
+7587,Obese
+7588,Obese
+7589,Obese
+7590,Obese
+7591,Obese
+7592,Obese
+7593,Obese
+7594,Obese
+7595,Obese
+7596,Obese
+7597,Obese
+7598,Obese
+7599,Obese
+7600,Obese
+7601,Obese
+7602,Obese
+7603,Obese
+7604,Obese
+7605,Obese
+7606,Obese
+7607,Obese
+7608,Obese
+7609,Obese
+7610,Obese
+7611,Obese
+7612,Obese
+7613,Obese
+7614,Obese
+7615,Obese
+7616,Obese
+7617,Obese
+7618,Obese
+7619,Obese
+7620,Obese
+7621,Obese
+7622,Obese
+7623,Obese
+7624,Obese
+7625,Obese
+7626,Obese
+7627,Obese
+7628,Obese
+7629,Obese
+7630,Obese
+7631,Obese
+7632,Obese
+7633,Obese
+7634,Obese
+7635,Obese
+7636,Obese
+7637,Obese
+7638,Obese
+7639,Obese
+7640,Obese
+7641,Obese
+7642,Obese
+7643,Obese
+7644,Obese
+7645,Obese
+7646,Obese
+7647,Obese
+7648,Obese
+7649,Obese
+7650,Obese
+7651,Obese
+7652,Obese
+7653,Obese
+7654,Obese
+7655,Obese
+7656,Obese
+7657,Obese
+7658,Obese
+7659,Obese
+7660,Obese
+7661,Obese
+7662,Obese
+7663,Obese
+7664,Obese
+7665,Obese
+7666,Obese
+7667,Obese
+7668,Obese
+7669,Obese
+7670,Obese
+7671,Obese
+7672,Obese
+7673,Obese
+7674,Obese
+7675,Obese
+7676,Obese
+7677,Obese
+7678,Obese
+7679,Obese
+7680,Obese
+7681,Obese
+7682,Obese
+7683,Obese
+7684,Obese
+7685,Obese
+7686,Obese
+7687,Obese
+7688,Obese
+7689,Obese
+7690,Obese
+7691,Obese
+7692,Obese
+7693,Obese
+7694,Obese
+7695,Obese
+7696,Obese
+7697,Obese
+7698,Obese
+7699,Obese
+7700,Obese
+7701,Obese
+7702,Obese
+7703,Obese
+7704,Obese
+7705,Obese
+7706,Obese
+7707,Obese
+7708,Obese
+7709,Obese
+7710,Obese
+7711,Obese
+7712,Obese
+7713,Obese
+7714,Obese
+7715,Obese
+7716,Obese
+7717,Obese
+7718,Obese
+7719,Obese
+7720,Obese
+7721,Obese
+7722,Obese
+7723,Obese
+7724,Obese
+7725,Obese
+7726,Obese
+7727,Obese
+7728,Obese
+7729,Obese
+7730,Obese
+7731,Obese
+7732,Obese
+7733,Obese
+7734,Obese
+7735,Obese
+7736,Obese
+7737,Obese
+7738,Obese
+7739,Obese
+7740,Obese
+7741,Obese
+7742,Obese
+7743,Obese
+7744,Obese
+7745,Obese
+7746,Obese
+7747,Obese
+7748,Obese
+7749,Obese
+7750,Obese
+7751,Obese
+7752,Obese
+7753,Obese
+7754,Not Obese
+7755,Not Obese
+7756,Not Obese
+7757,Not Obese
+7758,Not Obese
+7759,Not Obese
+7760,Not Obese
+7761,Not Obese
+7762,Not Obese
+7763,Not Obese
+7764,Not Obese
+7765,Not Obese
+7766,Not Obese
+7767,Not Obese
+7768,Not Obese
+7769,Not Obese
+7770,Obese
+7771,Obese
+7772,Obese
+7773,Obese
+7774,Obese
+7775,Obese
+7776,Obese
+7777,Obese
+7778,Obese
+7779,Obese
+7780,Obese
+7781,Obese
+7782,Obese
+7783,Obese
+7784,Obese
+7785,Obese
+7786,Obese
+7787,Obese
+7788,Obese
+7789,Obese
+7790,Obese
+7791,Obese
+7792,Obese
+7793,Obese
+7794,Obese
+7795,Obese
+7796,Obese
+7797,Obese
+7798,Obese
+7799,Obese
+7800,Obese
+7801,Obese
+7802,Obese
+7803,Obese
+7804,Obese
+7805,Obese
+7806,Obese
+7807,Obese
+7808,Obese
+7809,Obese
+7810,Obese
+7811,Obese
+7812,Obese
+7813,Obese
+7814,Obese
+7815,Obese
+7816,Obese
+7817,Obese
+7818,Obese
+7819,Obese
+7820,Obese
+7821,Obese
+7822,Obese
+7823,Obese
+7824,Obese
+7825,Obese
+7826,Obese
+7827,Obese
+7828,Obese
+7829,Obese
+7830,Obese
+7831,Obese
+7832,Obese
+7833,Obese
+7834,Obese
+7835,Obese
+7836,Obese
+7837,Obese
+7838,Obese
+7839,Obese
+7840,Obese
+7841,Obese
+7842,Obese
+7843,Obese
+7844,Obese
+7845,Obese
+7846,Obese
+7847,Obese
+7848,Obese
+7849,Obese
+7850,Obese
+7851,Obese
+7852,Obese
+7853,Obese
+7854,Obese
+7855,Obese
+7856,Obese
+7857,Obese
+7858,Not Obese
+7859,Obese
+7860,Obese
+7861,Obese
+7862,Obese
+7863,Obese
+7864,Obese
+7865,Obese
+7866,Obese
+7867,Obese
+7868,Obese
+7869,Obese
+7870,Obese
+7871,Obese
+7872,Obese
+7873,Obese
+7874,Obese
+7875,Obese
+7876,Obese
+7877,Obese
+7878,Obese
+7879,Obese
+7880,Obese
+7881,Obese
+7882,Obese
+7883,Obese
+7884,Obese
+7885,Obese
+7886,Obese
+7887,Obese
+7888,Obese
+7889,Obese
+7890,Obese
+7891,Obese
+7892,Obese
+7893,Obese
+7894,Obese
+7895,Obese
+7896,Obese
+7897,Obese
+7898,Obese
+7899,Obese
+7900,Obese
+7901,Obese
+7902,Obese
+7903,Obese
+7904,Obese
+7905,Obese
+7906,Obese
+7907,Obese
+7908,Obese
+7909,Obese
+7910,Obese
+7911,Obese
+7912,Obese
+7913,Obese
+7914,Obese
+7915,Obese
+7916,Obese
+7917,Obese
+7918,Obese
+7919,Obese
+7920,Obese
+7921,Obese
+7922,Obese
+7923,Obese
+7924,Obese
+7925,Obese
+7926,Obese
+7927,Obese
+7928,Obese
+7929,Obese
+7930,Obese
+7931,Obese
+7932,Not Obese
+7933,Not Obese
+7934,Not Obese
+7935,Not Obese
+7936,Not Obese
+7937,Not Obese
+7938,Not Obese
+7939,Not Obese
+7940,Not Obese
+7941,Not Obese
+7942,Not Obese
+7943,Not Obese
+7944,Not Obese
+7945,Obese
+7946,Obese
+7947,Obese
+7948,Obese
+7949,Obese
+7950,Obese
+7951,Obese
+7952,Obese
+7953,Obese
+7954,Obese
+7955,Obese
+7956,Obese
+7957,Obese
+7958,Obese
+7959,Obese
+7960,Obese
+7961,Obese
+7962,Obese
+7963,Obese
+7964,Obese
+7965,Obese
+7966,Obese
+7967,Obese
+7968,Obese
+7969,Obese
+7970,Obese
+7971,Obese
+7972,Obese
+7973,Obese
+7974,Obese
+7975,Obese
+7976,Obese
+7977,Obese
+7978,Obese
+7979,Obese
+7980,Obese
+7981,Obese
+7982,Obese
+7983,Obese
+7984,Obese
+7985,Obese
+7986,Obese
+7987,Obese
+7988,Obese
+7989,Obese
+7990,Obese
+7991,Obese
+7992,Not Obese
+7993,Not Obese
+7994,Not Obese
+7995,Not Obese
+7996,Not Obese
+7997,Not Obese
+7998,Not Obese
+7999,Not Obese
+8000,Not Obese
+8001,Not Obese
+8002,Not Obese
+8003,Not Obese
+8004,Not Obese
+8005,Obese
+8006,Obese
+8007,Obese
+8008,Obese
+8009,Obese
+8010,Obese
+8011,Obese
+8012,Obese
+8013,Obese
+8014,Obese
+8015,Obese
+8016,Obese
+8017,Obese
+8018,Obese
+8019,Obese
+8020,Obese
+8021,Obese
+8022,Obese
+8023,Obese
+8024,Obese
+8025,Obese
+8026,Obese
+8027,Obese
+8028,Obese
+8029,Obese
+8030,Obese
+8031,Obese
+8032,Obese
+8033,Obese
+8034,Obese
+8035,Obese
+8036,Obese
+8037,Obese
+8038,Obese
+8039,Obese
+8040,Obese
+8041,Obese
+8042,Obese
+8043,Obese
+8044,Obese
+8045,Obese
+8046,Obese
+8047,Obese
+8048,Obese
+8049,Obese
+8050,Obese
+8051,Obese
+8052,Obese
+8053,Obese
+8054,Obese
+8055,Obese
+8056,Obese
+8057,Obese
+8058,Obese
+8059,Obese
+8060,Obese
+8061,Obese
+8062,Obese
+8063,Obese
+8064,Obese
+8065,Obese
+8066,Obese
+8067,Obese
+8068,Obese
+8069,Obese
+8070,Obese
+8071,Obese
+8072,Obese
+8073,Obese
+8074,Obese
+8075,Obese
+8076,Obese
+8077,Obese
+8078,Obese
+8079,Obese
+8080,Obese
+8081,Obese
+8082,Obese
+8083,Obese
+8084,Obese
+8085,Obese
+8086,Not Obese
+8087,Not Obese
+8088,Not Obese
+8089,Not Obese
+8090,Not Obese
+8091,Not Obese
+8092,Not Obese
+8093,Not Obese
+8094,Not Obese
+8095,Not Obese
+8096,Not Obese
+8097,Not Obese
+8098,Not Obese
+8099,Obese
+8100,Obese
+8101,Obese
+8102,Obese
+8103,Obese
+8104,Obese
+8105,Obese
+8106,Obese
+8107,Obese
+8108,Obese
+8109,Obese
+8110,Obese
+8111,Obese
+8112,Obese
+8113,Obese
+8114,Obese
+8115,Obese
+8116,Obese
+8117,Obese
+8118,Obese
+8119,Obese
+8120,Obese
+8121,Obese
+8122,Obese
+8123,Obese
+8124,Obese
+8125,Obese
+8126,Obese
+8127,Obese
+8128,Obese
+8129,Obese
+8130,Obese
+8131,Obese
+8132,Obese
+8133,Obese
+8134,Obese
+8135,Obese
+8136,Obese
+8137,Obese
+8138,Obese
+8139,Obese
+8140,Obese
+8141,Obese
+8142,Obese
+8143,Obese
+8144,Obese
+8145,Obese
+8146,Obese
+8147,Obese
+8148,Obese
+8149,Obese
+8150,Obese
+8151,Obese
+8152,Obese
+8153,Obese
+8154,Obese
+8155,Obese
+8156,Obese
+8157,Obese
+8158,Obese
+8159,Not Obese
+8160,Obese
+8161,Obese
+8162,Not Obese
+8163,Obese
+8164,Obese
+8165,Obese
+8166,Obese
+8167,Obese
+8168,Obese
+8169,Obese
+8170,Obese
+8171,Obese
+8172,Obese
+8173,Obese
+8174,Obese
+8175,Obese
+8176,Obese
+8177,Obese
+8178,Obese
+8179,Obese
+8180,Obese
+8181,Obese
+8182,Obese
+8183,Obese
+8184,Obese
+8185,Obese
+8186,Obese
+8187,Obese
+8188,Obese
+8189,Obese
+8190,Obese
+8191,Obese
+8192,Obese
+8193,Obese
+8194,Obese
+8195,Obese
+8196,Obese
+8197,Obese
+8198,Obese
+8199,Obese
+8200,Obese
+8201,Obese
+8202,Obese
+8203,Obese
+8204,Obese
+8205,Obese
+8206,Obese
+8207,Obese
+8208,Obese
+8209,Obese
+8210,Obese
+8211,Obese
+8212,Obese
+8213,Obese
+8214,Obese
+8215,Obese
+8216,Obese
+8217,Obese
+8218,Obese
+8219,Obese
+8220,Obese
+8221,Obese
+8222,Obese
+8223,Obese
+8224,Obese
+8225,Obese
+8226,Obese
+8227,Obese
+8228,Obese
+8229,Obese
+8230,Obese
+8231,Obese
+8232,Obese
+8233,Obese
+8234,Obese
+8235,Obese
+8236,Obese
+8237,Obese
+8238,Obese
+8239,Obese
+8240,Obese
+8241,Obese
+8242,Obese
+8243,Obese
+8244,Obese
+8245,Obese
+8246,Not Obese
+8247,Not Obese
+8248,Not Obese
+8249,Not Obese
+8250,Not Obese
+8251,Not Obese
+8252,Not Obese
+8253,Not Obese
+8254,Not Obese
+8255,Not Obese
+8256,Not Obese
+8257,Not Obese
+8258,Not Obese
+8259,Obese
+8260,Obese
+8261,Obese
+8262,Obese
+8263,Obese
+8264,Obese
+8265,Obese
+8266,Obese
+8267,Obese
+8268,Obese
+8269,Obese
+8270,Obese
+8271,Obese
+8272,Obese
+8273,Obese
+8274,Obese
+8275,Obese
+8276,Obese
+8277,Obese
+8278,Obese
+8279,Obese
+8280,Obese
+8281,Obese
+8282,Obese
+8283,Obese
+8284,Obese
+8285,Obese
+8286,Obese
+8287,Obese
+8288,Obese
+8289,Obese
+8290,Obese
+8291,Obese
+8292,Obese
+8293,Obese
+8294,Obese
+8295,Obese
+8296,Obese
+8297,Obese
+8298,Obese
+8299,Obese
+8300,Obese
+8301,Obese
+8302,Obese
+8303,Obese
+8304,Obese
+8305,Obese
+8306,Obese
+8307,Obese
+8308,Obese
+8309,Obese
+8310,Obese
+8311,Obese
+8312,Obese
+8313,Obese
+8314,Obese
+8315,Obese
+8316,Obese
+8317,Obese
+8318,Obese
+8319,Obese
+8320,Obese
+8321,Obese
+8322,Obese
+8323,Obese
+8324,Obese
+8325,Obese
+8326,Obese
+8327,Obese
+8328,Obese
+8329,Obese
+8330,Obese
+8331,Obese
+8332,Obese
+8333,Obese
+8334,Obese
+8335,Obese
+8336,Obese
+8337,Obese
+8338,Obese
+8339,Obese
+8340,Obese
+8341,Obese
+8342,Obese
+8343,Obese
+8344,Obese
+8345,Obese
+8346,Obese
+8347,Obese
+8348,Obese
+8349,Obese
+8350,Obese
+8351,Obese
+8352,Obese
+8353,Obese
+8354,Obese
+8355,Obese
+8356,Obese
+8357,Obese
+8358,Obese
+8359,Obese
+8360,Obese
+8361,Obese
+8362,Obese
+8363,Obese
+8364,Obese
+8365,Obese
+8366,Obese
+8367,Obese
+8368,Obese
+8369,Obese
+8370,Obese
+8371,Obese
+8372,Obese
+8373,Obese
+8374,Obese
+8375,Obese
+8376,Obese
+8377,Obese
+8378,Obese
+8379,Obese
+8380,Obese
+8381,Obese
+8382,Obese
+8383,Not Obese
+8384,Not Obese
+8385,Obese
+8386,Obese
+8387,Not Obese
+8388,Obese
+8389,Not Obese
+8390,Not Obese
+8391,Not Obese
+8392,Not Obese
+8393,Not Obese
+8394,Obese
+8395,Obese
+8396,Not Obese
+8397,Not Obese
+8398,Not Obese
+8399,Obese
+8400,Obese
+8401,Obese
+8402,Obese
+8403,Obese
+8404,Obese
+8405,Obese
+8406,Obese
+8407,Obese
+8408,Obese
+8409,Obese
+8410,Obese
+8411,Obese
+8412,Obese
+8413,Obese
+8414,Obese
+8415,Obese
+8416,Obese
+8417,Obese
+8418,Obese
+8419,Obese
+8420,Obese
+8421,Obese
+8422,Obese
+8423,Obese
+8424,Obese
+8425,Obese
+8426,Obese
+8427,Obese
+8428,Obese
+8429,Obese
+8430,Obese
+8431,Obese
+8432,Obese
+8433,Obese
+8434,Obese
+8435,Obese
+8436,Obese
+8437,Obese
+8438,Obese
+8439,Obese
+8440,Obese
+8441,Obese
+8442,Obese
+8443,Obese
+8444,Obese
+8445,Obese
+8446,Obese
+8447,Obese
+8448,Obese
+8449,Obese
+8450,Obese
+8451,Obese
+8452,Obese
+8453,Obese
+8454,Obese
+8455,Obese
+8456,Obese
+8457,Obese
+8458,Obese
+8459,Obese
+8460,Obese
+8461,Obese
+8462,Obese
+8463,Obese
+8464,Obese
+8465,Obese
+8466,Obese
+8467,Obese
+8468,Obese
+8469,Obese
+8470,Obese
+8471,Obese
+8472,Obese
+8473,Obese
+8474,Obese
+8475,Obese
+8476,Obese
+8477,Obese
+8478,Obese
+8479,Obese
+8480,Obese
+8481,Obese
+8482,Obese
+8483,Obese
+8484,Obese
+8485,Obese
+8486,Obese
+8487,Obese
+8488,Obese
+8489,Obese
+8490,Obese
+8491,Obese
+8492,Obese
+8493,Obese
+8494,Obese
+8495,Obese
+8496,Obese
+8497,Obese
+8498,Obese
+8499,Obese
+8500,Obese
+8501,Obese
+8502,Obese
+8503,Obese
+8504,Obese
+8505,Not Obese
+8506,Obese
+8507,Obese
+8508,Obese
+8509,Not Obese
+8510,Obese
+8511,Not Obese
+8512,Obese
+8513,Obese
+8514,Obese
+8515,Obese
+8516,Obese
+8517,Obese
+8518,Obese
+8519,Obese
+8520,Obese
+8521,Obese
+8522,Obese
+8523,Obese
+8524,Obese
+8525,Obese
+8526,Obese
+8527,Obese
+8528,Obese
+8529,Obese
+8530,Obese
+8531,Obese
+8532,Obese
+8533,Obese
+8534,Obese
+8535,Obese
+8536,Obese
+8537,Obese
+8538,Obese
+8539,Obese
+8540,Obese
+8541,Obese
+8542,Obese
+8543,Obese
+8544,Obese
+8545,Obese
+8546,Obese
+8547,Obese
+8548,Obese
+8549,Obese
+8550,Obese
+8551,Obese
+8552,Obese
+8553,Obese
+8554,Obese
+8555,Obese
+8556,Obese
+8557,Obese
+8558,Obese
+8559,Obese
+8560,Obese
+8561,Obese
+8562,Obese
+8563,Obese
+8564,Obese
+8565,Obese
+8566,Obese
+8567,Obese
+8568,Obese
+8569,Obese
+8570,Obese
+8571,Obese
+8572,Obese
+8573,Obese
+8574,Obese
+8575,Obese
+8576,Obese
+8577,Obese
+8578,Obese
+8579,Obese
+8580,Obese
+8581,Obese
+8582,Obese
+8583,Obese
+8584,Obese
+8585,Obese
+8586,Obese
+8587,Obese
+8588,Obese
+8589,Obese
+8590,Obese
+8591,Obese
+8592,Obese
+8593,Obese
+8594,Obese
+8595,Obese
+8596,Obese
+8597,Obese
+8598,Obese
+8599,Obese
+8600,Obese
+8601,Obese
+8602,Obese
+8603,Obese
+8604,Obese
+8605,Obese
+8606,Obese
+8607,Obese
+8608,Obese
+8609,Obese
+8610,Obese
+8611,Obese
+8612,Not Obese
+8613,Not Obese
+8614,Not Obese
+8615,Not Obese
+8616,Not Obese
+8617,Not Obese
+8618,Not Obese
+8619,Not Obese
+8620,Not Obese
+8621,Not Obese
+8622,Not Obese
+8623,Obese
+8624,Not Obese
+8625,Not Obese
+8626,Not Obese
+8627,Not Obese
+8628,Obese
+8629,Obese
+8630,Obese
+8631,Obese
+8632,Obese
+8633,Obese
+8634,Obese
+8635,Obese
+8636,Obese
+8637,Obese
+8638,Obese
+8639,Obese
+8640,Obese
+8641,Obese
+8642,Obese
+8643,Obese
+8644,Obese
+8645,Obese
+8646,Obese
+8647,Obese
+8648,Obese
+8649,Obese
+8650,Obese
+8651,Obese
+8652,Obese
+8653,Obese
+8654,Obese
+8655,Obese
+8656,Obese
+8657,Obese
+8658,Obese
+8659,Obese
+8660,Obese
+8661,Obese
+8662,Obese
+8663,Obese
+8664,Obese
+8665,Obese
+8666,Obese
+8667,Obese
+8668,Obese
+8669,Obese
+8670,Obese
+8671,Obese
+8672,Obese
+8673,Obese
+8674,Obese
+8675,Obese
+8676,Obese
+8677,Obese
+8678,Obese
+8679,Obese
+8680,Obese
+8681,Obese
+8682,Obese
+8683,Obese
+8684,Obese
+8685,Obese
+8686,Obese
+8687,Obese
+8688,Obese
+8689,Obese
+8690,Obese
+8691,Obese
+8692,Obese
+8693,Obese
+8694,Obese
+8695,Obese
+8696,Obese
+8697,Obese
+8698,Obese
+8699,Obese
+8700,Obese
+8701,Obese
+8702,Obese
+8703,Obese
+8704,Obese
+8705,Obese
+8706,Obese
+8707,Obese
+8708,Obese
+8709,Obese
+8710,Obese
+8711,Obese
+8712,Obese
+8713,Obese
+8714,Obese
+8715,Obese
+8716,Obese
+8717,Obese
+8718,Obese
+8719,Obese
+8720,Obese
+8721,Obese
+8722,Obese
+8723,Obese
+8724,Obese
+8725,Obese
+8726,Obese
+8727,Obese
+8728,Obese
+8729,Obese
+8730,Obese
+8731,Obese
+8732,Obese
+8733,Obese
+8734,Obese
+8735,Obese
+8736,Obese
+8737,Obese
+8738,Obese
+8739,Obese
+8740,Obese
+8741,Obese
+8742,Obese
+8743,Obese
+8744,Obese
+8745,Obese
+8746,Obese
+8747,Obese
+8748,Obese
+8749,Obese
+8750,Obese
+8751,Obese
+8752,Obese
+8753,Obese
+8754,Obese
+8755,Obese
+8756,Obese
+8757,Obese
+8758,Obese
+8759,Obese
+8760,Obese
+8761,Obese
+8762,Obese
+8763,Obese
+8764,Obese
+8765,Obese
+8766,Obese
+8767,Obese
+8768,Obese
+8769,Obese
+8770,Obese
+8771,Obese
+8772,Obese
+8773,Obese
+8774,Obese
+8775,Obese
+8776,Obese
+8777,Obese
+8778,Obese
+8779,Not Obese
+8780,Not Obese
+8781,Not Obese
+8782,Not Obese
+8783,Not Obese
+8784,Not Obese
+8785,Not Obese
+8786,Not Obese
+8787,Not Obese
+8788,Not Obese
+8789,Not Obese
+8790,Not Obese
+8791,Not Obese
+8792,Not Obese
+8793,Not Obese
+8794,Not Obese
+8795,Not Obese
+8796,Not Obese
+8797,Not Obese
+8798,Not Obese
+8799,Not Obese
+8800,Not Obese
+8801,Not Obese
+8802,Not Obese
+8803,Not Obese
+8804,Not Obese
+8805,Not Obese
+8806,Not Obese
+8807,Not Obese
+8808,Not Obese
+8809,Not Obese
+8810,Not Obese
+8811,Not Obese
+8812,Not Obese
+8813,Not Obese
+8814,Not Obese
+8815,Not Obese
+8816,Not Obese
+8817,Not Obese
+8818,Not Obese
+8819,Not Obese
+8820,Not Obese
+8821,Not Obese
+8822,Not Obese
+8823,Not Obese
+8824,Not Obese
+8825,Not Obese
+8826,Not Obese
+8827,Not Obese
+8828,Not Obese
+8829,Not Obese
+8830,Not Obese
+8831,Not Obese
+8832,Not Obese
+8833,Not Obese
+8834,Not Obese
+8835,Not Obese
+8836,Not Obese
+8837,Not Obese
+8838,Not Obese
+8839,Obese
+8840,Not Obese
+8841,Not Obese
+8842,Not Obese
+8843,Not Obese
+8844,Obese
+8845,Not Obese
+8846,Not Obese
+8847,Not Obese
+8848,Not Obese
+8849,Not Obese
+8850,Not Obese
+8851,Not Obese
+8852,Not Obese
+8853,Not Obese
+8854,Not Obese
+8855,Not Obese
+8856,Not Obese
+8857,Not Obese
+8858,Not Obese
+8859,Obese
+8860,Not Obese
+8861,Not Obese
+8862,Not Obese
+8863,Not Obese
+8864,Not Obese
+8865,Not Obese
+8866,Not Obese
+8867,Not Obese
+8868,Not Obese
+8869,Not Obese
+8870,Not Obese
+8871,Obese
+8872,Not Obese
+8873,Not Obese
+8874,Obese
+8875,Not Obese
+8876,Not Obese
+8877,Not Obese
+8878,Not Obese
+8879,Not Obese
+8880,Not Obese
+8881,Not Obese
+8882,Not Obese
+8883,Not Obese
+8884,Not Obese
+8885,Not Obese
+8886,Not Obese
+8887,Not Obese
+8888,Not Obese
+8889,Not Obese
+8890,Not Obese
+8891,Obese
+8892,Not Obese
+8893,Not Obese
+8894,Not Obese
+8895,Not Obese
+8896,Not Obese
+8897,Not Obese
+8898,Not Obese
+8899,Not Obese
+8900,Not Obese
+8901,Not Obese
+8902,Not Obese
+8903,Not Obese
+8904,Obese
+8905,Not Obese
+8906,Not Obese
+8907,Not Obese
+8908,Not Obese
+8909,Not Obese
+8910,Not Obese
+8911,Not Obese
+8912,Not Obese
+8913,Not Obese
+8914,Not Obese
+8915,Not Obese
+8916,Not Obese
+8917,Not Obese
+8918,Not Obese
+8919,Not Obese
+8920,Not Obese
+8921,Not Obese
+8922,Not Obese
+8923,Not Obese
+8924,Not Obese
+8925,Not Obese
+8926,Not Obese
+8927,Not Obese
+8928,Not Obese
+8929,Not Obese
+8930,Not Obese
+8931,Not Obese
+8932,Not Obese
+8933,Not Obese
+8934,Not Obese
+8935,Not Obese
+8936,Not Obese
+8937,Not Obese
+8938,Not Obese
+8939,Not Obese
+8940,Not Obese
+8941,Not Obese
+8942,Not Obese
+8943,Not Obese
+8944,Not Obese
+8945,Not Obese
+8946,Not Obese
+8947,Not Obese
+8948,Not Obese
+8949,Not Obese
+8950,Not Obese
+8951,Not Obese
+8952,Not Obese
+8953,Not Obese
+8954,Not Obese
+8955,Not Obese
+8956,Not Obese
+8957,Not Obese
+8958,Not Obese
+8959,Not Obese
+8960,Not Obese
+8961,Not Obese
+8962,Not Obese
+8963,Not Obese
+8964,Not Obese
+8965,Not Obese
+8966,Not Obese
+8967,Not Obese
+8968,Not Obese
+8969,Not Obese
+8970,Not Obese
+8971,Not Obese
+8972,Not Obese
+8973,Not Obese
+8974,Not Obese
+8975,Not Obese
+8976,Not Obese
+8977,Not Obese
+8978,Not Obese
+8979,Not Obese
+8980,Not Obese
+8981,Not Obese
+8982,Not Obese
+8983,Not Obese
+8984,Not Obese
+8985,Not Obese
+8986,Not Obese
+8987,Not Obese
+8988,Not Obese
+8989,Not Obese
+8990,Not Obese
+8991,Not Obese
+8992,Not Obese
+8993,Not Obese
+8994,Not Obese
+8995,Not Obese
+8996,Not Obese
+8997,Not Obese
+8998,Not Obese
+8999,Not Obese
+9000,Not Obese
+9001,Obese
+9002,Not Obese
+9003,Not Obese
+9004,Not Obese
+9005,Not Obese
+9006,Not Obese
+9007,Not Obese
+9008,Not Obese
+9009,Not Obese
+9010,Not Obese
+9011,Not Obese
+9012,Not Obese
+9013,Not Obese
+9014,Not Obese
+9015,Not Obese
+9016,Not Obese
+9017,Not Obese
+9018,Not Obese
+9019,Not Obese
+9020,Not Obese
+9021,Not Obese
+9022,Not Obese
+9023,Not Obese
+9024,Not Obese
+9025,Not Obese
+9026,Not Obese
+9027,Not Obese
+9028,Not Obese
+9029,Not Obese
+9030,Not Obese
+9031,Not Obese
+9032,Not Obese
+9033,Not Obese
+9034,Not Obese
+9035,Not Obese
+9036,Not Obese
+9037,Not Obese
+9038,Not Obese
+9039,Not Obese
+9040,Not Obese
+9041,Not Obese
+9042,Not Obese
+9043,Not Obese
+9044,Not Obese
+9045,Obese
+9046,Not Obese
+9047,Obese
+9048,Not Obese
+9049,Not Obese
+9050,Not Obese
+9051,Not Obese
+9052,Not Obese
+9053,Not Obese
+9054,Not Obese
+9055,Not Obese
+9056,Not Obese
+9057,Obese
+9058,Not Obese
+9059,Not Obese
+9060,Not Obese
+9061,Not Obese
+9062,Not Obese
+9063,Not Obese
+9064,Not Obese
+9065,Not Obese
+9066,Not Obese
+9067,Not Obese
+9068,Not Obese
+9069,Not Obese
+9070,Not Obese
+9071,Not Obese
+9072,Not Obese
+9073,Not Obese
+9074,Not Obese
+9075,Obese
+9076,Not Obese
+9077,Not Obese
+9078,Not Obese
+9079,Not Obese
+9080,Not Obese
+9081,Not Obese
+9082,Not Obese
+9083,Not Obese
+9084,Not Obese
+9085,Not Obese
+9086,Not Obese
+9087,Not Obese
+9088,Not Obese
+9089,Not Obese
+9090,Not Obese
+9091,Not Obese
+9092,Not Obese
+9093,Not Obese
+9094,Not Obese
+9095,Not Obese
+9096,Not Obese
+9097,Not Obese
+9098,Not Obese
+9099,Not Obese
+9100,Not Obese
+9101,Not Obese
+9102,Not Obese
+9103,Not Obese
+9104,Not Obese
+9105,Not Obese
+9106,Not Obese
+9107,Not Obese
+9108,Not Obese
+9109,Not Obese
+9110,Not Obese
+9111,Not Obese
+9112,Not Obese
+9113,Not Obese
+9114,Not Obese
+9115,Not Obese
+9116,Not Obese
+9117,Obese
+9118,Not Obese
+9119,Not Obese
+9120,Not Obese
+9121,Not Obese
+9122,Not Obese
+9123,Not Obese
+9124,Not Obese
+9125,Not Obese
+9126,Not Obese
+9127,Not Obese
+9128,Not Obese
+9129,Obese
+9130,Not Obese
+9131,Not Obese
+9132,Not Obese
+9133,Not Obese
+9134,Not Obese
+9135,Not Obese
+9136,Not Obese
+9137,Not Obese
+9138,Not Obese
+9139,Not Obese
+9140,Not Obese
+9141,Not Obese
+9142,Not Obese
+9143,Not Obese
+9144,Not Obese
+9145,Not Obese
+9146,Not Obese
+9147,Not Obese
+9148,Not Obese
+9149,Not Obese
+9150,Not Obese
+9151,Not Obese
+9152,Not Obese
+9153,Not Obese
+9154,Not Obese
+9155,Not Obese
+9156,Not Obese
+9157,Not Obese
+9158,Not Obese
+9159,Not Obese
+9160,Not Obese
+9161,Not Obese
+9162,Not Obese
+9163,Not Obese
+9164,Not Obese
+9165,Obese
+9166,Obese
+9167,Obese
+9168,Obese
+9169,Obese
+9170,Obese
+9171,Not Obese
+9172,Obese
+9173,Not Obese
+9174,Not Obese
+9175,Obese
+9176,Obese
+9177,Not Obese
+9178,Not Obese
+9179,Obese
+9180,Obese
+9181,Not Obese
+9182,Not Obese
+9183,Not Obese
+9184,Not Obese
+9185,Not Obese
+9186,Not Obese
+9187,Not Obese
+9188,Not Obese
+9189,Not Obese
+9190,Not Obese
+9191,Not Obese
+9192,Not Obese
+9193,Not Obese
+9194,Not Obese
+9195,Not Obese
+9196,Not Obese
+9197,Obese
+9198,Obese
+9199,Obese
+9200,Obese
+9201,Obese
+9202,Obese
+9203,Not Obese
+9204,Obese
+9205,Obese
+9206,Not Obese
+9207,Not Obese
+9208,Not Obese
+9209,Obese
+9210,Obese
+9211,Not Obese
+9212,Not Obese
+9213,Not Obese
+9214,Not Obese
+9215,Not Obese
+9216,Not Obese
+9217,Not Obese
+9218,Not Obese
+9219,Not Obese
+9220,Not Obese
+9221,Not Obese
+9222,Not Obese
+9223,Not Obese
+9224,Not Obese
+9225,Obese
+9226,Obese
+9227,Obese
+9228,Obese
+9229,Not Obese
+9230,Obese
+9231,Obese
+9232,Obese
+9233,Obese
+9234,Obese
+9235,Not Obese
+9236,Not Obese
+9237,Not Obese
+9238,Not Obese
+9239,Not Obese
+9240,Not Obese
+9241,Not Obese
+9242,Not Obese
+9243,Not Obese
+9244,Not Obese
+9245,Not Obese
+9246,Not Obese
+9247,Not Obese
+9248,Not Obese
+9249,Not Obese
+9250,Not Obese
+9251,Not Obese
+9252,Not Obese
+9253,Obese
+9254,Not Obese
+9255,Not Obese
+9256,Not Obese
+9257,Not Obese
+9258,Not Obese
+9259,Not Obese
+9260,Not Obese
+9261,Not Obese
+9262,Not Obese
+9263,Not Obese
+9264,Not Obese
+9265,Not Obese
+9266,Not Obese
+9267,Not Obese
+9268,Not Obese
+9269,Not Obese
+9270,Not Obese
+9271,Not Obese
+9272,Not Obese
+9273,Not Obese
+9274,Not Obese
+9275,Not Obese
+9276,Not Obese
+9277,Not Obese
+9278,Not Obese
+9279,Not Obese
+9280,Not Obese
+9281,Not Obese
+9282,Not Obese
+9283,Not Obese
+9284,Not Obese
+9285,Not Obese
+9286,Obese
+9287,Not Obese
+9288,Not Obese
+9289,Not Obese
+9290,Not Obese
+9291,Not Obese
+9292,Not Obese
+9293,Not Obese
+9294,Not Obese
+9295,Not Obese
+9296,Not Obese
+9297,Not Obese
+9298,Not Obese
+9299,Not Obese
+9300,Not Obese
+9301,Not Obese
+9302,Not Obese
+9303,Not Obese
+9304,Not Obese
+9305,Not Obese
+9306,Not Obese
+9307,Not Obese
+9308,Not Obese
+9309,Not Obese
+9310,Not Obese
+9311,Not Obese
+9312,Not Obese
+9313,Not Obese
+9314,Not Obese
+9315,Not Obese
+9316,Not Obese
+9317,Not Obese
+9318,Not Obese
+9319,Not Obese
+9320,Not Obese
+9321,Not Obese
+9322,Not Obese
+9323,Not Obese
+9324,Not Obese
+9325,Not Obese
+9326,Not Obese
+9327,Not Obese
+9328,Not Obese
+9329,Not Obese
+9330,Not Obese
+9331,Not Obese
+9332,Not Obese
+9333,Not Obese
+9334,Not Obese
+9335,Obese
+9336,Not Obese
+9337,Not Obese
+9338,Not Obese
+9339,Not Obese
+9340,Not Obese
+9341,Not Obese
+9342,Not Obese
+9343,Not Obese
+9344,Not Obese
+9345,Not Obese
+9346,Not Obese
+9347,Not Obese
+9348,Obese
+9349,Obese
+9350,Obese
+9351,Obese
+9352,Obese
+9353,Obese
+9354,Obese
+9355,Obese
+9356,Obese
+9357,Obese
+9358,Not Obese
+9359,Not Obese
+9360,Obese
+9361,Obese
+9362,Obese
+9363,Obese
+9364,Obese
+9365,Obese
+9366,Obese
+9367,Obese
+9368,Obese
+9369,Obese
+9370,Obese
+9371,Obese
+9372,Obese
+9373,Obese
+9374,Obese
+9375,Obese
+9376,Obese
+9377,Obese
+9378,Obese
+9379,Obese
+9380,Obese
+9381,Obese
+9382,Obese
+9383,Obese
+9384,Not Obese
+9385,Not Obese
+9386,Not Obese
+9387,Not Obese
+9388,Not Obese
+9389,Not Obese
+9390,Not Obese
+9391,Not Obese
+9392,Not Obese
+9393,Not Obese
+9394,Not Obese
+9395,Not Obese
+9396,Not Obese
+9397,Not Obese
+9398,Not Obese
+9399,Not Obese
+9400,Not Obese
+9401,Not Obese
+9402,Not Obese
+9403,Not Obese
+9404,Not Obese
+9405,Not Obese
+9406,Not Obese
+9407,Not Obese
+9408,Not Obese
+9409,Not Obese
+9410,Not Obese
+9411,Not Obese
+9412,Not Obese
+9413,Not Obese
+9414,Not Obese
+9415,Not Obese
+9416,Not Obese
+9417,Not Obese
+9418,Not Obese
+9419,Not Obese
+9420,Not Obese
+9421,Not Obese
+9422,Not Obese
+9423,Not Obese
+9424,Not Obese
+9425,Not Obese
+9426,Not Obese
+9427,Not Obese
+9428,Not Obese
+9429,Not Obese
+9430,Not Obese
+9431,Not Obese
+9432,Not Obese
+9433,Not Obese
+9434,Not Obese
+9435,Not Obese
+9436,Not Obese
+9437,Not Obese
+9438,Not Obese
+9439,Not Obese
+9440,Not Obese
+9441,Not Obese
+9442,Not Obese
+9443,Not Obese
+9444,Not Obese
+9445,Not Obese
+9446,Not Obese
+9447,Not Obese
+9448,Not Obese
+9449,Not Obese
+9450,Not Obese
+9451,Not Obese
+9452,Not Obese
+9453,Obese
+9454,Obese
+9455,Obese
+9456,Obese
+9457,Obese
+9458,Obese
+9459,Obese
+9460,Obese
+9461,Obese
+9462,Obese
+9463,Obese
+9464,Obese
+9465,Obese
+9466,Obese
+9467,Obese
+9468,Obese
+9469,Obese
+9470,Not Obese
+9471,Not Obese
+9472,Not Obese
+9473,Not Obese
+9474,Not Obese
+9475,Not Obese
+9476,Not Obese
+9477,Not Obese
+9478,Not Obese
+9479,Not Obese
+9480,Not Obese
+9481,Not Obese
+9482,Not Obese
+9483,Not Obese
+9484,Obese
+9485,Obese
+9486,Not Obese
+9487,Not Obese
+9488,Not Obese
+9489,Not Obese
+9490,Not Obese
+9491,Not Obese
+9492,Not Obese
+9493,Not Obese
+9494,Not Obese
+9495,Not Obese
+9496,Not Obese
+9497,Not Obese
+9498,Not Obese
+9499,Obese
+9500,Not Obese
+9501,Not Obese
+9502,Not Obese
+9503,Obese
+9504,Not Obese
+9505,Not Obese
+9506,Not Obese
+9507,Not Obese
+9508,Not Obese
+9509,Not Obese
+9510,Not Obese
+9511,Not Obese
+9512,Not Obese
+9513,Not Obese
+9514,Not Obese
+9515,Not Obese
+9516,Not Obese
+9517,Not Obese
+9518,Not Obese
+9519,Not Obese
+9520,Not Obese
+9521,Not Obese
+9522,Not Obese
+9523,Not Obese
+9524,Not Obese
+9525,Not Obese
+9526,Not Obese
+9527,Not Obese
+9528,Not Obese
+9529,Not Obese
+9530,Not Obese
+9531,Not Obese
+9532,Not Obese
+9533,Not Obese
+9534,Not Obese
+9535,Not Obese
+9536,Not Obese
+9537,Not Obese
+9538,Not Obese
+9539,Not Obese
+9540,Not Obese
+9541,Not Obese
+9542,Not Obese
+9543,Not Obese
+9544,Not Obese
+9545,Not Obese
+9546,Not Obese
+9547,Not Obese
+9548,Not Obese
+9549,Not Obese
+9550,Not Obese
+9551,Not Obese
+9552,Not Obese
+9553,Not Obese
+9554,Not Obese
+9555,Obese
+9556,Obese
+9557,Obese
+9558,Obese
+9559,Obese
+9560,Obese
+9561,Obese
+9562,Obese
+9563,Obese
+9564,Obese
+9565,Obese
+9566,Obese
+9567,Obese
+9568,Obese
+9569,Obese
+9570,Obese
+9571,Obese
+9572,Not Obese
+9573,Not Obese
+9574,Not Obese
+9575,Not Obese
+9576,Not Obese
+9577,Not Obese
+9578,Not Obese
+9579,Not Obese
+9580,Not Obese
+9581,Not Obese
+9582,Not Obese
+9583,Not Obese
+9584,Not Obese
+9585,Not Obese
+9586,Not Obese
+9587,Not Obese
+9588,Not Obese
+9589,Not Obese
+9590,Not Obese
+9591,Not Obese
+9592,Not Obese
+9593,Not Obese
+9594,Not Obese
+9595,Not Obese
+9596,Not Obese
+9597,Not Obese
+9598,Not Obese
+9599,Not Obese
+9600,Not Obese
+9601,Not Obese
+9602,Not Obese
+9603,Not Obese
+9604,Not Obese
+9605,Not Obese
+9606,Not Obese
+9607,Not Obese
+9608,Not Obese
+9609,Not Obese
+9610,Not Obese
+9611,Not Obese
+9612,Not Obese
+9613,Not Obese
+9614,Not Obese
+9615,Not Obese
+9616,Not Obese
+9617,Not Obese
+9618,Not Obese
+9619,Not Obese
+9620,Not Obese
+9621,Not Obese
+9622,Not Obese
+9623,Not Obese
+9624,Not Obese
+9625,Not Obese
+9626,Not Obese
+9627,Not Obese
+9628,Not Obese
+9629,Not Obese
+9630,Not Obese
+9631,Not Obese
+9632,Not Obese
+9633,Not Obese
+9634,Not Obese
+9635,Not Obese
+9636,Not Obese
+9637,Not Obese
+9638,Not Obese
+9639,Not Obese
+9640,Not Obese
+9641,Not Obese
+9642,Not Obese
+9643,Not Obese
+9644,Not Obese
+9645,Not Obese
+9646,Not Obese
+9647,Not Obese
+9648,Not Obese
+9649,Not Obese
+9650,Not Obese
+9651,Not Obese
+9652,Not Obese
+9653,Not Obese
+9654,Not Obese
+9655,Not Obese
+9656,Not Obese
+9657,Not Obese
+9658,Not Obese
+9659,Not Obese
+9660,Not Obese
+9661,Not Obese
+9662,Not Obese
+9663,Not Obese
+9664,Not Obese
+9665,Not Obese
+9666,Not Obese
+9667,Not Obese
+9668,Not Obese
+9669,Not Obese
+9670,Not Obese
+9671,Not Obese
+9672,Not Obese
+9673,Not Obese
+9674,Not Obese
+9675,Not Obese
+9676,Not Obese
+9677,Not Obese
+9678,Not Obese
+9679,Not Obese
+9680,Obese
+9681,Not Obese
+9682,Not Obese
+9683,Not Obese
+9684,Not Obese
+9685,Not Obese
+9686,Not Obese
+9687,Not Obese
+9688,Not Obese
+9689,Not Obese
+9690,Not Obese
+9691,Not Obese
+9692,Not Obese
+9693,Not Obese
+9694,Not Obese
+9695,Not Obese
+9696,Obese
+9697,Not Obese
+9698,Not Obese
+9699,Not Obese
+9700,Not Obese
+9701,Not Obese
+9702,Not Obese
+9703,Not Obese
+9704,Not Obese
+9705,Not Obese
+9706,Not Obese
+9707,Not Obese
+9708,Not Obese
+9709,Not Obese
+9710,Not Obese
+9711,Not Obese
+9712,Not Obese
+9713,Not Obese
+9714,Not Obese
+9715,Not Obese
+9716,Not Obese
+9717,Not Obese
+9718,Not Obese
+9719,Not Obese
+9720,Not Obese
+9721,Not Obese
+9722,Not Obese
+9723,Not Obese
+9724,Not Obese
+9725,Not Obese
+9726,Not Obese
+9727,Not Obese
+9728,Not Obese
+9729,Not Obese
+9730,Not Obese
+9731,Not Obese
+9732,Not Obese
+9733,Not Obese
+9734,Not Obese
+9735,Not Obese
+9736,Obese
+9737,Not Obese
+9738,Not Obese
+9739,Not Obese
+9740,Not Obese
+9741,Not Obese
+9742,Not Obese
+9743,Not Obese
+9744,Obese
+9745,Not Obese
+9746,Not Obese
+9747,Not Obese
+9748,Not Obese
+9749,Not Obese
+9750,Not Obese
+9751,Not Obese
+9752,Not Obese
+9753,Not Obese
+9754,Not Obese
+9755,Obese
+9756,Not Obese
+9757,Not Obese
+9758,Not Obese
+9759,Not Obese
+9760,Obese
+9761,Not Obese
+9762,Not Obese
+9763,Not Obese
+9764,Not Obese
+9765,Not Obese
+9766,Not Obese
+9767,Not Obese
+9768,Not Obese
+9769,Not Obese
+9770,Not Obese
+9771,Not Obese
+9772,Not Obese
+9773,Not Obese
+9774,Not Obese
+9775,Not Obese
+9776,Not Obese
+9777,Obese
+9778,Obese
+9779,Not Obese
+9780,Obese
+9781,Not Obese
+9782,Obese
+9783,Obese
+9784,Obese
+9785,Obese
+9786,Not Obese
+9787,Obese
+9788,Obese
+9789,Obese
+9790,Obese
+9791,Not Obese
+9792,Obese
+9793,Obese
+9794,Obese
+9795,Obese
+9796,Not Obese
+9797,Obese
+9798,Not Obese
+9799,Not Obese
+9800,Not Obese
+9801,Obese
+9802,Not Obese
+9803,Not Obese
+9804,Not Obese
+9805,Not Obese
+9806,Not Obese
+9807,Not Obese
+9808,Not Obese
+9809,Not Obese
+9810,Not Obese
+9811,Not Obese
+9812,Not Obese
+9813,Not Obese
+9814,Not Obese
+9815,Not Obese
+9816,Not Obese
+9817,Not Obese
+9818,Not Obese
+9819,Not Obese
+9820,Not Obese
+9821,Not Obese
+9822,Not Obese
+9823,Not Obese
+9824,Not Obese
+9825,Not Obese
+9826,Not Obese
+9827,Not Obese
+9828,Obese
+9829,Not Obese
+9830,Not Obese
+9831,Not Obese
+9832,Not Obese
+9833,Not Obese
+9834,Not Obese
+9835,Not Obese
+9836,Not Obese
+9837,Not Obese
+9838,Not Obese
+9839,Not Obese
+9840,Not Obese
+9841,Not Obese
+9842,Not Obese
+9843,Not Obese
+9844,Not Obese
+9845,Not Obese
+9846,Not Obese
+9847,Not Obese
+9848,Not Obese
+9849,Not Obese
+9850,Not Obese
+9851,Not Obese
+9852,Not Obese
+9853,Not Obese
+9854,Not Obese
+9855,Not Obese
+9856,Not Obese
+9857,Not Obese
+9858,Not Obese
+9859,Not Obese
+9860,Not Obese
+9861,Not Obese
+9862,Not Obese
+9863,Not Obese
+9864,Not Obese
+9865,Not Obese
+9866,Not Obese
+9867,Not Obese
+9868,Not Obese
+9869,Not Obese
+9870,Not Obese
+9871,Not Obese
+9872,Not Obese
+9873,Not Obese
+9874,Not Obese
+9875,Not Obese
+9876,Not Obese
+9877,Not Obese
+9878,Not Obese
+9879,Not Obese
+9880,Not Obese
+9881,Not Obese
+9882,Not Obese
+9883,Not Obese
+9884,Not Obese
+9885,Not Obese
+9886,Not Obese
+9887,Not Obese
+9888,Not Obese
+9889,Not Obese
+9890,Not Obese
+9891,Not Obese
+9892,Not Obese
+9893,Not Obese
+9894,Not Obese
+9895,Not Obese
+9896,Not Obese
+9897,Not Obese
+9898,Not Obese
+9899,Not Obese
+9900,Not Obese
+9901,Not Obese
+9902,Not Obese
+9903,Not Obese
+9904,Not Obese
+9905,Not Obese
+9906,Not Obese
+9907,Not Obese
+9908,Not Obese
+9909,Not Obese
+9910,Obese
+9911,Obese
+9912,Obese
+9913,Obese
+9914,Obese
+9915,Not Obese
+9916,Obese
+9917,Obese
+9918,Obese
+9919,Obese
+9920,Obese
+9921,Obese
+9922,Obese
+9923,Obese
+9924,Obese
+9925,Obese
+9926,Obese
+9927,Obese
+9928,Obese
+9929,Obese
+9930,Obese
+9931,Obese
+9932,Obese
+9933,Obese
+9934,Not Obese
+9935,Obese
+9936,Obese
+9937,Obese
+9938,Not Obese
+9939,Obese
+9940,Obese
+9941,Obese
+9942,Obese
+9943,Not Obese
+9944,Not Obese
+9945,Not Obese
+9946,Obese
+9947,Obese
+9948,Not Obese
+9949,Obese
+9950,Obese
+9951,Not Obese
+9952,Not Obese
+9953,Not Obese
+9954,Not Obese
+9955,Not Obese
+9956,Not Obese
+9957,Obese
+9958,Obese
+9959,Not Obese
+9960,Not Obese
+9961,Obese
+9962,Obese
+9963,Not Obese
+9964,Obese
+9965,Not Obese
+9966,Not Obese
+9967,Not Obese
+9968,Not Obese
+9969,Not Obese
+9970,Not Obese
+9971,Not Obese
+9972,Not Obese
+9973,Not Obese
+9974,Not Obese
+9975,Not Obese
+9976,Not Obese
+9977,Not Obese
+9978,Not Obese
+9979,Not Obese
+9980,Not Obese
+9981,Not Obese
+9982,Not Obese
+9983,Not Obese
+9984,Not Obese
+9985,Not Obese
+9986,Not Obese
+9987,Not Obese
+9988,Not Obese
+9989,Not Obese
+9990,Not Obese
+9991,Not Obese
+9992,Not Obese
+9993,Not Obese
+9994,Not Obese
+9995,Not Obese
+9996,Not Obese
+9997,Not Obese
+9998,Not Obese
+9999,Not Obese
+10000,Not Obese
+10001,Not Obese
+10002,Not Obese
+10003,Not Obese
+10004,Not Obese
+10005,Not Obese
+10006,Not Obese
+10007,Not Obese
+10008,Not Obese
+10009,Not Obese
+10010,Not Obese
+10011,Not Obese
+10012,Not Obese
+10013,Not Obese
+10014,Not Obese
+10015,Not Obese
+10016,Not Obese
+10017,Not Obese
+10018,Not Obese
+10019,Not Obese
+10020,Not Obese
+10021,Not Obese
+10022,Not Obese
+10023,Not Obese
+10024,Not Obese
+10025,Not Obese
+10026,Not Obese
+10027,Not Obese
+10028,Not Obese
+10029,Not Obese
+10030,Not Obese
+10031,Not Obese
+10032,Not Obese
+10033,Not Obese
+10034,Not Obese
+10035,Not Obese
+10036,Obese
+10037,Not Obese
+10038,Obese
+10039,Not Obese
+10040,Obese
+10041,Not Obese
+10042,Not Obese
+10043,Obese
+10044,Not Obese
+10045,Not Obese
+10046,Not Obese
+10047,Obese
+10048,Not Obese
+10049,Not Obese
+10050,Obese
+10051,Not Obese
+10052,Not Obese
+10053,Not Obese
+10054,Not Obese
+10055,Not Obese
+10056,Not Obese
+10057,Not Obese
+10058,Not Obese
+10059,Not Obese
+10060,Not Obese
+10061,Obese
+10062,Not Obese
+10063,Not Obese
+10064,Not Obese
+10065,Not Obese
+10066,Not Obese
+10067,Not Obese
+10068,Not Obese
+10069,Not Obese
+10070,Not Obese
+10071,Not Obese
+10072,Not Obese
+10073,Not Obese
+10074,Not Obese
+10075,Not Obese
+10076,Not Obese
+10077,Not Obese
+10078,Not Obese
+10079,Not Obese
+10080,Not Obese
+10081,Not Obese
+10082,Not Obese
+10083,Not Obese
+10084,Not Obese
+10085,Not Obese
+10086,Not Obese
+10087,Not Obese
+10088,Not Obese
+10089,Not Obese
+10090,Not Obese
+10091,Obese
+10092,Obese
+10093,Obese
+10094,Not Obese
+10095,Obese
+10096,Obese
+10097,Obese
+10098,Obese
+10099,Obese
+10100,Obese
+10101,Obese
+10102,Obese
+10103,Obese
+10104,Obese
+10105,Obese
+10106,Obese
+10107,Obese
+10108,Obese
+10109,Obese
+10110,Obese
+10111,Obese
+10112,Not Obese
+10113,Not Obese
+10114,Not Obese
+10115,Not Obese
+10116,Not Obese
+10117,Not Obese
+10118,Not Obese
+10119,Not Obese
+10120,Not Obese
+10121,Not Obese
+10122,Not Obese
+10123,Not Obese
+10124,Not Obese
+10125,Not Obese
+10126,Not Obese
+10127,Not Obese
+10128,Not Obese
+10129,Not Obese
+10130,Not Obese
+10131,Not Obese
+10132,Not Obese
+10133,Not Obese
+10134,Not Obese
+10135,Not Obese
+10136,Not Obese
+10137,Not Obese
+10138,Not Obese
+10139,Not Obese
+10140,Obese
+10141,Obese
+10142,Obese
+10143,Not Obese
+10144,Obese
+10145,Obese
+10146,Obese
+10147,Obese
+10148,Obese
+10149,Obese
+10150,Obese
+10151,Not Obese
+10152,Obese
+10153,Obese
+10154,Not Obese
+10155,Obese
+10156,Obese
+10157,Not Obese
+10158,Obese
+10159,Not Obese
+10160,Obese
+10161,Obese
+10162,Not Obese
+10163,Not Obese
+10164,Not Obese
+10165,Obese
+10166,Not Obese
+10167,Obese
+10168,Obese
+10169,Obese
+10170,Obese
+10171,Obese
+10172,Obese
+10173,Obese
+10174,Obese
+10175,Not Obese
+10176,Not Obese
+10177,Obese
+10178,Not Obese
+10179,Obese
+10180,Obese
+10181,Not Obese
+10182,Obese
+10183,Not Obese
+10184,Obese
+10185,Not Obese
+10186,Obese
+10187,Obese
+10188,Not Obese
+10189,Not Obese
+10190,Obese
+10191,Obese
+10192,Not Obese
+10193,Obese
+10194,Obese
+10195,Obese
+10196,Obese
+10197,Obese
+10198,Obese
+10199,Not Obese
+10200,Not Obese
+10201,Not Obese
+10202,Not Obese
+10203,Not Obese
+10204,Not Obese
+10205,Not Obese
+10206,Not Obese
+10207,Not Obese
+10208,Not Obese
+10209,Not Obese
+10210,Not Obese
+10211,Not Obese
+10212,Not Obese
+10213,Not Obese
+10214,Not Obese
+10215,Not Obese
+10216,Not Obese
+10217,Not Obese
+10218,Not Obese
+10219,Not Obese
+10220,Not Obese
+10221,Not Obese
+10222,Not Obese
+10223,Not Obese
+10224,Not Obese
+10225,Not Obese
+10226,Not Obese
+10227,Not Obese
+10228,Not Obese
+10229,Not Obese
+10230,Not Obese
+10231,Not Obese
+10232,Not Obese
+10233,Not Obese
+10234,Not Obese
+10235,Not Obese
+10236,Not Obese
+10237,Not Obese
+10238,Not Obese
+10239,Not Obese
+10240,Not Obese
+10241,Not Obese
+10242,Not Obese
+10243,Not Obese
+10244,Not Obese
+10245,Not Obese
+10246,Not Obese
+10247,Not Obese
+10248,Not Obese
+10249,Not Obese
+10250,Not Obese
+10251,Not Obese
+10252,Not Obese
+10253,Not Obese
+10254,Not Obese
+10255,Not Obese
+10256,Not Obese
+10257,Not Obese
+10258,Not Obese
+10259,Not Obese
+10260,Not Obese
+10261,Not Obese
+10262,Not Obese
+10263,Not Obese
+10264,Not Obese
+10265,Not Obese
+10266,Not Obese
+10267,Not Obese
+10268,Not Obese
+10269,Obese
+10270,Not Obese
+10271,Not Obese
+10272,Not Obese
+10273,Not Obese
+10274,Not Obese
+10275,Not Obese
+10276,Not Obese
+10277,Not Obese
+10278,Not Obese
+10279,Not Obese
+10280,Not Obese
+10281,Not Obese
+10282,Not Obese
+10283,Not Obese
+10284,Not Obese
+10285,Not Obese
+10286,Obese
+10287,Not Obese
+10288,Not Obese
+10289,Not Obese
+10290,Not Obese
+10291,Not Obese
+10292,Not Obese
+10293,Not Obese
+10294,Not Obese
+10295,Not Obese
+10296,Not Obese
+10297,Not Obese
+10298,Not Obese
+10299,Not Obese
+10300,Not Obese
+10301,Not Obese
+10302,Not Obese
+10303,Not Obese
+10304,Not Obese
+10305,Not Obese
+10306,Not Obese
+10307,Not Obese
+10308,Not Obese
+10309,Not Obese
+10310,Not Obese
+10311,Not Obese
+10312,Not Obese
+10313,Not Obese
+10314,Not Obese
+10315,Not Obese
+10316,Not Obese
+10317,Not Obese
+10318,Not Obese
+10319,Not Obese
+10320,Not Obese
+10321,Not Obese
+10322,Not Obese
+10323,Not Obese
+10324,Not Obese
+10325,Not Obese
+10326,Not Obese
+10327,Obese
+10328,Not Obese
+10329,Obese
+10330,Obese
+10331,Not Obese
+10332,Not Obese
+10333,Not Obese
+10334,Obese
+10335,Not Obese
+10336,Not Obese
+10337,Obese
+10338,Obese
+10339,Obese
+10340,Not Obese
+10341,Not Obese
+10342,Obese
+10343,Obese
+10344,Obese
+10345,Obese
+10346,Not Obese
+10347,Obese
+10348,Obese
+10349,Not Obese
+10350,Not Obese
+10351,Obese
+10352,Not Obese
+10353,Obese
+10354,Not Obese
+10355,Not Obese
+10356,Obese
+10357,Not Obese
+10358,Obese
+10359,Obese
+10360,Obese
+10361,Obese
+10362,Obese
+10363,Obese
+10364,Obese
+10365,Obese
+10366,Obese
+10367,Not Obese
+10368,Not Obese
+10369,Obese
+10370,Obese
+10371,Obese
+10372,Not Obese
+10373,Obese
+10374,Not Obese
+10375,Obese
+10376,Not Obese
+10377,Obese
+10378,Obese
+10379,Not Obese
+10380,Not Obese
+10381,Not Obese
+10382,Not Obese
+10383,Not Obese
+10384,Not Obese
+10385,Not Obese
+10386,Not Obese
+10387,Not Obese
+10388,Obese
+10389,Not Obese
+10390,Not Obese
+10391,Not Obese
+10392,Not Obese
+10393,Obese
+10394,Not Obese
+10395,Not Obese
+10396,Obese
+10397,Obese
+10398,Not Obese
+10399,Not Obese
+10400,Obese
+10401,Obese
+10402,Not Obese
+10403,Not Obese
+10404,Not Obese
+10405,Not Obese
+10406,Not Obese
+10407,Not Obese
+10408,Not Obese
+10409,Not Obese
+10410,Not Obese
+10411,Not Obese
+10412,Not Obese
+10413,Not Obese
+10414,Not Obese
+10415,Not Obese
+10416,Not Obese
+10417,Not Obese
+10418,Not Obese
+10419,Not Obese
+10420,Not Obese
+10421,Not Obese
+10422,Not Obese
+10423,Not Obese
+10424,Not Obese
+10425,Not Obese
+10426,Not Obese
+10427,Not Obese
+10428,Not Obese
+10429,Not Obese
+10430,Not Obese
+10431,Not Obese
+10432,Not Obese
+10433,Not Obese
+10434,Not Obese
+10435,Not Obese
+10436,Not Obese
+10437,Obese
+10438,Not Obese
+10439,Not Obese
+10440,Not Obese
+10441,Not Obese
+10442,Not Obese
+10443,Not Obese
+10444,Not Obese
+10445,Not Obese
+10446,Not Obese
+10447,Not Obese
+10448,Not Obese
+10449,Not Obese
+10450,Not Obese
+10451,Not Obese
+10452,Not Obese
+10453,Not Obese
+10454,Not Obese
+10455,Not Obese
+10456,Not Obese
+10457,Not Obese
+10458,Not Obese
+10459,Not Obese
+10460,Not Obese
+10461,Not Obese
+10462,Obese
+10463,Obese
+10464,Obese
+10465,Obese
+10466,Obese
+10467,Not Obese
+10468,Obese
+10469,Obese
+10470,Obese
+10471,Obese
+10472,Not Obese
+10473,Obese
+10474,Obese
+10475,Not Obese
+10476,Not Obese
+10477,Obese
+10478,Obese
+10479,Obese
+10480,Obese
+10481,Obese
+10482,Obese
+10483,Obese
+10484,Not Obese
+10485,Obese
+10486,Obese
+10487,Obese
+10488,Not Obese
+10489,Not Obese
+10490,Not Obese
+10491,Not Obese
+10492,Not Obese
+10493,Not Obese
+10494,Not Obese
+10495,Not Obese
+10496,Not Obese
+10497,Not Obese
+10498,Not Obese
+10499,Obese
+10500,Not Obese
+10501,Not Obese
+10502,Not Obese
+10503,Not Obese
+10504,Not Obese
+10505,Not Obese
+10506,Not Obese
+10507,Not Obese
+10508,Not Obese
+10509,Not Obese
+10510,Not Obese
+10511,Not Obese
+10512,Not Obese
+10513,Not Obese
+10514,Obese
+10515,Not Obese
+10516,Not Obese
+10517,Not Obese
+10518,Not Obese
+10519,Obese
+10520,Obese
+10521,Obese
+10522,Obese
+10523,Obese
+10524,Obese
+10525,Obese
+10526,Obese
+10527,Obese
+10528,Obese
+10529,Obese
+10530,Obese
+10531,Obese
+10532,Obese
+10533,Obese
+10534,Obese
+10535,Obese
+10536,Obese
+10537,Obese
+10538,Obese
+10539,Obese
+10540,Obese
+10541,Obese
+10542,Obese
+10543,Obese
+10544,Obese
+10545,Obese
+10546,Obese
+10547,Obese
+10548,Obese
+10549,Obese
+10550,Obese
+10551,Obese
+10552,Not Obese
+10553,Not Obese
+10554,Not Obese
+10555,Not Obese
+10556,Not Obese
+10557,Not Obese
+10558,Not Obese
+10559,Not Obese
+10560,Not Obese
+10561,Not Obese
+10562,Not Obese
+10563,Not Obese
+10564,Not Obese
+10565,Not Obese
+10566,Not Obese
+10567,Not Obese
+10568,Not Obese
+10569,Not Obese
+10570,Not Obese
+10571,Not Obese
+10572,Not Obese
+10573,Not Obese
+10574,Not Obese
+10575,Not Obese
+10576,Not Obese
+10577,Not Obese
+10578,Not Obese
+10579,Not Obese
+10580,Not Obese
+10581,Not Obese
+10582,Not Obese
+10583,Not Obese
+10584,Not Obese
+10585,Not Obese
+10586,Not Obese
+10587,Not Obese
+10588,Not Obese
+10589,Not Obese
+10590,Not Obese
+10591,Not Obese
+10592,Not Obese
+10593,Not Obese
+10594,Not Obese
+10595,Not Obese
+10596,Not Obese
+10597,Not Obese
+10598,Not Obese
+10599,Not Obese
+10600,Not Obese
+10601,Not Obese
+10602,Not Obese
+10603,Not Obese
+10604,Not Obese
+10605,Not Obese
+10606,Not Obese
+10607,Not Obese
+10608,Not Obese
+10609,Not Obese
+10610,Not Obese
+10611,Not Obese
+10612,Not Obese
+10613,Not Obese
+10614,Not Obese
+10615,Not Obese
+10616,Not Obese
+10617,Not Obese
+10618,Not Obese
+10619,Not Obese
+10620,Not Obese
+10621,Not Obese
+10622,Not Obese
+10623,Not Obese
+10624,Not Obese
+10625,Not Obese
+10626,Not Obese
+10627,Not Obese
+10628,Not Obese
+10629,Not Obese
+10630,Not Obese
+10631,Not Obese
+10632,Not Obese
+10633,Not Obese
+10634,Not Obese
+10635,Not Obese
+10636,Not Obese
+10637,Not Obese
+10638,Not Obese
+10639,Not Obese
+10640,Not Obese
+10641,Not Obese
+10642,Not Obese
+10643,Not Obese
+10644,Not Obese
+10645,Not Obese
+10646,Not Obese
+10647,Not Obese
+10648,Not Obese
+10649,Not Obese
+10650,Not Obese
+10651,Not Obese
+10652,Not Obese
+10653,Not Obese
+10654,Not Obese
+10655,Not Obese
+10656,Not Obese
+10657,Not Obese
+10658,Not Obese
+10659,Not Obese
+10660,Not Obese
+10661,Not Obese
+10662,Not Obese
+10663,Not Obese
+10664,Not Obese
+10665,Not Obese
+10666,Not Obese
+10667,Not Obese
+10668,Not Obese
+10669,Not Obese
+10670,Not Obese
+10671,Not Obese
+10672,Not Obese
