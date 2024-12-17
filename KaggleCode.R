@@ -1,12 +1,6 @@
----
-title: "Kaggle Code"
-author: "Briana Nguyen"
-date: "2024-11-25"
-output: html_document
----
 
-```{r}
 # Load in libraries
+
 library(ggplot2)
 library(reshape2)
 library(mice)
@@ -15,36 +9,29 @@ library(glmnet)
 library(tree)
 library(randomForest)
 library(e1071)
-```
+
+############################################################################################################################################
 
 # Load in Data 
 
-```{r}
 origTrain <- read.csv("/Users/briannanguyen/Desktop/Kaggle/ObesityTrain.csv", stringsAsFactors = TRUE) # original data
 Xtest <- read.csv("/Users/briannanguyen/Desktop/Kaggle/ObesityTest.csv", stringsAsFactors = TRUE)
 
 cat("Dimensions of Training Data:", dim(origTrain), "\n")
 cat("Dimensions of Testing Data:", dim(Xtest))
-```
 
-```{r}
+# Data Structure 
 str(origTrain)
-```
-
-```{r}
 summary(origTrain)
-```
 
-```{r}
+# Proportion Response Variable
 tab <- table(origTrain$ObStatus)
 prop.table(tab)
-```
 
+############################################################################################################################################
+########################################################### Data Cleaning ##################################################################
+############################################################################################################################################
 
-
-# Data Cleaning
-
-```{r}
 # Barchart of Missing Training and Testing Data
 
 # Using ggplot
@@ -67,11 +54,10 @@ library(VIM)
 
 missing_plot <- aggr(origTrain[, 1:14], col=c('navyblue','yellow'), numbers=TRUE, sortVars=TRUE, labels=names(origTrain[1:14]), cex.axis=.7, gap=3, ylab=c("Missing data","Pattern"))
 
-```
+############################################################################################################################################
 
 # Data Imputation Using Mice
 
-```{r}
 #traindataTemp <- mice(Xtrain, m = 5, maxit = 5)
 #XtrainNew <- complete(traindataTemp,1)
 #testdataTemp <- mice(Xtest, m = 5, maxit = 5)
@@ -96,13 +82,13 @@ XtrainNew <- train[, -30]
 YtrainNew <- train[, 30]
 
 head(XtrainNew, 10)
-```
 
-# EDA
+############################################################################################################################################
+################################################### Exploratory Data Analysis ##############################################################
+############################################################################################################################################
 
 ## Correlation Matrix 
 
-```{r}
 categorical <- names(XtrainNew)[sapply(XtrainNew, is.character)]
 numeric <- names(XtrainNew)[sapply(XtrainNew, is.numeric)]
 
@@ -114,19 +100,19 @@ ggplot(data = melted_corr_mat, aes(x=Var1, y=Var2, fill=value)) +
   geom_text(aes(Var2, Var1, label = value), color = "white", size = 3) +
   theme(axis.text.x = element_text(size = 8, angle = 30, hjust = 1, vjust = 1), axis.text.y = element_text(size = 8)) +
   labs(title = "Correlation Matrix") + xlab("") + ylab("") 
-```
+
+############################################################################################################################################
 
 ## Histogram
 
-```{r}
 library(Hmisc)
 hist.data.frame(XtrainNew[numeric]) 
 mtext("Distribution for Numeric Variables", side = 3, outer = TRUE, line = -2, cex = 1)
-```
+
+############################################################################################################################################
 
 ## Density Plots
 
-```{r}
 library(ggpubr)
 
 data <- train
@@ -151,11 +137,11 @@ figure
 figure <- ggarrange(p1, p2, p4, p5, p6, ncol = 2, nrow = 3)
 figure <- annotate_figure(figure, top = text_grob("Density Plots", face = "bold", size = 15))
 figure
-```
+
+############################################################################################################################################
 
 ## Boxplots
 
-```{r}
 p1 <- ggplot(data, aes(y=Age, x=ObStatus)) + geom_boxplot() + theme_minimal() + theme(axis.text.x = element_text(size = 7))
 p2 <- ggplot(data, aes(y=Height, x=ObStatus)) + geom_boxplot() + theme_minimal() + theme(axis.text.x = element_text(size = 7))
 p3 <- ggplot(data, aes(y=NCP, x=ObStatus)) + geom_boxplot() + theme_minimal() + theme(axis.text.x = element_text(size = 7))
@@ -171,11 +157,10 @@ figure <- ggarrange(p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, ncol = 5, nrow = 2)
 figure <- annotate_figure(figure, top = text_grob("Boxplots of Numeric Variables", size = 15))
 figure
 
-```
+############################################################################################################################################
 
 ## Barcharts 
 
-```{r}
 # Counts
 p11 <- ggplot(data, aes(x = Gender, fill = ObStatus))+ geom_bar(stat = "count", position = "stack") + theme_minimal()
 p12 <- ggplot(data, aes(x = family_history_with_overweight, fill = ObStatus))+ geom_bar(stat = "count", position = "stack") + theme_minimal()
@@ -204,8 +189,7 @@ figure <- ggarrange(p11, p12, p13, p14, p15, p16, p17, p18, p19, p20, p21, p22, 
                     ncol = 6, nrow = 3, common.legend = TRUE, legend = "bottom") 
 figure <- annotate_figure(figure, top = text_grob("Barcharts for Categorical Variables", size = 15))
 figure
-```
-```{r}
+
 # Proportion
 p11 <- ggplot(data) + aes(x = Gender, fill = ObStatus) + geom_bar(position = "fill") + ylab("Freq") + theme_minimal()
 p12 <- ggplot(data) + aes(x = family_history_with_overweight, fill = ObStatus) + geom_bar(position = "fill") + ylab("Freq") + theme_minimal()
@@ -233,13 +217,13 @@ p28 <- ggplot(data) + aes(x = stroke, fill = ObStatus) + geom_bar(position = "fi
 figure <- ggarrange(p11, p12, p13, p14, p15, p16, p17, p18, p19, p20, p21, p22, p23, p24, p25, p26, p27, p28, ncol = 6, nrow = 3, common.legend = TRUE, legend = "bottom") 
 figure <- annotate_figure(figure, top = text_grob("Barcharts for Categorical Variables", size = 15))
 figure
-```
 
-# Models
+############################################################################################################################################
+########################################################### Predictive Models ##############################################################
+############################################################################################################################################
 
 ## Logistic 
 
-```{r}
 # Logsitic Performance Function
 logisticMisclass <- function(log_model){
   glm.pred <- predict(log_model, newdata = XtrainNew, type = "response")
@@ -247,10 +231,7 @@ logisticMisclass <- function(log_model){
   tab <- table(glm.pred, Ytrain)
   cat("Accuracy:", sum(as.numeric(tab)[c(1, 4)]) / sum(as.numeric(tab)), "\n", "Confusion Matrix:", tab, "\n")
 }
-```
 
-
-```{r}
 # Full Model
 log1 <- glm(as.factor(ObStatus) ~., family = binomial(), train)
 summary(log1)
@@ -269,11 +250,9 @@ log2_preds <- predict(log2,newdata=test, type = "response")
 log2_preds <- ifelse(log2_preds >= 0.5, "Obese", "Not Obese")
 reducedLogResults <- data.frame("ID" = seq(1, nrow(test)), "ObStatus" = log2_preds)
 write.csv(reducedLogResults, file = "/Users/briannanguyen/Desktop/Kaggle/reducedLogResults.csv", row.names = FALSE, quote = FALSE)
-```
 
 ### Stepwise Logistic Regression
 
-```{r}
 # BIC 
 BIC_model <- step(log1, direction = "both", k = log(nrow(train)), trace = 1)
 summary(BIC_model)
@@ -306,11 +285,9 @@ AIC_preds <- predict(AIClog,newdata=test, type = "response")
 AIC_preds <- ifelse(AIC_preds >= 0.5, "Obese", "Not Obese")
 AICLogResults <- data.frame("ID" = seq(1, nrow(test)), "ObStatus" = AIC_preds)
 write.csv(AICLogResults, file = "/Users/briannanguyen/Desktop/Kaggle/AICLogResults.csv", row.names = FALSE, quote = FALSE)
-```
 
 ### Regularization 
 
-```{r}
 library(glmnet)
 x <- model.matrix(ObStatus ~ ., train)[,-1]
 y <- train$ObStatus 
@@ -356,11 +333,11 @@ ridge_preds <- predict(ridge_model,s=ridge_model$lambda.min, newx=regtest, type 
 ridge_preds <- ifelse(ridge_preds >= 0.5, "Obese", "Not Obese")
 ridgeResults <- data.frame("ID" = seq(1, nrow(test)), "ObStatus" = ridge_preds)
 write.csv(ridgeResults, file = "/Users/briannanguyen/Desktop/Kaggle/ridgeResults.csv", row.names = FALSE, quote = FALSE)
-```
+
+############################################################################################################################################
 
 ## Decision Tree
 
-```{r}
 # Full tree
 full <- tree(as.factor(ObStatus)~.,data=train) 
 
@@ -386,11 +363,11 @@ summary(pruned)
 pred.pr <- predict(pruned,newdata=train,type="class")
 tab <- table(pred.pr,train$ObStatus)
 cat("Accuracy:", sum(as.numeric(tab)[c(1, 4)]) / sum(as.numeric(tab)))
-```
+
+############################################################################################################################################
 
 ## Random Forests
 
-```{r}
 # Full random forest 
 rm1 <- randomForest(as.factor(ObStatus)~.,data=train,importance=TRUE) # Forest 0.9843818
 pred.rm <- predict(rm1,data=train)
@@ -410,11 +387,11 @@ rm3 <- randomForest(as.factor(ObStatus)~.,data=train,importance=TRUE, ntree = 25
 pred.rm <- predict(rm3,data=train)
 tab <- table(train$ObStatus,pred.rm)
 cat("Accuracy:", sum(as.numeric(tab)[c(1, 4)]) / sum(as.numeric(tab)))
-```
+
+############################################################################################################################################
 
 ## Support Vector Machines
 
-```{r}
 library(e1071)
 
 train$ObStatus <- as.factor(train$ObStatus)
@@ -460,12 +437,11 @@ svmfit4=svm(ObStatus~.,data=train,kernel="sigmoid")
 preds.tr=predict(svmfit4,data=train)
 tab <- table(preds.tr,train$ObStatus)
 cat("Accuracy:", sum(as.numeric(tab)[c(1, 4)]) / sum(as.numeric(tab)))
-```
 
+############################################################################################################################################
 
 # Barcharts for Logistic and SVM Models
 
-```{r}
 # Logistic Models
 log_df <- data.frame(
   "Model" = rep(c("Full", "Reduced", "Ridge", "Lasso", "AIC Step", "BIC Step"),2),
@@ -497,7 +473,6 @@ ggplot(svm_df, aes(x = Kernel, y = Accuracy, fill = Data)) +
   scale_y_continuous(name = "Accuracy (%)", limits = c(0, 100)) + theme_minimal() +
   theme(legend.position = "bottom") + 
   labs(title = "Comparison of Training and Testing Accuracy by Kernel") 
-```
 
 
 
